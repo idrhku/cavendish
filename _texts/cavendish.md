@@ -25,7 +25,7 @@ toc:
 
 
 ---
-## [Title Page]
+[Title Page]
 
 # PHILOSOPHICAL 
 # AND 
@@ -39,7 +39,7 @@ toc:
 ### LONDON Printed by William Wilson, *Anno Dom*. M.DC.LXIII.
 
 ---
-## [Dedication]
+[Dedication]
 
 <page I>
 
