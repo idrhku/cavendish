@@ -25,7 +25,7 @@ toc:
 
 
 ---
-## [Title Page]
+[Title Page]
 
 # PHILOSOPHICAL 
 # AND 
@@ -39,7 +39,7 @@ toc:
 ### LONDON Printed by William Wilson, *Anno Dom*. M.DC.LXIII.
 
 ---
-## [Dedication]
+[Dedication]
 
 [page I]
 
@@ -59,7 +59,7 @@ toc:
 - And all their Cables Slacken'd, Lost their Hope;
 {:.poetry}
 
-<page II>
+[page II]
 
 - Their Judgments, Understandings, Drowned so,
 - Because they Writ of what they did not Know,
@@ -69,10 +69,12 @@ toc:
 - Reading her Book, 'twill make them of her Mind,
 - So Rational, such Solid Judgments hight,
 - As all Wise Men will Swear, that it is Right. 
+{:.poetry}
 
 - {:.indent-6} William Newcastle
+{:.poetry}
 
-<page III>
+[page III]
 
 ### TO HIS
 ## EXCELLENCIE
