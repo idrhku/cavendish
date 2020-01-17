@@ -25,7 +25,7 @@ toc:
 
 
 ---
-[Title Page]
+## [Title Page]
 
 # PHILOSOPHICAL 
 # AND 
@@ -39,9 +39,9 @@ toc:
 ### LONDON Printed by William Wilson, *Anno Dom*. M.DC.LXIII.
 
 ---
-[Dedication]
+## [Dedication]
 
-<page I>
+[page I]
 
 ### To the Lady Marchioness
 ### OF
@@ -57,6 +57,7 @@ toc:
 - On Unknown, Foaming Billows, they were Lost,
 - Their Sails of Folly Torn, their Rudder Broke,
 - And all their Cables Slacken'd, Lost their Hope;
+{:.poetry}
 
 <page II>
 
