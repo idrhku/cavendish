@@ -8,6 +8,7 @@ source:
 publication-date: 2020
 toc:
 - Title Page
+- Dedication
 - Preface
 - Part I
 - Part II
@@ -23,7 +24,8 @@ toc:
 ---
 
 
-
+---
+## [Title Page]
 
 # PHILOSOPHICAL 
 # AND 
@@ -35,6 +37,9 @@ toc:
 ### Excellent Princess, the Lady 
 ### *MARCHIONESS of NEWCASTLE*.
 ### LONDON Printed by William Wilson, *Anno Dom*. M.DC.LXIII.
+
+---
+## [Dedication]
 
 <page I>
 
