@@ -10,6 +10,7 @@ toc:
 - Title Page
 - Dedications and Epistles
 - Preface
+- Footnotes
 ---
 {:descrip: .centered .small style="font-style:italic"}
 
@@ -289,6 +290,11 @@ several Ways or Modes, and the several Inherent motions in several Parts of Anim
 {: descrip}
 
 Confound Nature with Art, and to Set Rules and Compasses to Infinite, or otherwise to Scrape and Blot out Infinite with their Ignorance or Nonsense; But I desire my Readers, to keep to my Text, which is Sense and Reason, Life and Knowledge, Matter and Motion, which is Infinite. 
+
+---
+
+[Footnotes]
+{: descrip id="footnotes"}
 
 [^1]: Cavendish's correction.
 [^2]: Cavendish's correction: replace with "Violent".
