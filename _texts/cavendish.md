@@ -22,7 +22,7 @@ toc:
 - Part X
 - Appendix
 ---
-{:descrip: .centered .small font-style:italic}
+{:descrip: .centered .small style="font-style:italic"}
 
 ---
 [Title Page]
@@ -41,7 +41,7 @@ toc:
 ---
 [Dedication]
 
-[page I-fsi]
+[page I-fsistyle]
 {: descrip}
 
 ### To the Lady Marchioness
