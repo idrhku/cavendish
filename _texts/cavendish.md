@@ -8,25 +8,14 @@ source:
 publication-date: 2020
 toc:
 - Title Page
-- Dedication
+- Dedications and Epistles
 - Preface
-- Part I
-- Part II
-- Part III
-- Part IV
-- Part V
-- Part VI
-- Part VII
-- Part VIII
-- Part IX
-- Part X
-- Appendix
 ---
 {:descrip: .centered .small style="font-style:italic"}
 
 ---
-[Title Page-id]
-{: descrip id="title-page" }
+[Title Page]
+{: descrip id="title-page"}
 
 # PHILOSOPHICAL 
 # AND 
@@ -40,12 +29,14 @@ toc:
 ### LONDON Printed by William Wilson, *Anno Dom*. M.DC.LXIII.
 
 ---
-[Dedication]
-{: descrip}
+
 
 
 [page I]
 {: descrip}
+
+[Dedications]
+{: descrip id="dedications-and-epistles"}
 
 ### To the Lady Marchioness
 ### OF
