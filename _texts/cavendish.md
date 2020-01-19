@@ -25,8 +25,8 @@ toc:
 {:descrip: .centered .small style="font-style:italic"}
 
 ---
-[Title Page]
-{: descrip}
+[Title Page-id]
+{: descrip id="title-page" }
 
 # PHILOSOPHICAL 
 # AND 
