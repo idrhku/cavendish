@@ -35,7 +35,7 @@ toc:
 [page I]
 {: descrip}
 
-[Dedications]
+[Dedications and Epistles]
 {: descrip id="dedications-and-epistles"}
 
 ### To the Lady Marchioness
