@@ -21,9 +21,10 @@ toc:
 - Part IX
 - Part X
 - Appendix
-{:descrip: .centered .small style="font-style:italic"}
 ---
+{:descrip: .centered .small style="font-style:italic"}
 
+---
 [Title Page]
 {: descrip}
 
