@@ -74,8 +74,8 @@ toc:
 - {:.indent-6} William Newcastle
 {:.poetry}
 
-[page III]
-{:.centered small}
+[page III - cs]
+{:.centered .small}
 
 ### TO HIS
 ## EXCELLENCIE
