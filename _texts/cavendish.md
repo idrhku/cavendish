@@ -22,7 +22,7 @@ toc:
 - Part X
 - Appendix
 ---
-{:descrip: .centered .small}
+{:descrip: .centered .small italic}
 
 ---
 [Title Page]
