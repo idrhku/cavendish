@@ -21,11 +21,11 @@ toc:
 - Part IX
 - Part X
 - Appendix
----
 {:descrip: .centered .small style="font-style:italic"}
-
 ---
+
 [Title Page]
+{: descrip}
 
 # PHILOSOPHICAL 
 # AND 
@@ -40,8 +40,10 @@ toc:
 
 ---
 [Dedication]
+{: descrip}
 
-[page I-fsistyle]
+
+[page I]
 {: descrip}
 
 ### To the Lady Marchioness
