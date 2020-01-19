@@ -75,7 +75,7 @@ toc:
 {:.poetry}
 
 [page III]
-{:.centered}
+{:.centered small}
 
 ### TO HIS
 ## EXCELLENCIE
