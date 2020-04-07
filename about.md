@@ -3,6 +3,8 @@ layout: page
 title: About  
 ---  
   
+* ToC
+{:toc}
   
 ## About the Project  
   
@@ -16,13 +18,14 @@ In transcribing the text, we decided to ignore most of the elements that were du
   
 If you have questions or comments about this project, please contact Marcy Lascano at <marcylascano@ku.edu>.  
   
+## Technical Notes
   
 ## Acknowledgments   
   
 This open access, searchable version of Margaret Cavendish's 1663 edition of *Philosophical and Physical Opinions* is the first version of this text to be hand transcribed and available to the public. The text was transcribed by 70+ participants in a transcribe-a-thon in the Fall of 2019. The final product was proofread and edited by Marcy Lascano.   
   
 This project was made possible by the generous support of the University of Kansas Philosophy Department and Institute for Research in the Digital Humanities. Special thanks goes to Brian Rosenblum for setting up the transcription site and the final Ed. site, as well as providing other technical guidance and expertise. In addition, a debt of gratitude goes to Rachel Henderson, the project research assistant, who worked tirelessly on various aspects of the project, and to David Tamez in IRDH who helped with the transcribe-a-thon. Finally, thank you to all the transcribers who put in their time to help make this text available:  
-  
+
 Ada Emmett  
 Alex Riedel  
 Alexandra Kennedy  
