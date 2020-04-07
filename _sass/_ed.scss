@@ -253,8 +253,10 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  line-height: .777em;
+  line-height: 1em;
 }
+
+/* line-height: .777em; */
 
 .masthead-title a {
   color: $link-color;

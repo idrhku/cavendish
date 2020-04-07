@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               'Margaret Cavendish: Philosophical and Physical Opinions, 1663'
-tagline:             'a minimal edition'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               'Margaret Cavendish:<br>Philosophical and Physical Opinions<br>(1663 edition)'
+tagline:             'A digital edition'
+description:         'A digital edition produced using the Ed/Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://idrhku.github.io'
 baseurl:             '/cavendish'
 

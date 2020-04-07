@@ -1597,14 +1597,14 @@ Matter of the Circle may be uneven; and though the Figure of a Circle is to be b
 [^1]: Cavendish's correction.
 [^2]: Cavendish's correction: replace with "Violent".
 [^3]: Cavendish's correction.
-[^4]: Cavendish's Correction.
-[^5]: Cavendish's Correction: Principle
-[^6]: Cavendish's Correction: Producers
-[^7]: Cavendish's Correction: Incorporateth
+[^4]: Cavendish's correction.
+[^5]: Cavendish's correction: Principle
+[^6]: Cavendish's correction: Producers
+[^7]: Cavendish's correction: Incorporateth
 [^8]: Cavendish's correction: replace bounds with binds
-[^9]: Cavendish's Correction: insert "in"
+[^9]: Cavendish's correction: insert "in"
 [^10]: Cavendish's correction: is
-[^11]: Cavendish's Correction.
+[^11]: Cavendish's correction.
 [^12]: Cavendish's correction: insert "and"
 [^13]: Cavendish's correction: Renting
 [^14]: Cavendish's correction.
@@ -1616,7 +1616,7 @@ Matter of the Circle may be uneven; and though the Figure of a Circle is to be b
 [^20]: Cavendish's correction: Creator
 [^21]: Cavendish's correction: lost
 [^22]: Cavendish's correction: and
-[^23]: Cavendish's Correction: after "quite" set "different"
+[^23]: Cavendish's correction: after "quite" set "different"
 [^24]: Cavendish's correction: after Whole add stop
 [^25]: Cavendish's correction: after Thoughts leave out the stop
 [^26]: Cavendish's correction: for *this, is* read *this is,* 
