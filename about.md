@@ -17,9 +17,15 @@ We used a website built by Brian Rosenblum from KU IRDH to make manuscript pages
 In transcribing the text, we decided to ignore most of the elements that were due to features of the printing of the book (such as running headers and hyphenations at the margins, catch words were ignored except when hyphenated), but the one feature of the book we did maintain was the pagination as this is valuable to scholars and students. We maintained the features of the text as written by Cavendish in that we followed Cavendish's spelling, capitalization, and punctuation.  We added notes to document Cavendish's corrections in the text as noted in the Errata.  
   
 If you have questions or comments about this project, please contact Marcy Lascano at <marcylascano@ku.edu>.  
-  
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
+--- 
+
 ## Technical Notes
   
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+---
+
 ## Acknowledgments   
   
 This open access, searchable version of Margaret Cavendish's 1663 edition of *Philosophical and Physical Opinions* is the first version of this text to be hand transcribed and available to the public. The text was transcribed by 70+ participants in a transcribe-a-thon in the Fall of 2019. The final product was proofread and edited by Marcy Lascano.   
@@ -94,5 +100,8 @@ Wiebke Deimling
 William A. B. Parkhurst  
 William Miller  
 And thanks to those who transcribed anonymously as well!  
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+---
 
 [^n]: Ed. is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. For more information about Ed. see <https://minicomp.github.io/ed/>.
