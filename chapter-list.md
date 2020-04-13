@@ -1,7 +1,10 @@
 ---
 layout: page  
-title: Chapter List  
+title: List of Chapters  
 ---
+
+* ToC
+{:toc}
 
 ### Part I.
 
@@ -30,6 +33,8 @@ title: Chapter List
 [Chapter 23: *The Sensitive Animate matter causes the Inanimate matter to help in Creations*](../texts/cavendish/#chap1-XXIII) | 24
 [Chapter 24: *Of the Motion of Animate matter*](../texts/cavendish/#chap1-XIV) | 25
 
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+
 ### Part II.
 
 [Chapter 1: *Of Creation or Production*](../texts/cavendish/#chap2-I) | 28
@@ -52,9 +57,9 @@ title: Chapter List
 [Chapter 18: *Of the Rational motions in the Heart, or such Lower Parts*](../texts/cavendish/#chap2-XVIII) | 59
 [Chapter 19: *The Desire of Fame*](../texts/cavendish/#chap2-XIX) | 61
 
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+
 ### Part III.
-
-
 
 [Chapter 1: *Of Imagination or Conception*](../texts/cavendish/#chap3-I) | 62
 [Chapter 2: *Of Conjectures and Probabilities, Inventions, Arts, and Sciences*](../texts/cavendish/#chap3-II) | 63
@@ -78,6 +83,8 @@ title: Chapter List
 [Chapter 20: *Of Divisible or Dividings*](../texts/cavendish/#chap3-XX) | 87
 [Chapter 21: *Of Notions*](../texts/cavendish/#chap3-XXI) | 88
 [Chapter 22: *Of the Notions or Thoughts, of Deafness, Dumbness, Blindness, Lameness, Baldness, Absence, Death and Sin*](../texts/cavendish/#chap3-XXII) | 90
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
 
 ### Part IV.
 
@@ -115,3 +122,5 @@ title: Chapter List
 [Chapter 32: *Of Lines*](../texts/cavendish/#chap4-XXXII) | ibid.
 [Chapter 33: *Of Circles*](../texts/cavendish/#chap4-XXXIII) | 146
 [Chapter 34: *Of the Extension and Contraction of Circle-Figures or Circle-Lines*](../texts/cavendish/#chap4-XXXIV) | 147
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
