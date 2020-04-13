@@ -20,7 +20,7 @@ This open access, searchable version of Margaret Cavendish's 1663 edition of *Ph
       </a>
     </li>
   {% endfor %}
-  <li class="text-title">Chapter Index (coming soon)</li>
+  <li class="text-title"><a href="./chapter-list">Chapter Index</a></li>
   </ul>
 </div>
 

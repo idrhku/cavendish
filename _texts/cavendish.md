@@ -299,10 +299,12 @@ Confound Nature with Art, and to Set Rules and Compasses to Infinite, or otherwi
 [page 1]
 {: descrip}
 
+
 # PHILOSOPHY.
 
 ## Part I.
-### Chap. I.
+### CHAP. I.
+{: #chap1-I}
 
 *Of Only Matter.*
 
@@ -313,7 +315,8 @@ There is no First Matter, if Matter is Infinite; nor is there any such thing as 
 
 and sorts of Creatures, also the distinct times and seasons, as also the orderly Creations and Dissolutions, and many the like; and if Matter is Infinite, it must consequently be Eternal, for Infinite makes Eternal, and Eternal Infinite. 
 
-### Chap. II.
+### CHAP. II.
+{: #chap1-II}
 
 *Of the several Degrees of Only Matter.*
 
@@ -325,6 +328,9 @@ As I said in my first Chapter, there is but One kind of Matter, yet there seemet
 would be no Change or Entercourse in Only matter, or in the Nature of Only matter; But to conclude this Chapter, the Animate  part of Only matter is the Life and Soul of Only matter, and the Unanimate part of Only matter is that part of Matter, as is the Body of Only matter; thus there is an infinite Life, Soul and Body in Infinite Matter. 
 
 ### CHAP. III.
+{: #chap1-III}
+
+
 *Of the Degrees of the part of Matter as is Animate.*
 
 The Animate part of Only matter seemeth to human sense and reason to be of two Degrees, as the one degree to be agiler, freer, and purer than the other, which degree is the Radical or Rational part of Only matter; the other part, which is not so pure, free, or agile, is the Vital or Sensitive part; this Vital or Sensitive part or degree is the architectonical part of Infinite matter, to fit and form the Unanimate part of Matter into Figures: the other part of Animate matter, which is the Radical or Rational, is so pure and free, as it cannot be so painfull a Labourer as to work on the gross Unanimate matter, but moveth in numbers, measures, and figures in its own degree of matter; But although every part or degree in Only matter is infinite, yet the Animate part cannot be so
@@ -335,12 +341,14 @@ The Animate part of Only matter seemeth to human sense and reason to be of two D
 Gross an~~d~~[^4] Infinite as the Unanimate part of Matter surely is.
 
 ### CHAP. IV.
+{: #chap1-IV}
 
 *Of the Intermixing of every degree of Infinite and Only Matter.*
 
 As the Sensitive or Vital Animate part of Only matter liveth in the Unanimate part of Only matter, so the Rational or Radical part of Animate matter liveth in the Sensitive part of Animate matter, so that all degrees of Only and Infinite matter are Intermixed; for to human sense and reason it is not probable, that the Infinite degrees of Infinite matter should subsist in several parts; the truth is, it is impossible, being all Infinite.
 
 ### CHAP. V.
+{: #chap1-V}
 
 *Of Motion.* 
 
@@ -351,13 +359,15 @@ As there is but One only Matter, so there is but One only Motion, which is the O
 
 or moved by the mover, which is the Innate Motion in Animate Matter.
 
-### CHAP. VI. 
+### CHAP. VI.
+{: #chap1-VI}
 
 *Of Vacuum.*
 
 To treat of Vacuum, whether there be any or not, is very Difficult, for there is as much to be said of one side as of the other; for if there be no Vacuum, all the matter would be Dense as Glass, and so there could be no Agil Motion; but if a Vacuum be allow'd, how can a Place be and no Matter, for nothing is nothing; Wherefore, human sense and reason informs, that Matter and Motion doth create Place and Space in itself, as it doth in all Figures, and Divisions, in the Infinite Body.
 
 ### CHAP. VII.
+{: #chap1-VII}
 
 *Infinite Matter cannot have an Exact figure or form.*
 
@@ -369,6 +379,7 @@ The Infinite and Only matter cannot have an Exact form or figure, by reason it i
 for though Parts may be divided, and composed Infinite, several wayes, or manners, or fashions, in the Infinite Body, yet Infinite can neither be increased nor diminished; for though the several Changes of Motions, which are the several Actions; and the several Figures, which are the several Parts of the Only matter, be all Infinite, yet those Infinites are but as one Infinite, being inherent in the Only Infinite matter, and being not divided from the Only Infinite matter, for the several Infinites conclude in one Infinite. 
 
 ### CHAP. VIII.
+{: #chap1-VIII}
 
 *Of the Degrees, Changes, Parts, Divisions and Compositions in Infinite Matter.*
 
@@ -379,7 +390,8 @@ Although in Nature there is but One kind of matter, yet there are Infinite Degre
 
 of Strengths, and if Infinite degrees of Strengths, then Infinite degrees of Power, and if Infinite degrees of Animate Matter, then there are Infinite degrees of Life and Infinite degrees of Knowledge; but yet in Infinite, there is no such thing as Biggest, or Smallest, or Lightest, or Heaviest, or Softest, or Hardest, or Quikest, or Slowest, or Strongest, or Weakest, or least Knowing, or most Knowing, for there is no such thing as most and least Infinite, nor no such thing as Time in Eternity, yet there is such a thing as Time made by Motion, for Time is only the Variation of Motion. But to conclude this Chapter, all those several Infinites conclude in One Infinite, like as several Letters conclude in one Word, several Words in one Line, several Lines in one Speech, and these several Letters, several Words, several Lines in one Chapter, so several Parts, several Figures, several Motions in one Matter, and several Infinites in one Infinite Body. 
 
-### CHAP. IX. 
+### CHAP. IX.
+{: #chap1-IX}
 
 *Of the Grounds or Principles of Only Matter.*
 
@@ -394,12 +406,14 @@ for Matter, its Ground and Principle is but Quality and Quantity, which Quantity
 {: descrip}
 
 ### CHAP. X.
+{: #chap1-X}
 
 *Of Varieties.*
 
 All Variety is made out of the several Degrees of matter, and several Changes of motion, which makes several shapes of Figures or Creatures; and yet the several Degrees, several Changes, and several shapes or Figures do make an Equality in Infinite matter, which causeth a Sympathy and Order in Productions or Creations, as also Flourishes and Decays, as, Infancy, Youth, Age, Life, Death, Times, Seasons; as also the distinct Kinds and Sorts of Creatures, as also Qualities and Proprieties of all kinds and sorts of Creatures.
 
 ### CHAP. XI.
+{: #chap1-XI}
 
 *Of the Equality of Several Degrees and Changes of Infinite Matter and Motion.*
 
@@ -411,6 +425,7 @@ The Only matter being Infinite, the several Degrees of matter, and several Chang
 there are infinite Densities, so there are infinite Rarities; and as there are infinite Lightnesses, there are infinite Weightinesses, to make an infinite Equality, in infinite Nature. As for the Changes of Motion, as there are infinite Attractions, so infinite Dilations; and as there are infinite Retentions, so infinite Digestions; and as there are infinite Contractions, so infinite Expulsions to make an Equality in infinite Matter; and as there are infinite Divisions made by infinite Motion in infinite Matter, so there are infinite Compositions made by infinite Motion in infinite Matter, so there are infinite Compositions made by infinite Motion in infinite matter to make an Equality; and as there are infinite Creations, so there are infinite Dissolutions; and as there are infinite Figures, so there is infinite Matter; and as there is infinite Life, so infinite Knowledge, all which makes an infinite Equality in infinite Matter which is infinite Nature. 
 
 ### CHAP. XII.
+{: #chap1-XII}
 
 *Motion causeth Disturbance, but the Nature of Only Matter keepeth Peace.*
 
@@ -422,6 +437,7 @@ Motion, the Creator of Figures, doth make Warr, and offtentimes opposeth it self
 which Superiority cannot be in Infinite, which causeth an Eternal Warr, or at least Disputes; but Motion, the Active part of Infinite matter, would cause Confusion, being in its nature restless; but the Only matter, being Intire in its own nature, also Infinite and Eternal, is the cause that Confusions cannot be; for though the several changes of Motion, and different Shapes or Figures of several Creatures, strive to make Disturbance and Discord, yet the Matter being One in it self, makes Peace and Concord in Infinite, and Infinite in the Matter; in truth, the Unity of the Nature of Only in Infinite matter, maketh Concord out of Discord, so as the Cause ordereth the Effects, for the Effects cannot alter the Causes, for though the Effects make Disturbance, the Causes make Peace.
 
 ### CHAP. XIII.
+{: #chap1-XIII}
 
 *Of the Knowledge and Power of Infinite Matter.*
 
@@ -433,12 +449,14 @@ The Infinite and Only matter cannot possibly Know it Self, because it is Infinit
 Free will, for not any Change or Alteration can be made in Infinite and Eternal matter, for what was, is, and shall be; but could there be any Alteration in Infinite matter, there might be a Confusion, but by reason there cannot be an Alteration in Infinite and Eternal, there cannot possibly be a Confusion.
 
 ### CHAP. XIV.
+{: #chap1-XIV}
 
 *There is not a Judge in Infinite Matter.*
 
 There can be no Complaints presented to Infinite, no Intreaties or Petitions can perswade Infinite matter, or Bribe or Corrupt it; there can be no Appeals heard, or Causes determined; for Infinite cannot Judge, nor be Judged, nor be Prescribed, Setled, Ruled, or be Disposed of; neither can Infinite have an Absolute Power, for Absolute is Finite; neither can there be Perfection in Infinite, for Perfection hath a Circumference; for though there is an Union in the nature of Infinite matter, yet there cannot be an Union in the Infiniteness.
 
 ### CHAP. XV.
+{: #chap1-XV}
 
 *Of Life, Knowledge, and Matter.*
 
@@ -450,6 +468,7 @@ Whatsoever hath Animate Matter and Motion, hath Life and Knowledge, and if all t
 the Animate matter, then the Only and Infinite matter is Living and Knowing; but according to several Animate motions, there are several Lives, and several Knowledges, for Life and Knowledge liveth in Animate matter and motion, for Motion liveth in Matter; for though the Nature or Entity of Infinite matter never altereth, yet the manner of Motions altereth, and changeth in that matter; and as Motion altereth and changeth, so Life and Knowledge differeth, as also Figures or Shapes of several Creatures; for as there are different Motions in different Creations, so different Motions in different Creatures; for Matter, Life, and Knowledge, is divided into Figures by the Animate matters Motions; for though there is a general mixture of Animate and Inanimate matter, yet there is neither a general Life, nor a general Knowledge, which I shall treat more fully of.
 
 ### CHAP. XVI.
+{: #chap1-XVI}
 
 *Of Life and Knowledge.*
 
@@ -463,7 +482,8 @@ This Sensitive Creating matter is a Rare, Acute matter, which Rarity and Acutene
 [page 15]
 {: descrip}
 
-### CHAP. XVII. 
+### CHAP. XVII.
+{: #chap1-XVII}
 
 *Of the Sensitive and Rational Animate Matter.*
 
@@ -477,7 +497,8 @@ perceive in sense and reason, but there may be as many Several and Various Motio
 [page 17]
 {: descrip}
 
-### Chap. XVIII
+### CHAP. XVIII.
+{: #chap1-XVIII}
 
 *Of Creations.*
 
@@ -497,6 +518,7 @@ will assimilate the divers Changes of Sensitive motions in the Inanimate matter 
 {: descrip}
 
 ### CHAP. XIX.
+{: #chap1-XIX}
 
 *Of Productions.*
 
@@ -506,12 +528,14 @@ The prime Ground or Principle in Creation is Production, and the reason that all
 {: descrip}
 
 ### CHAP. XX.
+{: #chap1-XX}
 
 *Of the Producer, and the Produced.*
 
 As I said in my former Chapter, that all Creatures or Figures are Created by the way of Production, yet some Creatures or Figures are produced by more or fewer Producers, nor all Creatures are not, produced after one and the same way of Production, but some one way, and some other wayes, yet every Produced partaketh of, or from their Producers, otherwise there could be no Produced; and not only of the Producer[^6] Producing Motions, but Producing Substance, according to the propriety of the Kind or Sort of Creature; for it is not as some imagine to be, as only by such Motions made between the Producer, that Createth the Produced, but it is part of the Substance of such Degrees or Tempers of matter that Incoporateth[^7], that causeth the Forming or Creating of the Produced; but some Producers contribute only to the first Foundation of the Creature, and other Producers to the Nourishment, others to the Consistence and Perfection, and others to the Use of the Produced, but the prime Producing Creator of the Produced Creature, is the first Beginner and Founder.
 
-### CHAP. XXI
+### CHAP. XXI.
+{: #chap1-XXI}
 
 *That the Produced partakes of the Producer*
 
@@ -520,7 +544,8 @@ ALL Produced Creatures partake of their prime Producers, of each part more or le
 [page 23]
 {: descrip}
 
-### Chap. XXII
+### CHAP. XXII.
+{: #chap1-XXII}
 
 *Of the several Creating Motions and Matter.*
 
@@ -529,7 +554,8 @@ The same Matter or Figure of Producers doth not alwayes move after one and the s
 [page 24]
 {: descrip}
 
-### Chap. XXIII.
+### CHAP. XXIII.
+{: #chap1-XXIII}
 
 *The Sensitive Animate Matter causeth the Inanimate Matter to help in Creations.*
 
@@ -540,7 +566,8 @@ The Animate part of Matter doth not only move and work in the Inanimate part of 
 
 after an other manner of way, Fish after an other manner of way, Flies and Worms and crawling Creatures after many different manners and wayes; so for Vegetables, as some by the way of Sowing of Seeds, and some by the way of Planting of Slips, and some by the way of Grafting or Inoculating; as for the Creating of Minerals, the wayes or manner of wayes are not so perfectly found out by Human sense or reason, for though Human sense and reason may probably guess or imagine the way, yet not perfectly know or understand, although Chymists have studied and practised to understand the way or means, but as yet cannot find it out.
 
-### Chap. XXIV.
+### CHAP. XXIV.
+{: #chap1-XXIV}
 
 *Of the Motion of Animate Matter.*
 
@@ -555,6 +582,8 @@ but many times Irregularly, which causeth Mishapen Figures or Creatures as Defor
 [page 27]
 {: descrip}
 
+
+
 ## PART II.
 ### PREFACE To the Second Part.
 
@@ -566,6 +595,7 @@ but many times Irregularly, which causeth Mishapen Figures or Creatures as Defor
 # PHILOSOPHY. 
 
 ### CHAP. I.
+{: #chap2-I}
 
 *Of Creation, or Production.*
 
@@ -586,7 +616,8 @@ mans Body, must hinder that sudden Perfection of the Whole Body; in truth, it is
 
 also Repairing; but as there be Degrees of time, in Creating or Producing a Figure, so there are Degrees of Increasing, Inlarging, and Strengthening every particular Part of a Figure; but to conclude this Chapter, the first Producer is the first Founder.
 
-### Chap. II
+### CHAP. II.
+{: #chap2-II}
 
 *Of the Quantity of Animate Matter, and Inanimate Matter, in Creations of Men or Animal Kind.*
 
@@ -602,7 +633,9 @@ is Perfected, yet that Matter is there, and surely hath a part in the Creation, 
 
 Creatures, as all Figures and Creatures lie or live in Matter; but as Children get Strength by Food, so they get Knowledge by Experience, although there may be a Strong-bodied man a Fool or Mad, and a Week-bodied man Wise and Sober, which is caused by the Regularity and Irregularity, as also by the Variety, and Swift or free Motions, or the Slowness, or few Changes of the Rational and Sensitive matter and motions; but as all Senses are not fixed or bound to one Organ in a Body, so all Knowledge is not bound or tied to one Sense, no more than all Matter is bound or tied to one Creature; but as the Sensitive Animate matter makes Appetites, so the Rational Animate matter gives directions in the choice of the Food of Appetites, as what is good, or what is bad for the Creature, but many times the Motions of Sense and Appetite are too strong for the Motions of Reason and Wisdom.
 
-## Chap. III.
+## CHAP. III.
+{: #chap2-III}
+
 
 *Of Infancy, Youth, and full Growth.*
 
@@ -623,7 +656,8 @@ through which Passages the Animate matter and motions bring in, and carry forth 
 
 Flie as Perfect as an Ostridge; and as for Strength of Body, and Understanding, it is according as the Body is Firmed, Setled, and Inabled by Contraction, Retention, and Digestion; and for the Understanding, 'tis according as the Rational Matter moves, and according as the Organs, Passages, or Parts of the Body are perfectly made; this is the reason that some Little men may be Stronger than men of a Greater size, as also a Little man may have more Wit, Knowledge or Understanding than a Greater man, for neither strength of Body nor Mind lie in the Bulk of Inanimate matter, but in the Regularity and Strength of Sensitive and Rational Motions.
 
-### Chap. IV.
+### CHAP. IV.
+{: #chap2-IV}
 
 *Of Decay, or Age.*
 
@@ -634,7 +668,8 @@ When as the Sensitive Animate matter and motions have Produced or Created a Figu
 
 moves to Dissolution, undoing or unmaking what they had made or done, which is the cause of Decays and Infirmities in Age; but sometimes the Dissolving motions are quicker in some Bodies than in other Bodies, which causeth sooner Decays and Infirmities; but according to Sensitive motions ~~in~~[^10] Sickness or Health, as also Life or Death.
 
-### Chap. V.
+### CHAP. V.
+{: #chap2-V}
 
 *Of Death.*
 
@@ -645,7 +680,8 @@ As Life is Creating Motions, so Death is Dissolving Motions, and when there is a
 
 in Creating or Making, whereas Dissolving is only to disperse those Substances or Parts.
 
-### CHAP. VI
+### CHAP. VI.
+{: #chap2-VI}
 
 *Of Local Motions and Shapes, as also of several Shapes amongst Animals.*
 
@@ -662,6 +698,7 @@ Mouse will run up and through the Trunk or Snout of a great Elephant, and eat ou
 also Over-power other Creatures meerly by his Shape. But to conclude this Chapter of Local Animal Shapes, the different Local Animal Shapes in several Kinds and particular Sorts of Animal Creatures joyned with Local and Animal motions proper to each Shape, cause the several or different Proprieties, Qualities, and Faculties in every particular Kind, and every particular Sort in each kind of Animal Creatures.
 
 ### CHAP. VII.
+{: #chap2-VII}
 
 *Of the External Animal Motions*
 
@@ -672,7 +709,8 @@ To express all Exteriour Motions belonging to Animal Creatures, is past my Power
 
 divers Motions and Actions; neither can any other Animal Creature but Man move their Eyes, Hands, and Feet in so many several Motions, nor in such Numbers, Measures, and Glances as Men, so that Mans chief Excellence from other Creatures lies in his Shape; as for the Exteriour doors and passages of Animal Shapes, they are the Pores of the Skin and Flesh, the Eyes, Ears, Nostrils, Mouth, and other Parts, in which passages and doors are made all the Exteriour Senses, as Sight, Hearing, Smelling, Tasting, and Feeling, or Touch, but Touch is a general Sense which I shall more fully discourse of at the latter End of my Book, but the Interiour Sensitive motions are Appetites, as I shall also more fully discourse of.
 
-### Chap. VIII.
+### CHAP. VIII.
+{: #chap2-VIII}
 
 *Of Mans particular Shape.*
 
@@ -683,7 +721,8 @@ Man is his Shape is different from all other Animal Creatures, and hath an Uprig
 
 Tongue apt for Speech, which other Creatures by reason of more bending Shapes and winding Organs are not so apt for, as Man is, neither is the Sound of other Creatures Voices Melodious as Mans, for theirs is either too Flat, or too Small, or too Hoarse; and as for Speech, when any other Creature speaks, it is Constrained, Forced, and not Natural; but Birds being more Upright and straight from their Breast to their Heads, than Beast, are more apt for Speech than Beasts, but yet it is Constrain'd; but Mans Upright Shape is apt to all sorts and kinds of Exterior Motions, for most Motions belonging to other Animals, are knit, or tied, or joyned to Mans Shape, so that Mans Shape is partly the Ground-work of all other Animal shapes, and all other Animal motions are as it were mixed in Mans Shape.
 
-### CHAP IX.
+### CHAP. IX.
+{: #chap2-IX}
 
 *Of the Mind.*
 
@@ -704,7 +743,8 @@ Fools or Changelings, as Innocents, for the Animate matter both Sensitive and Ra
 
 in one Family, but when as the Sensitive motions and Rational motions disagree in one Figure or Creature, as sometimes they will, as when the Rational Animate matter moveth not Sympathetically with the Sensitive, or that the Sensitive Animate matter moves not Sympathetically with the Rational; as when the Appentite moves one way, and the Reason another way; but for the most part they agree and are Friends, as Parents and Children. But I shall more fully discourse each Degree in one and the same Creature and Figure, as Man, or Particular Men.
 
-### Chapter X.
+### CHAP. X.
+{: #chap2-X}
 
 *Of the Mind and Body of Man.*
 
@@ -720,7 +760,8 @@ Sensitive Life is ~~as~~[^15] a weaker Knowledge than the Rational Knowledge, so
 
 and motions have a more general Knowledge, throughout, and of every particular Part of the Body, by reason it is not so mix'd with the Inanimate matter as to be troubled with, or to labour on the Inanimate matter, but moves purely and entirely on or in its own Matter, by which freedom, the Rational matter and motions take a general Notice, as also particular Notice of the Sensitive motions, in every several Sense and Appetite; as also of the outward Objects that the Senses present to the Rational. But this is to be observed, that, though the Rational matter is in all the parts of a Figure or Creature, yet not so Active, or so Much in some parts as in others; for in the the Densed parts, the Rational matter and motions cannot move so Agily as in Rare or porous parts, nor in Straight parts so Free as in More ~~composed~~[^16] parts.
 
-### Chap. XI. 
+### CHAP. XI.
+{: #chap2-XI}
 
 *Of the Communication or Information between the Mind and Body, as between the Sense and Reason.*
 
@@ -746,7 +787,8 @@ and Change, are the Outward Sensitive passages, and the Inward Vital parts, both
 
 express his Mind to another Man, but by the Sensitive motions and Sensitive passages, as by the Arts of Words, Letters, Hieroglyphicks, Lines, Notes, Numbers, and the like.
 
-### Chap. XII.
+### CHAP. XII.
+{: #chap2-XII}
 
 *The Imitations between the Sensitive Motions of the Body, and the Rational Motion in the Mind.*
 
@@ -757,7 +799,8 @@ The Rational Animate matter being not incumbred with working on the Inanimate ma
 
 Thoughts; and as every several Part of the Body, although never so small, hath a Sensitive Knowledge, so every part of the Mind hath a Rational Knowledge, both which is Sensitive Life, and Rational Life, the one the Creator, and the other the Surveyer, the one the Labourer, the other the Designer, which is the cause of the resemblances of Motions in each Degree; for when the Rational Animate matter and motions move according to the Sensitive Prints and Figures then the Rational Surveyeth the Sensitive Works, and when as the Sensitive moves according to the Rational Figures, Numbers, and Measures, then the Sensitive moves according to the Rational Instructions.
 
-### Chap. XIII.
+### CHAP. XIII.
+{: #chap2-XIII}
 
 *Of the Various Motions in the Several Parts of Man.*
 
@@ -771,7 +814,8 @@ Body and Mind of a man, made by Sensitive and Rational Animate matter, is imposs
 [page 54]
 {: descrip}
 
-### Chap. XIV
+### CHAP. XIV.
+{: #chap2-XIV}
 
 *Of the Coherence of Several Motions in Several Parts of a Mans Body*
 
@@ -780,7 +824,8 @@ As for the Sensitive and Rational matter and motions in the Head, they are partl
 [page 55]
 {: descrip}
 
-### Chap. XV
+### CHAP. XV.
+{: #chap2-XV}
 
 *Of the Ebbing and Flowing of Animate Matter*
 
@@ -794,13 +839,15 @@ The Animate matter move alike in every Creature, Figure, or Part; neither is one
 [page 57]
 {: descrip}
 
-### Chap. XVI
+### CHAP. XVI.
+{: #chap2-XVI}
 
 *Of Motions in the Head and other Parts of a Man's Body.*
 
 I Observe, that the Rational Animate matter in the Head moves as often in Sculpt Figures, as in Flat Ground Figures; but in the Heart and such parts, the Rational matter moves at all times in Ground Figures and Motions, as I may term them, as in Numbers and Measures in several Motions; the Reason is, that the Sensitive Animate matter prints Sculpt Figures in the Brain or Optick Nerve, and in none other parts of the Body, unless it be in Procreation, and that is in Motions of Creation, and not Motions of Presentation; yet the Rational Animate matter in the Head moves partly in that manner of ways as Sensitive Creating motions, onely the Rational motions Create in an instant of Time, whereas the Sensitive Motions Create by Degrees. 
 
-### Chap. XVII
+### CHAP. XVII.
+{: #chap2-XVII}
 
 *The Rational Figures, as Thoughts, made in the Head*
 
@@ -817,6 +864,7 @@ partly another way; or that the Rational motions intermix their own Voluntary Fi
 place, but settle in One place, it is Belief; also when as the Figures of Sensitive prints, or Voluntary figures Sympathize, it is Approving, Commending, Applauding, Admiring, and the like; but if those Figures and Notions Antipathize, it is is Disapproving, Despising, Rejecting or Scorning; Thus much for the Sculpt-figures in the Head, but the Thoughts or Memory of Sound, Sent, Taste and Touch, are Flat Ground Figures and Motions; also for Speech, all which are Letters, Notes, Numbers, Lines, and the like, which are made by Printing or Pressing motions, and not Carving motions, or Casting Motions.
 
 ### CHAP. XVIII.
+{: #chap2-XVIII}
 
 *Of the Rational Motions in the Heart, or Such Lower Parts.*
 
@@ -830,7 +878,8 @@ thus, when as the Rational matter and motions in the Heart, make and move like N
 [page 61]
 {: descrip}
 
-### Chap. XIX
+### CHAP. XIX.
+{: #chap2-XIX}
 
 *The Desire of Fame.*
 
@@ -840,10 +889,16 @@ The Desire of Fame is a Self-desire of Self-praise and Remembrance, which causes
 [page 62]
 {: descrip}
 
+
+
+
+
+
 ## PHILOSOPHY 
 ## PART III
 
 ### CHAP. I.
+{: #chap3-I}
 
 *Of Imagination or Conception.*
 
@@ -855,6 +910,7 @@ Notion, Imagination, or Conception, is made by the Rational matter and motions, 
 or Conceptions do often prove true, according to what was Imagined, without any Information of the Senses; but when the Mind informs the Senses, then the Senses put, or at least endeavor to put, the Minds Notions or Conceptions into Arts or Sciences; also the same Notions, Conceptions, and Imaginations in one Mind, may be in an other Mind, each Mind being Unknown to each other. But to conclude, all Notions, Imaginations, Fancies, Ideas, and the like, are made much after one and the same manner of way, the difference is only in the particular Notions, Imaginations, and Ideas; as for Example, between two or more of Notions, or two or more Ideas or Imaginations.
 
 ### CHAP. II.
+{: #chap3-II}
 
 *Of Conjectures and Probabilities, and Invention, Arts, and Sciences.*
 
@@ -870,7 +926,8 @@ of several Objects, as also Composing several Figures of Several Prints of sever
 
 is divided into Parts and Particles, but the Parts and Division of knowledge causes Probabilities and Conjectures, Observations, as also Arguments and Disputations, Imaginations and Fancies, whereof some prove true, some prove false; also by reason the Sensitive knowledge lies in parts, it causes Errors, Mistakes, and false Informations, as also Pains, Sicknesses, and the like.  But, to conclude this Chapter, the Rational matter and motions in the Mind, do find out the Truth of many Particular things, as also the Generalities of several Things, Causes, and Effects out of the several parts and pieces, as also Motions from Outward objects and Sensitive motions.
 
-### Chap. III.
+### CHAP. III.
+{: #chap3-III}
 
 *What makes Arguing and Disputing, both with a Man's self, or Others; or with the Sense and Reason.*
 
@@ -886,7 +943,8 @@ the same thing move several ways, either in two Men, or one Man's mind; as for E
 
 From many Drops one Pint of Water, from one Fire many Sparks, from many Sparks one Fire; also from all the Senses and Objects, as from one Figure many Parts, and from many Parts one Figure; also the Rational motions may make Divisions and Subtractions, as also Compositions of the same Matter as in it Self, as Joyning some Parts of one Figure to an other, and Separating and Composing its own Matter without the Sensitive Prints; but all imaginary Arguments and Disputations are somewhat after the manner of Dreams, as some may prove true, for the most part they are false; but as for Dreams, I shall fully discourse of them towards the latter end of my Book. 
 
-### Chap. IV.
+### CHAP. IV.
+{: #chap3-IV}
 
 *The different Degrees of Man's Knowledge.*
 
@@ -897,7 +955,8 @@ All Men have not alike Degrees of Knowledge and Understanding, nor alike Degrees
 
 weakness is the cause of few Appetites, and Imaginations, or Conceptions; others, their Rational and Sensitive portions are Irregular, and that makes Fools and Mad-men. 
 
-### Chap. V.
+### CHAP. V.
+{: #chap3-V}
 
 *Of Rational Knowledge in Parts.*
 
@@ -908,7 +967,8 @@ The Rational Knowledge is confined in Parts as well as the Sensitive, for the Ra
 
 doth sometimes not take notice of the Sensitive Knowledge or Motions, for many times, when as the Rational matter is busie in moving in some Phantasm, if any thing touches the Body, or when the Sensitive motions Print outward Objects on the Sensitive passages, the Mind takes no notice of them, being busie or earnest in making Voluntary Figures. 
 
-### CHAP. VI. 
+### CHAP. VI.
+{: #chap3-VI}
 
 *Of Unities or Equalities*
 
@@ -918,12 +978,14 @@ If there be Infinite degrees of Matter, and Infinite changes of Motion, and Infi
 {: descrip}
 
 ### CHAP. VII.
+{: #chap3-VII}
 
 *Of Influence.*
 
 An Influence is, when as the Sensitive and Rational matter and motions in divers or different or several Creatures or Figures, in divers or different or several Places, Times, Parts, or Particles, move or work Sympathetically to each other; and certainly, there is an Influence amongst all Creatures, for all Creatures being made of the Only and Infinite matter, and there being a Union in its Nature, the Creatures of this Only matter must necessarily have an Influence upon each other; but if there were no Motion, there could not be Influences, for it were impossible an Influence could be without Motion, and as impossible, a Motion could be without Matter.
 
 ### CHAP. VIII.
+{: #chap3-VIII}
 
 *Of Operation*
 
@@ -933,6 +995,7 @@ All Figures or Creatures have an Operative Power, which Operation is made by Sym
 {: descrip}
 
 ### CHAP. IX.
+{: #chap3-IX}
 
 *Of the Procreation of Thoughts, and of Faith.*
 
@@ -943,7 +1006,8 @@ I Do not perceive in human Sense and Reason, but that the Mind procreates like a
 
 but not so much as to remove Mountains; also as there is Procreation of Thoughts, so there is Procreation of Words; and as there are Natural Procreations, so there are Artificial Procreations, as the Procreation of Arts, and all Arts are Creatures; the onely difference is, that Nature Creates not Arts as She Creates Births, which Nature is Animate matter and motion.
 
-### Chap. X. 
+### CHAP. X.
+{: #chap3-X}
 
 *Of Fortune,*
 
@@ -954,7 +1018,8 @@ Matter, Figure, and Motion are the Gods that create Fortune, for Fortune is noth
 
 motions, we call Good fortune; and there must needs be Antipathetical motions as well as Sympathetical motions, since Motions are so various. But Man, and for all that I know all other things, are govern'd by Outward objects, they Rule, and we Obey; for we do not Rule, and they Obey, but every thing is led like Dogs in a string by a stronger Power; but the outward Power being invisible, makes us think we set the Rules, and not the outward Causes; so that we are govern'd by that, Which is without us, not that which is Within us, for Man hath no power over himself.
 
-### Chap. XI. 
+### CHAP. XI.
+{: #chap3-XI}
 
 *Of Chance.*
 
@@ -965,13 +1030,15 @@ Chances are Visible Effects from Hidden Causes, and Fortune a sufficient Cause t
 
 some Creatures, and with the same Heat onely warms and comforts other Creatures, the like one Effect advances one Creature, and casts down others, kills some Creatures, and cures other Creatures, destroys some Creatures, and erects other Creatures; and when the Causes varie, and the Effects alter, it is named Chance.
 
-### Chap. XII
+### CHAP. XII.
+{: #chap3-XII}
 
 *The Restlessness of Creatures.*
 
 The reason why the Body or Mind of all Creatures, especially Men, is never at Rest but in a perpetual Motion, is, that Motion, the ~~Creature~~[^20] of all Creatures, is Restless; this is the cause of Endless Desires, Insatiable Appetites, Divers Passions, Several Humours, Pains, Sickness, Accidents, Fortunes, Decays, Subtractions, Dissolutions, and the like; as also Creation, Infancy, Grouth, Experience, Knowledge, Industry, and numbers the like. 
 
-### Chap. XIII
+### CHAP. XIII.
+{: #chap3-XIII}
 
 *Of Time and Nature.*
 
@@ -980,7 +1047,8 @@ No question but there is a Time in Nature, for Time is the Variation of Nature, 
 [page 75]
 {: descrip}
 
-### Chap. XIV
+### CHAP. XIV.
+{: #chap3-XIV}
 
 *A Sympathetical Agreement and Indeavours between the Rational and Sensitive Motions in one Creature, for Safety and Defence.*
 
@@ -992,6 +1060,7 @@ There is a strong Sympathetical Agreement, and Natural Unity between the Rationa
 and some times the Places, some times the Time, and some times the Numbers give Advantages. Thus according to Advantages or Disadvantages is Victory gain'd or ~~won~~[^21], either by Numbers, as many, or single Persons, or Creatures, or Ingenuity, Agility, Shapes, Strengths, or the like. Much more may be discoursed of in this Chapter, but I am not willing to trouble my Readers with very long Chapters, being desirous to give respite between each Chapter.
 
 ### CHAP. XV.
+{: #chap3-XV}
 
 *Of the Increase, ~~or~~[^22] Decay of Knowledge.*
 
@@ -1008,6 +1077,7 @@ causes particular Knowledge, for as all several Creatures are Produced, Nourishe
 several Knowledges from one Mind; and as there may be Produced one Creature from several Creatures, so one Truth from several Observations, and several Truths from one Observation; and as there may be Produced several Creatures from several Creatures, so several Knowledge from several Knowledges; and as some particular Creatures last longer than others, so some particular Knowledges last longer than others. Thus as Creatures have Dissolutions and Creations, and degrees of Continuances and Productions, as also of Increase and Decay, so hath the Sensitive and Rational Knowledge, of which I could give so many Examples of Creation, Increase, Continuance, and Dissolution, as my Book would be so Great as not any Man would take the pains to Read and Study it through out.
 
 ### CHAP. XVI.
+{: #chap3-XVI}
 
 *Objections against some Common Opinions of Incorporality.*
 
@@ -1019,6 +1089,7 @@ The Learned talk of Incorporalities to prove a thing is Nothing, that is, to be 
 prove that Notions, Accidents, Motions, and the like, have a Substance.
 
 ### CHAP. XVII.
+{: #chap3-XVII}
 
 *Object: Sense doth not Judge.*
 
@@ -1033,6 +1104,7 @@ carry the Body to the designed Place; I will not say, the Senses do always Execu
 {: descrip}
 
 ### CHAP. XVIII.
+{: #chap3-XVIII}
 
 *Of One Object working Different Effects upon the several Senses.*
 
@@ -1064,6 +1136,7 @@ and Examinations, the Senses argue and examine the Object, and then the Sense an
 same Creature, and so several Creatures do to each other; Also the Sensitive motions in the Sensitive passages divide this several Qualities in the Fruit, which in Nature is dividable; but because Art cannot distinctly and singly divide or separate them, as to separate the Taste, Colour, Sent, and Touch from each other, some deny the Separations, but Nature can do that which Art cannot do.
 
 ### CHAP. XIX.
+{: #chap3-XIX}
 
 *All Thought, and Senses, and Objects, are Substances*
 
@@ -1075,6 +1148,7 @@ Every Thing or Substance hath a Beeing, but to say Nothing, as that No Substance
 or the Taste from the Touch, shall we say in reason they are Undividable? no, that is only Undividable, that Nature cannot divide; but though the Sense of man cannot divide them, as they are dividable in Nature, yet the human Senses divide them by the way of several Prints and Pictures; the like for the Substance of the Mind and Thoughts, which Substance is purer than human Sense and Reason is capable to know, for the Infinite purity cannot be exactly known or conceived in Finite Creatures, where is only Finite Knowledge, only the Finite Knowledge may guess or conceive there are such Purities, but not perfectly Know them.
 
 ### CHAP. XX.
+{: #chap3-XX}
 
 *Of Divisible, or Dividings.*
 
@@ -1085,7 +1159,8 @@ I do not understand those that say, that a whole Figure may be Divided into many
 
 divided, and the Whole in the Parts, when divided, unless the Matter were Annihilated, and then there would be neither Whole nor Parts, but the Figures whole,[^24] Parts and Motions live or lie in the Substances, whether Divided or not Divided, and Figures and Dividables are as Infinite as Matter and Motions; neither is there any such thing as Individables in Nature, but as there are Infinite Divisions, so there are infinite Compositions, so that the Infinite Compositions do Equalize or make an Unity with Infinite Divisions, for one Infinite doth Counterpoise an other Infinite, which makes Order and Method in Infinite Nature, but Infinite Nature is beyond a Finite Capacity; But mistake me not, for these several Infinite Divisions, and Compositions, and Figures, and Changes of Motions, are but the several Infinite Actions in one Infinite Matter and Nature. 
 
-### Chap. XXI.
+### CHAP. XXI.
+{: #chap3-XXI}
 
 *Of Notions*
 
@@ -1099,7 +1174,8 @@ Weight, Parts, Figures, or the like, which are all mix'd with Substance, if not 
 [page 90]
 {: descrip}
 
-### Chap. XXII.
+### CHAP. XXII.
+{: #chap3-XXII}
 
 *Of Notions, or the Thoughts~~,~~[^25] of Deafness, Dumness, Blindness, Lameness, Baldness, Absence, Death, and Sin.*
 
@@ -1120,10 +1196,14 @@ or Notions of Sensitive figures and motions, as also Figures, as Thoughts or Not
 [page 93]
 {: descrip}
 
+
+
+
 ## PHILOSOPHY 
 ## Part IV
 
-### Chap. I. 
+### CHAP. I.
+{: #chap4-I}
 
 *Of Matter, Motion, and Figure.*
 
@@ -1135,6 +1215,7 @@ AS I said before in the First Part of my Book, that there is no First matter, no
 yet there could be no Figure without Matter, wherefore Matter is the prime cause of Figure, but not Figure of Matter, for Figure doth not make Matter, but Matter Figure, no more than the Creature can make the Creator, but a Creature may make a Figure. Thus although there is no First matter, yet Matter is the first cause of Motion and Figure, and all Effects, although they are as Infinite and Eternal as Matter it self; and when I say Matter prime, I speak for Distinctions sake, which is the Only matter. The Animate matter is the Soul of Nature; The Inanimate part of Matter, the Body; The Infinite figures are the Infinite Forms of Nature, and the several Motions are the several Actions of Nature.
 
 ### CHAP. II.
+{: #chap4-II}
 
 *Of Causes and Effects.*
 
@@ -1146,6 +1227,7 @@ As I have said before, the Effects, are Infinite and Eternal as the Causes, beca
 Motion, which was from all Eternity, and shall be Eternally, the Effect will be so.
 
 ### CHAP. III.
+{: #chap4-III}
 
 *Whether Motion be a Thing, or Nothing, or can be Annihilated.*
 
@@ -1162,6 +1244,7 @@ the Motion is nevertheless there; they may as well say, when they have seen a Ch
 be re-built or created again, it is the same Figure it was. So likewise the Motion of the Hand, which I said; for Example, if the same Hand moves after the same manner, it is the same Motion that moved the Hand before; so it may make Infinite Repetitions. Thus one and the same Motion may move Eternally, and Rest from moving, and yet have a Beeing. Some are of an opinion, that Fire is onely a Motion; 'Tis true, Fire, as all other Creatures, are made by Motion, but Fire cannot be a Motion without Matter, for Motion cannot act without Matter, no more then Matter can move without Motion; but Motion and Matter are inseparable, for though Matter may be without Motion, yet Motion cannot be without Matter; but some Men observing that Change of motion upon one and the same Matter makes several Figures or Forms, believe that those Figures or Forms are onely Motion without Matter.
 
 ### CHAP. IV.
+{: #chap4-IV}
 
 *Of Motions.*
 
@@ -1172,7 +1255,8 @@ There are millions of several Motions, which agree to the making of each Figure,
 
 sorts of Trades, hold up each other; some as Magistrates and Rulers, others as Train-bands, as Soldiers; some make Forts, and dig Trenches; some as Merchants that Traffick; some as Seamen and Ship-masters; some that labour and work, as, some Cut and Carve, others Paint and Ingrave, some Mix and Temper, Joyn and Inlay, and Glue together; some Form and Build; some Cast in Mold, and some make Molds to Cast; some work Rough casts, some Polish and Refine, some bear Burthens, some take off Burthens, some Dig, some Sow, some Plough, some Set, some Graft, some Plant, some Gather, some Reap, some Sift, some Thrash, some Grind, some Knead, some Bake, some Beat, some Spin, some Weave, some Sew together, some Winde and Twist, some create Arts, and others dissolve Arts, and millions of millions of External motions; but as we see External, so we may imagine are Internal motions; but the Obscure motions certainly are more Various, and Subtiler, and Agiler.
 
-### Chap V.
+### CHAP. V.
+{: #chap4-V}
 
 *Many Motions go to the Producing of one Thing, or to one End.*
 
@@ -1188,7 +1272,8 @@ in Gross External motions, where I will describe it by Disgestive motions, which
 
 whence arises all the Variety, is but from these Figures, as Circular, Triangular, Cube, and Parallels, High, Low, Narrow, Broad, Thick, Thin; And as there are Infinite changes of Motions in the Sensitive Animate matter, working on the Inanimate Parts of matter, so there are Infinite changes of Motions in the Rational Animate matter, making Infinite kinds of Knowledge, and Degrees of Knowledge and Understanding; and as there are Infinite changes of Motion, so there are Infinite effects and every produced effect, is a Producing effect, which Effect produces Effects, and the only matter is the cause of all Effects, for the several Degrees of Only matter is the Effect of Only Matter, and Motion is the Effect of some sorts of the Degrees of Only matter, and Varieties are the Effects of Matter and Motion, and Life is the Effect of Animate matter, and Knowledge the Effect of Life.
 
-### Chap. VI.
+### CHAP. VI.
+{: #chap4-VI}
 
 *Of the six Principal Motions.*
 
@@ -1208,12 +1293,14 @@ Contractions, as Dilatations to Expulsions; but this sort of Motions is Surfling
 {: descrip}
 
 ### CHAP. VII.
+{: #chap4-VII}
 
 *Of Double Motions at one and the Same Time, on the Same Matter*
 
 As there are several Changes in particular Motions, so there are Double motions; as for Example, Spinning Flax or the like, is drawn long and small, twisted hard and round, and at one time. Again, a Bowl runs round-way, and yet straight out at one time. A shuttle-cock spins about in a straight Line. The Wind spreads, and yet Blows straight out at one and the same time. Flame ascends Circular, and many the like Examples may be given; as also the Intermixing motions, and some Motions are partly of one Sort, and partly of other Sorts of Motions.
 
 ### CHAP. VIII.
+{: #chap4-VIII}
 
 *Of Several Strengths.*
 
@@ -1225,6 +1312,7 @@ Although there be Infinite Strengths of Motion, yet not to all sorts of Figures,
 which Sense and Reason may be in every thing, though after different manners, but we have confined Sense onely to Animal kind, and Reason onely to Mankind; but if the Animate matter is in the Inanimate part of Matter, as the Life in the Body, then there is no part that hath not Sense and Reason, whether Creating or Created, Dissolving or Dissolved, though I will not say that every Creature enjoys Life or Knowledge alike, yet every Figure is Animated, for it is Animate matter that Creates and Dissolves Figures, yet the Animate matter works according to the several Tempers of the Inanimate part of matter, and to such Proprieties and Figures, and Figures Proprieties, and proper Figures, that is, Motion doth form the Onely matter into Figures, yet Motion cannot alter the Entity of Onely matter, but Motion can and doth alter the Interior and Exterior Figures, and though the several Degrees of Matter may be placed and re-placed in Figures, yet the Nature of the Matter cannot be altered.
 
 ### CHAP. IX.
+{: #chap4-IX}
 
 *Of the Agility of Animate Matter*
 
@@ -1238,7 +1326,8 @@ easily metamorphosed; and on the Thin part of Inanimate matter they seem much Ni
 [page 106]
 {: descrip}
 
-### Chap. X. 
+### CHAP. X.
+{: #chap4-X}
 
 *Of Repeating one and the same Work, and of Varieties.*
 
@@ -1255,6 +1344,7 @@ other Worlds, not onely as Man from Man, but as Man from Beast, Beasts from Bird
 be made into other Figures, yet the former Figures have as much a Beeing as the present Figures, by reason the Matter that was the cause of these Figures hath an Eternal Beeing, and as long as the Cause lasts, the Effects cannot be Annihilated.
 
 ### CHAP. XI.
+{: #chap4-XI}
 
 *Of Creation, and Dissolving of Nature.*
 
@@ -1271,6 +1361,7 @@ that all Spherical Figures last longest, I think it is, because that Figure hath
 prolong the Work, yet it is hastened, or retarded by the Quantity or Strength of Animate matter and motions that Work therein; for when there is more, it is Sooner Formed, when less, Longer ere it comes to its igurative[^27] Perfection.
 
 ### CHAP. XII.
+{: #chap4-XII}
 
 *Of Sympathies and Antipathies, which is to Agree or Disagree, to Joyn or to Cross.*
 
@@ -1280,6 +1371,7 @@ There are Infinite sorts of Figures or Creatures that have Sympathy, and Infinit
 {: descrip}
 
 ### CHAP. XIII.
+{: #chap4-XIII}
 
 *There is no Supreme Knowledge*
 
@@ -1294,6 +1386,7 @@ to find the use of Earth, Water, Air, and Fire, Vegetables, Minerals, and so Ani
 {: descrip}
 
 ### CHAP. XIV.
+{: #chap4-XIV}
 
 *Of Different Knowledge in Different Figures.*
 
@@ -1314,7 +1407,8 @@ partly Fish, and partly Fish and partly Foul; yet although they are Mix'd Creatu
 
 as well as Reason, onely Reason is a Degree above Sense, ~~or~~[^30] Sense a Degree beneath Reason.
 
-### CHAPT. XV.
+### CHAP. XV.
+{: #chap4-XV}
 
 *The Advantages of some Figures, [^31]some Degrees of Matter and Motions over Others.*
 
@@ -1329,6 +1423,7 @@ So for degrees of Matter, what advantage hath the Animate matter, or the Inanima
 {: descrip}
 
 ### CHAP. XVI.
+{: #chap4-XVI}
 
 *Of Figures in Figures.*
 
@@ -1349,7 +1444,8 @@ which properly and naturally belongs to that Kind of Figure, as a Horse to Gallo
 
 figure; the second Figure is to be Flesh, not Wood; the third is to be such a Kind of flesh as Man's flesh, not Bear's flesh, or Dog's flesh, or Horse flesh, or Cow's flesh; and more Examples may be given than I am able to repeat, or my Book to infold; but Animals and Vegetables have more Different figures belonging to every Particular figure or Kind, than Minerals, especially Metalls, which are, as it were, composed of one Piece.
 
-### Chap. XVII. 
+### CHAP. XVII.
+{: #chap4-XVII}
 
 *Of the Gloomy Figures, and Figures of Parts, and of One Piece.*
 
@@ -1363,7 +1459,8 @@ Water, Metall, or the like, are not perceived in the Dark, but when Light is cas
 [page 123]
 {: descrip}
 
-### Chap. XVIII.
+### CHAP. XVIII.
+{: #chap4-XVIII}
 
 *Of Round and Square Figures, and their Motions.*
 
@@ -1374,7 +1471,8 @@ Of all Figures a Flat Square Figure is most unapt to move Exteriously, one Reaso
 
 I say, according to its own Proper figure, but it may be retarded by other Figures or Creatures; besides, the Round figure hath no basis or bottom to stand or rest on, being all alike, or of one Piece without Ends, so as it moves all as one Proper and Intire figure, having not any Points to fix or stick to other Bodies. This is the Reason Snow falls Slower than Rain or Hail, because Snow is Triangular, which is pointed, and Rain and Hail is Round in the Exterior as well as Interior parts, which makes it fall more Forcibly, whereas Snow falls more Retardedly or Slowly, being more Exteriously Uneven; But as for Descensions, as some Bodies descend Slowly or Quickly by the cause of their Exterior figures, as being Square, Triangular, or Round, or according to their Density or Rarity, so according to their Interior or Exterior motions; for some Outward Shapes will cause some Creatures to be Agiler or Slower, in despite of their Inward or Interior Forms, Motions, and Natures; and some Interior Shapes, natures, and Motions will cause some Creatures or Shapes to be Slower or Agiler in despite of their Exterior Figures, Shapes, or Motions.
 
-### Chap XIX.
+### CHAP. XIX.
+{: #chap4-XIX}
 
 *Of Heavy and Light Bodies.*
 
@@ -1385,7 +1483,8 @@ There are four Principal causes which make the Effect of Heavy or Weight, as
 
 first, Bulk or Quantity of Body; next, the Grosness of the Substance of a Body; thirdly, Density; and fourthly, the Form or Figure of the Body; Also there are four Principal causes that make Lightness, as Little Quantity of Substance, Purity of Substance, Rarity of Substance, and the Form or Figure of the Substance or Body.
 
-### Chap. XX.
+### CHAP. XX.
+{: #chap4-XX}
 
 *Of Bodies that are apt to Ascend or Descend.*
 
@@ -1402,6 +1501,7 @@ and Dense, is apt to Ascend, and Water that is Porous or Rare, is apt to Descend
 Lighter; the other cause is, that Snow seems to be Exteriously of a Triangular Figure, although the Interior Figure is Circular, as being Water, for Water that is not Densed or Contracted into Snow, is Circular, both Exteriously and Interiously, which Figure seems to my reason to be more Poised and Heavy than the Triangular, which seems to be more Light and Wavering than a Circular Figure; But to draw towards an end of this Chapter, Ascending and Descending is as often caused by the Exterior Figure or Shape of a Body, as by the Nature and Quality of the Substance; and to give a more Gross and Visible Example, a Bird, which is of a much greater Bulk, and hath a much Heavier Body than a Worm, yet by the help of the Exterior Shape it is much Agiler than a Worm, and can Fly high up into the Air, when as a Worm for want of such an Exterior Figure is forced to creep on the Ground; the truth is, that all Natural Exterior Motions and Actions are according to the Exterior Shapes of every Creature or Substance. 
 
 ### CHAP. XXI.
+{: #chap4-XXI}
 
 *Why Heavy Bodies Descend more forcibly than Light Bodies Ascend.*
 
@@ -1418,6 +1518,7 @@ Ascent; for as one Weight upon an other makes more weight, so one Motion upon an
 more forcibly Descend than Light bodies Ascend.
 
 ### CHAP. XXII.
+{: #chap4-XXII}
 
 *The Observations of Human Sense and Reason*
 
@@ -1438,7 +1539,8 @@ motion that is in Human creatures is not capable to Know or Conceive the Infinit
 
 probably and happily light or chance on the Right and Truth of some of them, but Human sense and reason can never attain to a Perfect knowledge, because Infinite is not capable of Perfection either in Knowledge or Power; but to conclude this Chapter, Human sense and reason may associate in Human parts and creatures, as many Men joyn, as in one Body and Mind, as with all their Industry of their Sense and Reasons, so as the several Observations of many Men in many Ages, may find out some Truths, Causes and Effects, so that many several Observations, and many several Experiments in many Ages, may make or produce several Knowledges and Wisdoms, as several Kinds or Sorts of Knowledges, Prudence, or Wisdom, or Ingenuity and Invention; all which Several or Particular Knowledges, either Sensitive, or Rational, or both, are produced like as Several Generations of Several Creatures. 
 
-### Chap. XXIII
+### CHAP. XXIII.
+{: #chap4-XXIII}
 
 *Of Change.*
 
@@ -1447,7 +1549,8 @@ The Change of Motion in several Figures makes all the Change and Difference amon
 [page 133]
 {: descrip}
 
-### Chap. XXIV
+### CHAP. XXIV.
+{: #chap4-XXIV}
 
 *Of the Variety of one and the same Sort of Shapes and Motions.*
 
@@ -1459,6 +1562,7 @@ Some Shapes have Power over others, and some Motions have Power over other Motio
 matter and motions, as such a Finite Creature as I, cannot express.
 
 ### CHAP. XXV.
+{: #chap4-XXV}
 
 *The Different Degrees of one and the same Kind or Sort of Degrees of Matter and Changes of Motions.*
 
@@ -1472,7 +1576,8 @@ or in the Propriety of ordinary Earth, as in the Creation or Propriety of Metal;
 [page 136]
 {: descrip}
 
-### Chap. XXVI.
+### CHAP. XXVI.
+{: #chap4-XXVI}
 
 *Of Transmutations.*
 
@@ -1483,7 +1588,8 @@ Transmutations are not Metamorphoses, for to metamorphose is to change the Shape
 
 faculty of Animate matter, which is Self motion, and Motion is the onely Transmuter, otherwise Infinite matter would lie Idle eternally, though I cannot well conceive how Infinite can be without Motion, but howsoever, we perceive so much as there are proper Motions, and Mixtures of Matter belonging to every particular Figure; and though Figures do produce Figures, yet Figures do not order the Creation, for it is not the Figures that Create, but Creation that produces by Figures, which Creation is Motion, which Motion is Animate matter, which Matter Creates and Dissolves by the way of Transmutation, all Figures Dissolving to Create, and Creates to Dissolve, but Dissolving and Creation, which is that we call Life and Death, hath onely a reference to the Figures, but not of the nature of the Matter. 
 
-### Chap. XXVII. 
+### CHAP. XXVII.
+{: #chap4-XXVII}
 
 *Of Metamorphosing of Animals and Vegetables.*
 
@@ -1504,7 +1610,8 @@ into parts, but not Separated apart; though the several sorts of one and the sam
 
 Metall of Iron; and by the Exterior form I mean the Outward-shape.
 
-### Chap. XXVIII
+### CHAP. XXVIII.
+{: #chap4-XXVIII}
 
 *The Metamorphosing of the Exterior forms of some Figures.*
 
@@ -1515,7 +1622,8 @@ All Figures that are of an United piece, as Water and Fire are, and not in Parts
 
 Exterior shape. For although their desires make them believe it possible to be done, yet they must know Subtracting is not Metamorphosing, but rather of the two, Transmutation, being one of the chiefest Requisites of Transmutation. And as for those Creatures that are composed of Parts of Different natures, as I have said, their Exterior form cannot be Metamorphosed, because those Motions that Metamorphose one Part, cannot Metamorphose an other. And though every Part is Different, yet they generally Unite to the consistence of the whole Figure, whereby the several Transforming motions on the several Parts would make such a Confusion, as upon necessity must Dissolve the Intellect nature, and Interior form of that particular Figure; thus striving to Alter would Destroy.
 
-### Chap. XXIX
+### CHAP. XXIX.
+{: #chap4-XXIX}
 
 *Of Fix'd and Loose Elements*
 
@@ -1527,6 +1635,7 @@ All Elements are Created as other kind of Creatures are, as Animals, Vegetables,
 for Elements, those that are Elemental Worlds, as the Sun, and all the Planets, as also the Fix'd Stars, cannot be Metamorphosed no more than Animals or Vegetables that are of many Parts, but Loose Elements as are between the Celestial and Terrestrial Worlds may be Metamorphosed, that is, they may Change their Exterior forms, and for their time of Metamorphosing, may Change or Alter their Exterior Proprieties.
 
 ### CHAP. XXX.
+{: #chap4-XXX}
 
 *Of Loose Humors and Elements*
 
@@ -1540,13 +1649,15 @@ Phlegm changes into Water, Melancholy into an Earthly Substance, and Choler into
 [page 144]
 {: descrip}
 
-### Chap. XXXI.
+### CHAP. XXXI.
+{: #chap4-XXXI}
 
 *The Change of Motions*
 
 Motion doth Alter the Change in one and the same Creature or Figure, for a Young man appears not like as an Old man, nor an Old man as a Young man, nor a man when he is Sick, appears not as when he is Well, nor a man when he is Cold, appears not as when he is Hot, also a man when he is Sad or Melancholy, appears not as when he is Merry; and as the man alters in Countenance, Complexion, Temper, Humour, Sickness, Health, Passions, Affection in Mind and Body, Motion Changes.
 
-### Chap. XXXII.
+### CHAP. XXXII.
+{: #chap4-XXXII}
 
 *Of Lines*
 
@@ -1562,7 +1673,8 @@ Works of Contractions and Retentions are Stronger, and more Lasting, than those 
 
 Thinner and Thicker, Lighter and Heavier, Harder and Softer; and Infinite degrees of Animate matter, as Stronger and Weaker, Swifter and Slower; and though I have said, that the Animate matter is the Acutest part of Only matter, yet I do not mean the Thin Insipid matter, as I may call it for distinction-sake, for there is no Insipid in Infinite and Eternal matter, though there be ~~in~~[^36] Inanimate Immoving matter, but the Animate matter is the Infinite extract of the Entity of Infinite matter, it is the Quintessence of Nature.
 
-### Chap. XXXIII.
+### CHAP. XXXIII.
+{: #chap4-XXXIII}
 
 *Of Circles.*
 
@@ -1573,7 +1685,8 @@ A Circle is a Round figure without Ends, having a Circumference and a Centre, an
 
 for as one part stretches out, another part draws in; but, to conclude, a Circle-figure may be Dilated and Contracted, and be Changed into many several Exterior figures or forms, and yet keep the Interior figure or form; also a Circle may move Interiously, as also, Exteriously several ways, as to move from the Centre to the Circumference, and from the Circumference to the Centre; as also to move Circle-ways according to the Figure, as to move Round.
 
-### Chap. XXXIV.
+### CHAP. XXXIV.
+{: #chap4-XXXIV}
 
 *Of the Extension and Contraction of Circle-figures, or Circle-lines.*
 
