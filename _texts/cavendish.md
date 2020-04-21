@@ -14,6 +14,7 @@ toc:
 - Part II.
 - Part III.
 - Part IV.
+- Part V.
 - Footnotes
 ---
 {:descrip: .centered .small style="font-style:italic"}
@@ -1707,6 +1708,911 @@ Matter of the Circle may be uneven; and though the Figure of a Circle is to be b
 
 ---
 
+[page 150]
+{: descrip}
+
+# PHILOSOPHY
+
+## Part V.
+### CHAP. I.
+{: #chap5-I}
+
+*Of the four Worlds, of Fire, Air, Water, and Earth.*
+
+To Human Sense and Reason, there seems a necessity of four several Kinds or several Sorts of Worlds, as a World of Fire, a World of Air, a World of Water, and a World of Earth; also there seems a necessity to have a sufficient Proportion of and in each World, for if there were not a World of Air, the World of Fire would go out, and if there were not a World of Water, the World of Earth would be insipid, besides the World of Fire would Burn and Consume it, and if there were not a World of Earth, there would not be solid Creatures nor a firm Mould to Create Solid Creatures in, for if there were not Solidity,  
+
+[page 151]
+{: descrip}
+
+Density, or Firmity, all Creatures would be subject to Dissolve, before they were perfectly made; And if there were not a World of Bright shining hot Burning Fire, the other Worlds would want Exterior Heat and Light; I only mention four Worlds, but there may be many more, for any thing Sense and Reason can perceive to the contrary, but in my following Chapters I shall treat of the Creations of the Elements, and of their Actual motions.
+
+### CHAP. II.
+{: #chap5-II}
+
+*Of Different Motions and Creatures.*
+
+All sorts of Extenuating motions make not Fluidity or Wet, but such a sort of Extenuation on such a Tempered or such a Degree of Inanimate matter, for some sorts make Porous, Spongy, Soft, Smooth bodies, and not Wet or Fluid; also some Extenuations make Light, other sorts of Extenuations make Heat, and so may be said for all other Sorts of Motions and Effects; as for Example, all Expulsive motions do not Burn, for there be Infinite several sorts of Expulsions, and Infinite several sorts of Attractions, Contractions, Retentions, Digestions, and Dilations, which make Infinite Varieties, for there are several sorts of Colds, several sorts of Heats, several sorts of Droughts, several sorts of Moistures, several sorts of Waters, several sorts of Air, several sorts of Fire,
+
+[page 152]
+{: descrip}
+
+several sorts of Light, several sorts of Colours, several sorts of Darkness, several sorts of Vegetables, Minerals, Animals, and several Particularities; But, to conclude, there is so much Variety in every Kind and every Sort, and in one and the same Kind, and one and the same Sort, and in one and the same Creatures, as it is impossible for any one Creature to describe the Infinite Varieties in Nature; But to make my Readers the better to Understand me, I will give an Example for the Variety of one sort of Motions, which is a Swimming motion; as for Example, a Fish Swims, a Swan Swims, a Dog Swims, a Man Swims, those Creatures do but act the Swimming motion, but yet the Swan Swims not like the Fish, nor the Fish like the Swan, neither doth the Fish or Swan Swim like the Dog, nor the Dog like the Fish or Swan, nor the Fish, Swan, or Dog, Swims like the Man, nor the Man like as those Creatures, for every one of those Creatures Swim after a different manner from each other, and different manner of wayes in each Creatures Swimming; the like Example may be given for Figures, as for Motions; as for Example, all Men are of one and the same sort of Figure, as man's Figure, yet not any two men are alike unless as a Wonder.
+
+[page 153]
+{: descrip}
+
+### CHAP. III.
+{: #chap5-III}
+
+*Of Moist Colds, and Moist Heats, of Dry Colds, and Dry Heats, and of Hot and Cold Motions in general.*
+
+Heat doth not make Drought, for there is a Temper of hot and moist, nor Cold doth not make Drought, for there is a Temper of cold and moist, neither doth Heat make Moisture, for there is a Temper of hot and dry, nor Cold doth not make Moisture, for there is a Temper of cold and dry, but when as the Motions of heat and the Motions of drought joyn, they cause hot and dry Effects, and when as the Motions of cold and the Motions of drought meet, they cause cold and dry Effects, and when as the Motions of heat and the Motions of moisture joyn, they cause hot and moist Effects, and when as the Cold motions and Moist motions joyn they cause cold and moist Effects, but there is Infinite Variety in their several Effects, as also in the Motions, but those sorts of Motions, which produce Hot and Cold, intermix and press into every Creature, as to every Region, so these Motions work on the Earth, Water, and Air, and into Vegetables, Minerals, and Animals; also these sorts of Motions, that make Hot and Cold, change, and work some Attractive, some Contractive, some Retentive, some Digestive, some Dilative, and some Expulsive,
+
+[page 154]
+{: descrip}
+
+for of each Kind there are several sorts, as several sorts of Cold motions, and several of Hot motions, as several Cold contractions, Cold attractions, Cold retentions, Cold digestions, Cold dilatations, Cold expulsions; also there are several sorts of Hot contractions, Hot attractions, Hot retentions, Hot digestions, Hot dilations, and Hot expulsions; but when as these sorts of Cold and Hot motions do Equal each others Power, they make an equal Temper between Hot and Cold.
+
+### CHAP. IV.
+{: #chap5-IV}
+
+*Of the Motions of Cold and Hot, Drought and Moisture.*
+
+Cold and Hot are not made by Different kind of Motions, or Several sorts of Motions, but after Different manners or ways of several sorts of Hot and Cold motions; as for Example, a Moist heat and a Moist cold are made by one Kind or Sort of Motion; as for some Motions to Draw Matter Outward, and to Press and Drive Matter Outward, or to Spread or Dilatate Matter towards the Extreme parts, as from the Centre to the Circumference; and as all Moist heat or cold Inlarges or Dilatates from the Centre to the Circumference, or towards the Extreme parts, so Dry heat or cold Drives, or Thrusts, or Pulls inward, as from the Circumference to a Centre, and Cold and 
+
+[page 155]
+{: descrip}
+
+Hot retentions Nip or Pinch Parts, or Fix or Press into Parts, which causes Numness and Stifness, or Unactiveness, and Cold and Hot expulsions Divide and Dissolve Parts, as when Parts are frozen or burnt asunder; for it is to be observed, the Effects of Hot and Cold are much alike, for very Sharp cold and great Burning heat pains Men equally, and Sharp coldness destroys several Creatures with as much Fury and Strength, as Hot Burning heat; neither can I perceive the Hot motions to be quicker than the Cold motions, for Water, to the quantity, shall Freez as soon or suddenly, as any Light matter, as Straw, or the like, shall Burn, take quantity for quantity, and Animals shall be as soon Frozen to death, as Burnt to death, and Cold hath as great a power at the Poles, as Heat hath in the Torrid Zone; As for Vegetables, they are often kill'd with Cold than Heat, and it is to be observed, that there is not any Thaw or Dissolving so suddenly as Frost, which half perswades me to believe, that the Motions of Cold, or Cold motions, are more Agil, than the Motions of Heat or Hot motions; but it is to be observed, that Hot and Cold motions do often times Dispute for the Mastery, when sometimes the Hot motions get the Victory, and sometimes the Cold; but when there is an Amity between them, there is Temperature; Also it is to be observed, that some sorts of Hot motions will Dispute with other sorts of Hot motions, and some sorts of Cold motions with
+
+[page 156]
+{: descrip}
+
+other sort of Cold motions, where sometimes one Sort, and then another Sort, gets the Victory, according to their Strength and Advantage. 
+
+### CHAP. V.
+{: #chap5-V} 
+
+*Of Earth.*
+
+The Creating motions that make the Natural Earth, are not so Agil, or that Matter Earth is made of, is not so Pure, as those Motions and that Matter that makes Water, Air, and Fire, neither do those Motions that created Earth, work so Curiously or Regularly in Earth, as in the other Elements; besides, the Creating motions of Earth move or work more Perturbed or Troubled, which is the cause that the Exterior figure of Earth is Rough, Gross and Dark; but all or most of the Solid earth's Creating motions, are Attractions, and Contractions and Retentions, which causes the Earth to be Thick, Heavy and Dense, as also to be of the Nature of a Load-stone, for as the Contractions and Retentions make Earth Solid, Dense, Thick, Gross and Heavy, so the Attractions make it Draw all things that it can Draw, which makes it Heavy, as also to be of the Nature of a Load-stone. But this is to be observed, that the Creating motions of all Creatures, and their Actual motions may be very different, for the Proprieties or Faculties of Creatures may be different from their Creatings, 
+
+[page 157]
+{: descrip}
+
+but yet their Natural Faculties and Proprieties depend upon their Creatings, and their Creations produce those Faculties and Properties. 
+
+### CHAP. VI.
+{: #chap5-VI} 
+
+*Of Water.*
+
+The Nature of Water is to be Rare, Fluid, Moist, Liquid and Wet, also to be Glutenous or Cleaving, also to be Smooth and Glassie, also to be apt to Divide and Unite; the Interior Dilatating motions are the cause of the Rarity and Fluidity, the cause of the Moistness, Liquidness and Wetness[^5-01], by such Kinds or Sorts of Dilatations as extend in Circle-figures; the Glutenous propriety or faculty is caused by the Liquidness and Wetness, the Aptness to Divide and Unite is caused by the Rarity, Fluidity and Glutenousness; the Exterior Smoothness and Glassiness is caused by the Interior figure, which are Circle-lines, and the Nature of being Water is caused not onely by some Sorts of Dilatations, but such a Degree of Dilatations, and not onely by such Sorts and such a Degree, but in such a Figure as a Circle-figure; but yet it is to be observed, that there are many several sorts of Water, as some Waters are more Rare than others, and some more Light than other, and some Waters are Clearer than others, and some Waters are Salt. some Sharp, some 
+
+[page 158]
+{: descrip}
+
+Bitter, some Fresh or Sweet, and some have Cold effects, and some Hot, but these are not so much in the nature of Water as by joining and cohering with other Motions, Figures, and Temperaments, which are Dividable from the nature of the Water; for Salt water may be made Fresh, and so may Vitriol water, as also that we call Cordial water, the Heat and Strength of Cordial water may be divided from the Water, all which Chymists, and Apothecaries, and Physicians know well, viz. those Arts of dividing one Temperament from another, but the Interior nature of Water cannot be divided in it Self without a total Destruction; But to conclude this Chapter, to Human sense and reason the Interior figure of Water is a Circle-figure, and the Interior motion of Water is Dilatating, as an equal Dilatation from the Centre to the Circumference, but the Water-circle and the Water Dilatations are of a Middle nature or degree, as between two Extremes.
+
+### CHAP. VII.
+{: #chap5-VII}
+
+*Of the Wetness of Water, and other Sorts of Liquors.*
+
+Wetness, which is the Interior nature of Water, is made by Dilatating motions, for all Droughts or Drinesses are made by Contracting motions, and all Moistures, Liquors, and Wets, by Dilatating motions; yet
+
+[page 159]
+{: descrip}
+
+those Dilatating motions, as make Wet, must be such a sort of Dilatation as belongs to that Substance, as is named Wet, which are Circle-Extenuations or Dilatations, as to Dilatate in a smooth, equal Dilatation from the Centre of the Water-circle, to the Circumference of the Water-circle, which Water-circle is of a middle or mean Extension, and the Wetness of water is caused or made by a middle degree of Dilatation, for Dilatating motions may extend water beyond the degree of Wet, or not Extend or Dilatate so far as the degree of Wet, for there is such a Degree, as only to make Moist or Liquid, and not so far as to make Wet, for though Moisture or Liquid is in the way to Wet, yet it is not Wet; also all that is Soft or Porous, is not Wet, nor Liquid, nor Flowing, as Hair, Feathers, Wool, and the like; nor all that is Extenuating, is not Wet, nor Liquid; as for Example, Light and Fire, and many other Examples may be given; but those Dilatations that make Water, which is to be Soft, Smooth, Moist, Liquid, and Wet, are by Circle-extenuations, and the Circle to be in such a degree of Compass, and such a degree of Dilatation, as to be in a middle or mean Degree; But there are many several sorts of Liquors and Wets, as in Fruits, Herbs, and the like, but the Interior nature of all sorts of Wets is of such degrees of Circles and Dilations as Water is; but this is to be observed, that some things are Moist, but not Wet, and some things are Liquid, but not
+
+[page 160]
+{: descrip}
+
+perfectly Wet; as for Example, dissolved Gums and dissolved Sugar may be said to be Liquid and not Wet, and Smoke may be said to be Liquid and not Wet, and Oyl is more Liquid than Wet; nor all that is Fluid is not Liquid, as melted Metall, Flame, Light, and many things more, which I cannot express for Number; also all that is Fluid, is not Liquid nor Wet. But to conclude, although all Wets are Liquid, yet all Liquids are not perfectly Wet, and although all Liquors are more or less Fluid, yet all that is Fluid, is not Liquid.
+
+### CHAP. VIII.
+{: #chap5-VIII}
+
+*Of the Interior Figure and Motions of Bright, Shining, Hot, Burning Fire.*
+
+Of all the Elements, the Interior Figure and Motion of this fort of Fire is the most difficult to Understand or Conceive, for by the Agilness or Activeness it seems to be in small divided Parts, by the Piercing and Wounding propriety or faculty, those small Parts seem to be Points, by the Exterior Bright Shining Light, it seems to be Composed of Lines, by the Interior and Exterior Dilatations, it seems to be a Rare Body, and how to joyn these Differences is difficult; for I cannot imagine, how rare Points should be, for the Figure of a Point  is a Contracted Body, as being a Point; also a Line is a Continued Longitude, Figure or Body, but 
+
+[page 161]
+{: descrip}
+
+Points are small Parts, but not Lines, but I conceive that the Points are the Interior figure, and the Lines the Exterior figure, and so those small pointed Parts may joyn in Lines of Points, and may Joyn and Divide as often as they will, and never alter their Interior nature; also the Rare nature may be Exterior, and not Interior, as when a number of those Points joyn into one Body, and that United body to Dilatate, or Contract, or Unite, and yet not alter the Interior figure; and it is to be observed, that the Exterior motions work or act according to the several Bodies they work or act on, as some Bodies they Dilatate, some they Contract, and some Retain, but their chief Exterior actions on other Bodies is to Expel; but this is be observed, that these Fiery points have different Dilatations, Contractions, and Expulsions in their own Bodies, from the Dilatations, Contractions, or Expulsions of other Bodies; but that which is most difficult for my Capacity, is to conceive, how this sort of Fire, which is Bright-shining, Hot-burning Fire, can Dilatate it self to Infinitely, as form one small Spark to an Infinite Body of Fire, that is, if the Fire hath Infinite fuel to Dilatate it self Infinitely Upon, and Into, or otherwise that this fort of Fire should have an Infinite power of Transformation, as to convert all Combustible matter, or such Fuel it works upon, to Transform that Fuel into the Fires Interior nature; but I conceive, that, if this fort of Fire had such an Inherent power to 
+
+[page 162]
+{: descrip}
+
+Transform the Fuel into its own Fire's Interior nature, the Fire would be more Strong and Numerous, and to have a more Lasting Continuance; as for Example, a House that is fired, if the House could be converted into the Interior nature of Fire, there would be a Converted house of Fire, or at least the Fire of the House would not go out or die; but Experience informs us, that the Fire dies as the Fuel dissolves; but this may be answered, both for the Dilation of Fire, and Transformation of Fuel, that as the Fire Dilates it self on the Fuel, so the Fire Expels the Fuel, and with the Fuel its own Pointed parts, in which Expulsion the Fire dies, and the Fuel dissolves from the Inherent nature; so it may be said for the Transformation, that as the Fire Transforms the Fuel, in that Transformation of the Fuel the Fire dies, that is, the Fire and Fuel alter their Interior natures together, and so neither by the Dilation of Fire, or the Transformation of Fuel, can they stay in a Continued body, but Dissolve together, but these Expulsions take not away the Infinite Interior nature and power of Fire, but, in my opinion, it is impossible, that a Finite creature can have an Infinite power, or Infinite nature, or Infinite proprieties or effects; It is true, Fire doth change those Bodies it works upon, from their Interior nature, and from their Interior and Exterior form, but not to be of the Interior nature of Fire; indeed, Fire doth rather Deform other Bodies, and Transform it self 
+
+[page 163]
+{: descrip}
+
+from it self, in striving to destroy those Bodies it works upon, in which Strife both Fire and Fuel is Transformed from their own Natures and Figures into other Natured figures or Creatures; But this is to be observed, that Fire cannot work upon all opposite Bodies, as it hath an Appetite or Facility, but is bound to work on several Bodies, according to the nature of the Bodies it works on; and my opinion is, that this sort of Fire hath power to Transform some sort of Bodies to its own Exterior likeness and motions, but not to its Interior nature; I say, some sorts of Bodies Fire can do so, but not all sorts of Bodies, that are subject to Fire, will be so changed; but it is to be observed, that the first Indeavour and last Effect of Fire is, to expell all those Bodies Fire encounters, in which Expulsion it destroys it self, altering its own Nature with the nature of the Fuel, so that the Destroyed becomes the Destroyer. But, to conclude this Chapter of Bright-shining Hot-burning Fire, though this sort of Fire hath not an Infinite effect, being a Finite Creature, to Transform other Bodies it works on, into its own Interior nature, yet the Sparks or parts of Fire, may be of the nature of Vegetables Seeds, that when they are put into the Earth, may increase numerously by the way of Production, so Fire may do the like; as for the Sparks or small Parts of Fire being set or put to some sorts of Fuel, may increase by the way of Production numerously, as some sorts of Vegetable
+
+[page 164]
+{: descrip}
+
+seeds will not increase in all sorts of Earth, so Fire will not increase in all sorts of Fuels; but Sparks of Fire put into Fuel increase not only more numerously, (as a million for one) than Seeds of Corn put into the Earth, but more suddenly, as in a moment of time; but if Fire increases by the way of Production, then Flint Stones, and such Sorts or Kinds of Bodies are as the Granaries or Store-houses, for those Seeds or Sparks of Fire to be kept and stored up for Increase, and for the use of other Creatures; but I will leave this and the like Considerations to those that have more Experience and Observations, and more Learning and Subtil and Ingenious Conception than I have.  Yet I rather believe, that Fire is made by Motion out of two Hard bodies pointing the small Parts, strucken forth of those two Hard bodies, and not that Fire Lives in bright Sparks within the Flint.
+
+### CHAP. IX.
+{: #chap5-IX}
+
+*Of the Interior and Exterior Motions of Bright Shining, Hot Burning Fire*
+
+This sort of Fire, which is Bright Shining, Hot Burning Fire, hath several Contractions, Attractions, Retentions, Dilatations, and Expulsions in its own Interior body, from those Exterior Contractions, Attractions, Retentions, Dilations, and Expulsions, that Fire hath on other Bodies; as for the Interior Contraction
+
+[page 165]
+{: descrip}
+
+of Fire, it is, when Fire is suppress'd by other Bodies, it Contracts within it self, Knitting its own Parts into a Less compass, but when as Fire Contracts other Bodies, it thrusts forcibly those Parts, that should be naturally Extended, into a lesser compass, than naturally they should be, as from Circumference to a Centre; but the difference is, that in Fire's Interior Contractions, they gather closer their own Parts Inward, but the Exterior motions of Fire on other Bodies, that cause other Bodies to Contract, they drive those Parts of the other Bodies from their fiery Bodies, and force those Dilatated parts to move towards the Centre; the same may be said for Dilatation, that the Fiery points when joyned into a Numerous body, Dilatate that Body Interiously into an Exterior compass by free consent, but when as fire Dilatates the Contracted parts of other Bodies, then the Fires Interior points and Exterior motions do forcibly drive those Contracted parts of other Bodies to an Extended body; as for Retentions, when as Fire retains its own Interior parts, they joyn so close, and stick so fast one Part to an other, as they cannot easily be divided, or wander each Part from the other, and so Fire doth to other Bodies by the Exterior motions, forcing each Part of loose Bodies to stick together; as for this sort of Fire, the Interior Attractions is, when as some of the Fiery parts draw other Fiery parts to them by natural Sympathy, and when that Fire attracts other Bodies, then the Fire's points
+
+[page 166]
+{: descrip}
+
+stick into those Bodies, and retire as to a Circumference from a Centre, but yet draw those Bodies with their Retirement; and as for Fires Interior Expulsions, the fiery Points or Parts divide from each other, and when as Fire by the Exterior motion divides other Bodies into Parts, then Fire divides those Bodies in Parts, as Teeth chew Meat; but this is to be observed of this sort of Fire, that many of the Fiery points will issue out of a Numerous body of Points singly, and so obscurely, for when they move Singly, other Bodies more gross than Fire obscure their Brightness from our Sense of Seeing, but not from our Sense of Feeling, and thus by the Exterior motions of Fire divided Dense bodies are made Rare, and Rare bodies Dense, some Dilatated that should be Contracted, and some Contracted that should be Dilatated, and so for Retention and Expulsion; but it is to be observed, that Fire cannot act on several sorts of Bodies after one and the same manner of way, but there are several sorts of Fire as there are of other Creatures. 
+
+### CHAP. X.
+{: #chap5-X}
+
+*Of the Exterior Motions of several sorts of Fire*
+
+The Interior and Exterior Nature, Figure, and Motions of Hot, Glowing, Burning, Bright Shining Fire, is as one without any difference,
+
+[page 167]
+{: descrip}
+
+but yet the Exterior motions of this sort of Fire work according to the Nature, Substance, or Body, it works on and in, for in and on some Bodies it works after one way, and in some after an other manner or way, neither doth this sort of Fire work in Rare bodies as in Solid bodies; but it is to be observed, that this sort of Fire doth indeavour to Transform most of what it works on to its own Likeness, but some Bodies will not be so transform'd, although they be dissolved by those Fiery motions, but that sort of Fire is named a Dull or Dead fire, as is such Fire, as dwells in other Bodies, as Vitriol, Cordials, Salt, or the like, which is a Condensed fire, for this sort of Fire, though it often dwells or is mixt with Liquid Substances, yet the interior nature is made partly by Contractions, but the Interior figures is Edges or Points, which Figures are Sharp and Wounding; But this sort of Fire hath not Power to transform other Bodies to its own Likeness, as the other sort of Fire can, by reason, there is some difference in the Dead fires Exteriors and Interiors, being not Interiously and Exteriously alike, but  hath some difference; also that sort of Fire in Oyl and Sulphur is not so Exteriously burning as Salt or Vitriol, for Sulphur is only a Densed Oyl, but this sort of Fire is neither Exteriously Hot nor Burning, whereas the Vitriol fire or Cordial fire is Exteriously burning, but nor Exteriously Hot, but all sorts of Fire are Flameable, although not Flaming, and all sorts of Rarifying Heat are
+
+[page 168]
+{: descrip}
+
+in the way of Burning, as Dilations are in the way of Expulsions, yet not to produce that effect; but for these Dead fires, those that are Volatile are composed more of the Hot dilations, than those that are Fix'd, and those that are Fix'd are composed more of Hot retentions. But, to conclude this Chapter, there are as many sorts of Fire as there are of Light, of Air, of Water, of Earth, of Vegetables, of Animals, of Minerals; but this is to be observed, that the Bright Shining fire is apt to Ascend, if no other Body suppress it, and the Dead fire is apt to Descend, if the Bright fire doth not alter the nature, and force it to Ascend, for of those sorts of Fire neither would be Volatile nor Flameing, did not the Bright fire give it that Motion.
+
+### CHAP. XI.
+{: #chap5-XI}
+
+*Of that sort of Fire, that is named a Dead Fire, and the Difference betwixt that and Bright Fire.*
+
+Bring-shining, Hot-burning Fire is not the onely Fire, for there be many other sorts of Fire, but one other sort of Fire is visible to our Senses, as that which is named a Dead fire, which is such sort of Fire as is Vitriol, Salt, Sulphur, Spirits or Cordials, and the like; which sort of Fire the Interior figures seem not to be so much Pointed, as Edged, and the Interior parts to be more Contracted, or rather Retained,
+
+[page 169]
+{: descrip}
+
+than the other sort of Fire, which is the Bright shining Fire, for the Dead fire is not so Agil, nor so Dilatating, nor so Wounding, as that Bright fire is; but these Dead fires, although they be Interiously hot and burning, yet not Exteriously hot and burning, as Bright shining Fires are, for that Fire is both Interiously and Exteriously hot and burning, and the Dead Fire onely Interiously hot and burning, but yet not such a sort of Heat or Burning as the Bright fire hath, neither have those Fires that are named Dead Fires those General Dilating motions, or that Converting propriety as Bright fire hath, which shews, that the Exterior parts of Dead fire have a more Contracted and Retent[^5-02] body, than Bright fire hath; but the Difference of these two forts of Fire is, that the Rarity and Dilations of Bright fire seem to be Exteriously, and the Density and Contractions of Bright fire Interiously; and the Density and Contractions of Dead fire seem to be Exteriously, and the Rarity and Dilatations interiously; that is the cause, that when the Exterior parts of Bright fire meet with the Interior nature of Dead fire, they agree as one Body Sympathetically, and will Incorporate in a Flame.
+
+[page 170]
+{: descrip}
+
+### CHAP. XII.
+{: #chap5-XII} 
+
+*Fire Produced by Exterior Motions*
+
+Some Exterior motions will change some Interior motions, as for Example, two Drie sticks rubbed together will beget Fire, and most Hard bodies with Exterior rubbing or grating will become Hot, which is the next Degree unto Fire, and the Reason is plain, for two Bodies grating or rubbing together, is the Motion of Whetting or Grinding, so of Sharping and Pointing, which are the Figures and Motions of Fire, for the Fire was not Interiously in the Wood, but made by an Exterior motion between two Bodies; the same may be said of Flint-stones, that when Flint is strucken by an other Hard body, Sparks of fire proceed therefrom; but this is to be observed, the two Different bodies may Cohabit or Dwell together without any dispute of their Interior or Exterior natures, as for Example Iron-stone, wherein Metall and Stone are mix'd into one Body; but many times those Bodies that are Actually hot, will dwell in those Bodies that are Actually cold, which is more different than Stone and Metall, as Water and Fire, as Vitrol water and the like, that is Actually cold to the Touch, and yet Actually burning to the Touch, and so some Exterior Colds and Heats may be mentioned for Examples, but for Exterior colds and Interior
+
+[page 171]
+{: descrip}
+
+heats, and Exterior heats and Interior colds, innumerable Examples may be given, and amongst all Examples of Different natures composed into one Body, is Quick-silver, which is Exteriously Cold, Soft, Fluid, and Agil, and Interiously Hot, Burning, Expelling, and yet Solid and Heavy; but this is to be observed, that the Exterior nature of Quick-silver makes it Active and apt to Divide, and the Interior Nature makes it Weighty and apt to Unite, the Exterior nature makes it Cold, and the Interior nature makes it Hot. 
+
+### CHAP. XIII.
+{: #chap5-XIII} 
+
+*Of Hot and Burning Motions, and of Burning Figures.*
+
+There are Hot motions, Burning motions, and Hot figures and Burning figures, which do not in all Creatures associate together, as for Example, Oyl, the Interior figure of Oyl is the Fiery figure, yet Oyl hath not the Burning motion, unless some External fire give it that Motion, by which we may observe, that in Oyl, the Fiery motion is not joyned to the Fiery figure; alfo a Man in a Feaver, the Man's Interior parts are not Fiery figures, yet the Man is full of Burning motions, the like for Hot figures, and Hot motions; but most Creatures are indued with Hot motions, but few Creatures are indued with Fiery figures; 'Tis true, some Creatures are indued with Fiery figures, as
+
+[page 172]
+{: descrip}
+
+some Exteriously, and some Interiously, as Oyl is Interiously indued with Fiery figures, and Metall is Interiously indued with Fiery figures, and such kind of Liquors, as Vitriol, and Strongwater, have Exteriously fiery Figures, and some sorts of Stone are indued with Hot burning, Bright shining, Fiery figures; As for Hot motions, they are in a Degree to Burning motions, and Hot figures in the way to Burning figures, like as Seed sown, or Slips set into the Earth, are in the way to be a Tree, a Bud in the way to be a Flower, or like as Corruption of meat is in the way to be Maggots or Worms, but yet the Buds are not Flowers, nor the Slips Trees, nor the Seeds Herbs, Roots, Fruits, or the like.
+
+### CHAP. XIV.
+{: #chap5-XIV}
+
+*Of the Nature, Motions, and Figure of Oyl.*
+
+The Exterior parts of Oyl have Figure and Motions of Water, as Smooth Circle-figure, and an extending Dilatating motion, but the Interior parts have the Figure of Fire, as Points, so that the Exterior parts cause Oyl to be Soft, Smooth, Fluid, Liquid, and Moist, but not Wet, for Oyl dilatates not to that Degree, nor in that sort of Dilatation as to be Wet, and the difference of Oyl and Vitriol or Cordial water is, that their Exteriors are of the Figure and Motions of Fire, and their Interior parts 
+
+[page 173]
+{: descrip}
+
+and motions of the Figure and Motions of Water; but by reason the Fiery nature or figures are the Interior parts of Oyl, the Fiery and Flameable parts cannot be Divided or Separated from the Liquid, Fluid, Moist, Soft, Smooth body, unless it can be Condensed into a firm Substance, but then the nature of being Oyl is Dissolved or Changed, whereas the Virtriol or Cordial water may be separated from the Watery body, with Dissolving or Changing the Watery body; by which Observation we may perceive, that the Interior parts of Oyl are of the Nature and Figure of Fire, and the Exterior parts of Vitriol and Cordials are of the Figure and Nature of Fire; and it is to be observed, that the Alteration of the Interior parts of a Creature or Substance causes a Destruction, but not the Alteration of the Exterior parts, for the Exterior parts may be altered, and yet the Interior be as by their Nature they should be; but to prove that the Interior nature of Oyl is of the Figure and Motion of Fire, is, that when as Hot burning Bright shining Fire takes hold of the Exterior parts, and hath dissolved the Exterior, or hath with its Fiery points broken the Smooth Exterior Circle-compass, then the Interior fiery pointed Figures in Oyl are set at Liberty, and then those Points ascend in Parallel Lines, and so Dilatate into a Flame, which Dilatation causes Flame to be Rare and Fluid, although not Moist or Wet; But this is to be observed, that Flame is the Rarest part of Fire, but Light is Rarer than
+
+[page 174]
+{: descrip}
+
+Flame; but to conclude this Chapter, Water, Fire, Flame and Light are all Rare and Fluid bodies in their Nature, although they may be obstructed by other Bodies, so as not to Move according to their natural Proprieties, but their Rarity and Fluidity are made by Extenuations and Dilatations, although their Extenuations and Dilatations are of several sorts; Thus we may perceive, that Water, Vitriol, Fire, Oyl, Flame and Light are Mixt bodies, or at least Mixt motions in their Bodies, which produce Mixt effects; in truth, most Effects are of a Mixt nature. 
+
+### CHAP. XV.
+{: #chap5-XV}
+
+*Of the Division of Several Liquors.*
+
+As for Salt, or Sharp, as Vitriol water, or Bitter or Burning waters, those Mixtures are not part of the Interior Form, or Figure, or Motion, or Nature of Water, but onely a part of the Exterior Form, Figure and Motions, which is Dividable from the Interior form or motions; for the Interior nature of Water is to be Rare, Fluid, Moist, Liquid and Wet, the Interior figure of Water is to be Round, Smooth, Circular, but the Exterior parts of those Round, Smooth, Circle-lines may be of divers Shapes, Forms, or Figures, as also the Exterior motions, all which may be different from the Interior Form, Parts and Motions; as for Example, the 
+
+[page 175]
+{: descrip}
+
+Round, Smooth Circle-lines of Water may be Exteriously Flat, Edged, or Pointed, which may be altered by Exterior motions, or those Exterior parts may be Divided from the Interior parts, without a Dissolution of the Interior Nature or Propriety, Quality or Faculty of that Substance or Creature, named Water; The like of other Creatures; for as those Exterior parts, as Flat, Edged, or Pointed figures may by Interior motions, or Exterior motions, be made Smooth or Plain, or those Smooth or Plain parts may be made Flat, Edged, or Pointed, so they may be Divided from the Interior motions and parts, for the Salt or Vitriol may be divided from the Water, and the Water from the Salt or the Vitriol; but yet those Exterior parts are as Substantial in themselves as the Interior parts; as for Example, the Exterior parts of Animals, as Feet, Leggs Thighs, Arms, Hands, Fingers, Eyes, Noses, and the like may be divided from the Body, and yet the Animal Creature remain as an Animal Creature, that is, the Animal is not Destroyed by Separating some of the Exterior parts from the Interior; also some Interior parts, as Humors, Flegm, Choler, Melancholy, Blood, and the like; but if the Vital Interior parts should be Separated, the Animal dissolves; these Vital Interior parts in Animals are the Liver, Heart, Lungs, Spleen, Stomack, Guts, Brain, and the like Chief parts or fundation of the Animal; So for water, if the Interior Circles be dissolved or broken, it is no
+
+[page 176]
+{: descrip}
+
+longer Water, but if the Exterior points or edges be Altered or Separated, or Interior points or edges, which are Superfluities, be Altered or Divided from the Prime Consistent parts or Body of Water, the Water will remain as Nature or Infinite matter and motions hath made it.
+
+### CHAP. XVI.
+{: #chap5-XVI}
+
+*Of the Interior Figures and Motions of Metalls.*
+
+All Metalls are Created after the manner of Circle-figures, as Water is; but the difference is, that the Circle-figure of Metall contracts Inward, as the Circle-figure of Water dilates Outward; but this is to be observed, that Metall hath an Exterior sub-dividing Propriety, which shews that the Exterior parts of the Circle-compass are Edged, so may the Interior parts be Edged as the Exterior parts; but ~~the~~[^5-03] Difference between Points and Edges, although both those Figures are Piercing, and Dividing, or Wounding, yet Edges are more of an United or Continued figure than Points; but to return to the discourse of Metalls, all Metalls have an Interior Contracting motion, as from the Circumference to the Centre, which Contraction causes Metall to be of a Dense body, but some Metalls are more Dense than others, as Gold is more Dense than Lead, but Gold seems
+
+[page 177]
+{: descrip}
+
+to be more Strongly inhabited with Retentive motions, as also with Contracting motions; but to prove that the Interior figure or Metall is like to the Interior figure of Water, is, that when Metall is assaulted by the Dilative motions in Fire, which over-power the Contracting and Retentive motions in Metalls, then Metall becomes Fluid, and floweth as Water doth, but those Fiery Dilatations are named Melting of Metall. But it is to be observed, that it is not the nature of Metall to Flow, for the Flowing effect is Forced, and not Natural, which is the reason, that so soon as the Fiery Dilatations become Weak, the Contractions get the Victory, and Contract the Metall into the former Dense body again, and so a Repetition may be made of Dilating and Contracting so long as the Interior Circle-compass or Lines are individed, but when the Interior Circle-lines are broken or divided, the Metall changes the nature from being Metall, and so much Weight or Body that Metall loses in the Melting or Fiery furnace, so many Cicle-lines are broken and dissolved by Fiery Expulsions, as were in that Quantity of Metall, in which the Nature and Quality is altered or dissolved; But some are of the Opinion, that the Interior nature or figure of Gold is not dissolvable, the reason is, that Chymists finding the Interior Retentive motions in Gold, to be too strong for the Expulsive motions of Fire, think it an Everlasting Body, as not being Liable to be Dissolved; but I 
+
+[page 178]
+{: descrip}
+
+believe this Opinion amongst some Men proceeds from an Impatience, in that they cannot perceive the Dissolution so suddenly as in other Metalls, or that they cannot make a Fire strong enough to Dissolve it, or that they have not found out the True or Right way of dissolving it; for I do verily believe, it is Dissolvable, as all other Creatures are; in truth, it seems to me impossible, that any one Creature can be Eternally Indissoluble, if it hath been Created, for what hath been Made by Animate matter and motions, may be Unmade again; and certainly the Animate matter, which is Restless, will never suffer any one Creature to continue Eternally, no, nor any Part of Infinite matter to keep in one Figure or Form, but Chymists make Gold a God Unalterable; As for Quick-silver, the Interior nature is like Metall, which makes it Heavy, but the Exterior figure is like Water, which makes it Fluid, Soft, Agil, and Glutenous, as to be apt to Divide and Unite.
+
+### CHAP. XVII.
+{: #chap5-XVII}
+
+*Of the Exterior Motions of Heat and Fire.*
+
+Burning, Melting, Boiling, and Evaporating, are caused by several Fiery or Hot Dilatating and Expelling motions, I say Several, by reason all Hot and Fiery Dilatations or Expulsions are not after one and the same Manner or Likeness; besides, those Motions work according
+
+[page 179]
+{: descrip}
+
+to the Exterior Substance they work upon; as for Example, Leather doth not burn as Water doth, for Leather Contracts in the Fire before it Dissolves, and Water Dilatates before it Dissolves, neither doth Stone burn as Wood, and many Examples may be given, for some Substance wastes or dissolves in a Flame, some dissolves in small Sparks, and some dissolves in Vapour, and some by insensible Inspirations, and some Substances become more Dense by Fire, and some more Rare before they expire, & some Bodies may be beyond the fire's Expulsions, as Gold, but most Bodies are subject to Fiery expulsions, by reason the Figure of Fire is the most Wounding, Dividing, and Destroying figure, being extraordinarily Sharp, and the Motions extraordinary Quick or Agil; but yet Fire hath an Enemy, or an Opposite, which is Water, in whose Liquid and Wet substance Fire is destroyed, as being quenched out. But, to conclude this Chapter, all Evaporations and Melting are by Hot dilatations, and all Hardnings, Firmings or Densings, are by Hot contractions, and all Burnings and Dispellings are by Hot expulsions; but this is to be observed, that there are Degrees of Fire.
+
+[page 180]
+{: descrip}
+
+### CHAP. XVIII.
+{: #chap5-XVIII}
+
+*Of the Power of Water on Fire, as the Quenching out Fire.*
+
+There is such an Antipathy betwixt Water and Bright-shining, Hot-burning Fire, as they never meet, but Fire is in danger to be quenched out, if there be a sufficient Quantity of Water; but it is to be observed, that it is not the Actual Coldness of Water that quencheth out Fire, for Scalding water will quench out Hot, Bright, Flaming, Burning fire; therefore it is the Wetness of Water that quenches out Fire. 'Tis true, there be many Liquors that are subject to Burn, but there are few Wets, that have not power to Quench, and many sorts of Flameable Liquor, as Wine, and the like, will quench out Hot, Burning, Bright, Shining fire, if enough of such Liquors be flung on the Burning fire, by reason such Liquors have more of the Watery quality or nature, than the Fiery quality or nature. 
+
+### CHAP. XIX.
+{: #chap5-XIX}
+
+*Of the Dissolving of Water.*
+
+Fire doth seldom get the Victory of Water, but by a Proxy, as when an other Body is between Water and Fire; it is true, the 
+
+[page 181]
+{: descrip}
+
+Fiery points of Hot burning, Bright shining Fire will divide the Watery-circle, if there be more Fire than Water, but not upon a powerful body of Water, for the Wetness of Water doth Flat or Blunt the Fiery points, besides, the Moistness of Water is apt to Glue or Heal the Wound or Broken parts of the Circle-lines as fast as they can be Broken or Divided; besides, the Fiery points are apt to be Intangled, and so incumbred in the Watery-circles as they lose their Force and Power, or are like Birds that are intangled in Nets, or Flies in Spider's Webs; thus, in a plain Combat, for the most part Water hath the Victory, unless there be great Odds of the Fire's side; but when Fire assaults Water by an Undermining motion, then Fire, after some times of Labour, gets the Better, by Hot Dilatating motions, which extends Water beyond the Nature and Degree of the Watery Circle, yet oftentimes there is a Dispute in their Conflict; as for Example, when as Water in a Vessel is set upon Fire, the Fire under the Vessel sends out its Hot Dilatating motions through the Vessel into the Water, and there by violent strength bears up some parts of the Water above other parts, and indeavours to Divide and Break the Water into Exterior parts, and so to Separate the United body, and by those means to Weaken the United strength, also to Rarifie those Parts beyond the Degree of Water, but Water in its own Defence doth endeavour, so long as it
+
+[page 182]
+{: descrip}
+
+hath Strength, to close or joyn those Dissevered or Divided parts into one Body again, by the means of its Natural moistness and wetness; This is the cause of the Perturbance of Boyling water; but when as Fire doth only Rarifie water, it doth that Work by a Softer and Gentler motion, as more Insensible, in which Wasting condition Water dies of a Consumption, or Hectick Feaver, Dissolving by degrees, and as it were Insensibly.
+
+### CHAP.XX.
+
+*Of the Motions that make Natural Air and Natural Light.*
+
+Natural Air seems to be made by such a Kind of Motions, as Spiders make Cob-webs, for the Animate matter's motions Spin from a Rare degree of Inanimate matter, small Lines, interweaving those Lines into a Clear substance, which Thin, Clear, Spreading Substance or Creature, spreads upon and enters into most of the Creatures of the whole Universe through ~~her~~ [^5-04]Porous passages; also this sort of Air is the Chief substance, that the Sun-beams spread and dilate upon, or through, I say upon, for the Sun-beams do not Intermix, for what is Intermixt, doth nor cannot suddenly Separate, besides it would make a Confusion between the Light and Air, insomuch as the Light and Air would be so Perturbed, as all the Region or Hemisphere
+
+[page 183]
+{: descrip}
+
+would be of millions of several Colours, and not any Pure, Clear light, for that which makes the natural Light so Pure and Clear, is, that it is not of a Mixt substance, nor hath Perturbed motions in it self; But it is to be observed, that Light and Air hath some Coherence in their Natures, for they are both made by Dilatations and of Lines, only Natural air and Natural light are different, in that Air is Interweaved Lines like as Spiders webs, whereas Natural light is straight Parallel lines without Interweaving, but these parallel lines are Smaller Lines than Air-lines, and the Substance much purer than the Substance of the purest Air, and the Lines of Natural light which issue from the Sun, do Dilate with an Extraordinary Swiftness, Eveness, or Equalness, Smallness, and Straightness. But there be as many several Lights and Airs as of other Creatures, as some I will express; for Example, as Sun-light, which I name Natural light, then fixed Stars light, then ordinary Fire-light, Meteor-light, Glow-worm light, Rotten wood-light, Cats eyes-light, Fish scales-light, and Fish bones-light, Diamond light; also there be many Reflected lights, as from the Planets, and several Lights that are not known to Men; but as for the Sun-light, or any other Light, it Shines through the Pure air, as through Transparent glass; But were not Light a Body, it would not be subject to Sight, for although all Bodies are not subject to Sight, yet Sight cannot possibly see what is not a Body, which is not 
+
+[page 184]
+{: descrip}
+
+to be seen, and so I could say as well that Fire hath no Body, because Light hath no Body; But this is to be observed, that as some Fires are without Light, so some Lights are without Heat; also Light being a very Rare body, can Dilatate and Contract with facility, and with an Extraordinary agility. But to conclude this Chapter, Light can Dilatate and Contract through the Air, and with the Air, and spread upon Solid bodies without Diminishing its Substance, or Altering its proper Nature, but when the Nature is altered, and the Substance diminished or changed into some other Creature, it changes invisible to our Sense, for all Bodies or Creatures transformations are not subject to one Creatures on Sense: But when as Light is Ecclipsed, it is only hindered from Dilatation but not altered in its Nature, and when Light withdraws from a place, it leaves no Print behind it, for Light is so Soft and Rare, as it cannot Print, unless the Lines of Light be drawn or contracted into several Colours, and those Colours incorporate into other Bodies; But there are so many several Lights, and some sorts of Lights, and their Natures and Proprieties, as also their Effects are so different, as it would be an Endless Work to treat of every Several Sort. 
+
+[page 185]
+{: descrip}
+
+### CHAP. XXI.
+{: #chap5-XXI}
+
+*Of the Motions that make Darkness*
+
+The Motions that make Darkness are opposite to those that make Light, for Light is Equal Parallel lines, and Swift Dilating motions, and Darkness is composed of Contracting motions, but not of such Contractions as do Dense bodies, but only such, as do Darken bodies; also Dark motions do intangle the Lines of Light, or break those Lines, or perturb those Lines, and the Dark contracting motions do obstruct the Light dilating motions, and when as Darkness cannot quite Destroy them, yet it will Darken them, making Shadows, if not Colours. But to prove there be Dark bodies made by such or such Motions, Dark and Black Clouds will obscure the Sun's light, not only by Grossness of the Body, but the Dark or Blackness of the Body, for a Thin, Dark substance will obstruct the bright peircing Light; but the Motions of Darkness seem to be Intermixt, or Intangled, or Troubled motions.
+
+### CHAP. XXII.
+{: #chap5-XXII}
+
+*Of Shadows*
+
+Shadows are Copies or Pictures, Drawn or Printed or Ingraven by Dark motions, which  
+
+[page 186]
+{: descrip}
+
+Dark motions do Ecclipse Light; and to shew there are such Motions as make Darkness, there could be no Shadows if there were not Darkness, nor no Darkness if there were not such sort of Motions to make Darkness.
+
+### CHAP. XXIII.
+{: #chap5-XXIII}
+
+*Of Shadows and Aery Figures.*
+
+Shadows are Printed or Ingraven, or Painted by those Motions which make Darkness, upon Inlightned Air, but the Print is not seen, but upon a Solid Ground or Flat, as I may say, which Ground must be opposite to the Figure it represents, which is after this manner, as one Figure makes more, for the Figure makes a Figure, that is, the External motion of the External figure cuts out a Figure of Air; for questionless, wheresoever our Bodies are, there is the Figure in Air, for we are always incompass'd about with Air, wherein we make Prints of our Figures; for the Solid bodies Print their Figures in that, which is a more Porous and Softer Substance, as a Seal on Wax, or a Print on Butter, or the like; thus the Solid bodies as they remove, still make new Prints perpetually and infinitely, but as they remove, the Prints melt out like Verbal and Vocal Sounds, which Print Words, and set Notes in the Air; and the reason we cannot see the Letter in the Air, as well as hear the Sound, is, that the Air being so Porous, 
+
+[page 187]
+{: descrip}
+
+is proper onely to convey a Sound to the Ear, or to spread it abroad, but not Solid enough to fix the Eye thereon, having not Substance to hold an Object so long a time as to take notice thereof, unless it be drawn into a Shadow upon a Substantial ground, on which the Eye may fix; but until the Figurative be cast upon a Solid ground, the Figures are like Sculpture, but when they are drawn in Shadows upon a Ground it is as Painting or Printing.
+
+### CHAP. XXIV.
+{: #chap5-XXIV}
+
+*Of Stone.*
+
+As for Stones, I am in some question with my self, whether they are made by Cold contractions and retentions, or Hot contractions and retentions, for I observe, that Art will make Stone by the help of Fire, as for Example, Stone-vessels, also Bricks, which are of the nature of Soft stone; but when I consider of Transparent stones, they seem to be made rather by Cold motions than Hot, having the resemblance of Ice; but then I consider, that the Effects of Cold and Heat are oftentimes alike, as Hot and Cold Contractions, Retentions and Expulsions will oftentimes produce the same Effect, or at least not much different, the like for Cold and Hot Dilatations; But I rather believe, that all sorts of Stone are made by Hot contractions and retentions, than by Cold, for
+
+[page 188]
+{: descrip}
+
+Glass, that is somewhat the nature of Transparent stone, is made by Fire.
+
+### CHAP. XXV.
+{: #chap5-XXV}
+
+*Of Transparent Stones.* 
+
+All Transparent stones, as Diamonds, Rubies, Emeralds, Crystal, and all other such like Stones, seem to be made by such kind of Motions as other Stones are, onely they seem to be made by Stronger motions, and more Pure Tempered matter; as for Example, there is great difference between Coarse Iron and Fine Steel, yet both of one sort of Metall, also there is great difference between Coarse Powder-sugar, and Sugar Candi'd, yet both Sugar; also there is great difference between Pure Purseline and Course Earthen-pots, yet both sorts are of Earth; but all Transparent Stones, as also Glass, is onely Calcin'd earth, and as for Transparent Stones, they are Calcin'd by Nature, Glass by Art, which is the Child of Nature; But the two chief Motions in Transparent Stones are Clarefactions and Densations.
+
+### CHAP. XXVI.
+{: #chap5-XXVI}
+
+*Of the Load-stone.*
+
+Me-thinks 'tis strange, that Men should wonder more at the Nature of the Load-stone
+
+[page 189]
+{: descrip}
+
+in Attracting Iron, and in the North's Attracting the Needle Touched with the Load-stone, than at the Sun's Attracting of Vapour. But some will say, that it is the Nature of Fluidity, of which Nature Vapour is one, to move with Facility, and not the Nature of Solidity, of which Nature Iron is one, which is Heavy and Slow; but I say, if the Attracting motions in one Body be stronger than that Contracting and Retentive motions in the other Body, and those Figures Motions work with, be Advantagious, I see no reason, but a Fluid body may Attract a Solid body; for it is not the Substance of the Body that Works, or produceth Effects, but the Agility, Subtilty, or Strength of Motions, and Advantage of the Shape, so that the Working-power is more in Motion and Figure, than meerly the Matter; as for Example, doth not Experience prove, that Fluid Vitriol will work through Solid Metall? The reason is, because the Expulsive motions in the Vitriol, and Sharp points, are stronger than the Contracting motions and Blunt edges in the Metall; but some will ask me, why the Load-stone Attracts onely Iron? Such a Question I ask, why Beauty should forcibly Attract the Eye? They will answer, by Sympathy; and I have heard, that it was the opinion of Learned men, that Sympathy had the same Effect betwixt the Load-stone and Iron, but I think it not so much in Sympathy as Supremacy. Besides, it is the nature of Attracting motions, of which the Load-stone is
+
+[page 190]
+{: descrip}
+
+strongly inhabited withall, to work on that, which is Without it, as From it, not Within it, or as it were upon it, which no other Visible Kind of Motion doth. And certainly, the Load-stone is composed of Sharp figures, yet not of such Sorts as Heat or Burn, and those Figures do issue out as Beams do from the Sun, and as they Draw the Iron, they back Return; and as the Bright beams issuing from the Sun, do neither Weaken nor Lessen it, so the Invisible beams that issue out of the Load-stone neither make it Less or Weaker; yet the Beams of the Load-stone do as the Sun-beams, the farther they Spread out, the less Strength they have to Draw; Besides, if other Motions, which oppose, and are stronger than the Natural motions, may weaken the Strength, as Accidental maladies may weaken Animals, or Shrewd and froward weather Vegetables, or the Natural Consisting motions proper to that Figure, may turn to Expulsive motions, and over-power the Natural Attracting motions that issued therefrom. But, as I have said, it seems the Atractive power of the Load-stone is stronger than the Iron's Retentive power, and Sharp-figures that issue there-from, are more advantagious than the Blunt edges in the Iron; and as the Sharp figures in Fire unknit and loosen the Contractive body of Metalls, making them Fluid, so the Sharp points that issue in Lines from the Load-stone fasten to Iron, Drawing it to it; And as Fire works upon Several bodies 
+
+[page 191]
+{: descrip}
+
+after a Different manner of way, according to the nature of the Body it Works on, producing divers Effects, so for all I can perceive, may the Load-stone; for certainly we do not know, nor never can come to that Knowledge, as to perceive the several Effects that are produced from the Least, or as we account, the most Inconsiderable Creature made in Nature; So that the Load-stone may work as Variously upon several Bodies, as Fire, and produce as Various effects, although nor to our Sense, nor after the Same manner of wayes, that Fire doth; and as Fire works Variously upon Various bodies, so there are Fires of several Sorts, and those several Sorts have several Effects, yet one and the same Kind, but as the Causes in Nature are hid from us, so are most of the Effects; But to conclude my Discourse, we have only found that Effect of the Load-stone, as to draw Iron to it, but the Attracting motion is in obscurity, being Invisible to the Sense of Man, so that his Reason can only Discourse, and bring Probabilities to Strengthen his Arguments, having no Perfect Knowledge in that, nor in any thing else; besides, that Knowledge we have of several things, comes as it were by Chance, or by Experience, for certainly, all the Reason Man hath, would never have found out that one Effect of the Load-stone, as to draw Iron, had not Experience or Chance presented it to us, nor the Effect of the Needle; and all the Ages before, I mean those we have Records of, were Ignorant
+
+[page 192]
+{: descrip}
+
+of that one Effect, and perchance other Ages may find out some other Effects produced therefrom, which these Ages are Ignorant of; and as our Knowledge comes Slow, and in Parts, and Pieces, so we know but Parts and Pieces of every particular thing, neither is the Generality of our Senses capable of one and the Same Knowledge; for what one Sense knows, an other Sense is ignorant of; and questionless there are some things in Nature, that it is impossible for our Senses to be made acquainted therewith, as being too curious for our Senses, but not to some other Senses, for certainly Nature hath as many Different Senses, as other Works. Indeed, all things are wrought by Sensitive motions, which must needs Create a Sensitive Knowledge in every thing, and where Knowledge is, Reason is; for Knowledge is Reason, and Sense is Knowledge, but Sense and Reason work in several Figures, different Wayes, and not only in different Figures, but in one and the same Figure.
+
+### CHAP. XXVII.
+{: #chap5-XXVII}
+
+*Of the Needle.*
+
+I Perceive, the Norths Attraction of the Load-stone is not after the same manner of Attraction, as the Load-stone attracts Iron, for the Attraction of the Load-stone draws Iron to it, but the Attraction of the North draws the Load-stone
+
+[page 193]
+{: descrip}
+
+towards it, by the turning it that way, as the Sun will do the Heads of some sorts of Flowers; for if the North attracted the Load-stone, as the Load-stone Iron, the Load-stone would be in a Perpetual motion, Travelling to the North-pole, unless it were Fix'd, but I do not hear that a Load-stone doth remove out of the place wherein it is, but it turns, as I may say, the Face towards it; now the question will be, whether the Load-stone turns it Self towards the North, or the North turns by Compulsion, or by Sympathy; the Experiment will be by Iron, that if a Great quantity of Iron should be laid at one side of the Needle, whether the Needle would not Vary from the North towards the Iron, if it do, it shews the Load-stone turns it Self towards the North, or else it could not turn from the North, for certainly the North hath a greater Operative Power to turn the Load-stone to it, than the Load-stone could have to turn it Self from it; So if a quantity of Iron can cause the Needle to Vary, it shews that the Load-stone turns to the North by a Self-motion, and not the Motions of the North that make it turn to it, but if it Varies not towards the Iron, then the North Forces it, unless the Load-stone take more delight to View the North's frowning Face, than to imbrace hard Iron, or that the Feeding Appetite is stronger than the Viewing Delight; for it only turns it Self to the face of the North, but if it turns not it Self,  the North Forces it to turn, which as I have said before, is 
+
+[page 194]
+{: descrip}
+
+to be found by the Experiments of Iron; but if it turns it Self, I believe it may receive some Refreshments from those Raies which stream from the North, for all things turn with Self-ends; for certainly every thing hath Self-love, even Hard stones, although they seem Insensible; so the Load-stone may work as Various effects upon several Subjects as Fire, but by reason we have not so much Experience of one as the other, the Strangeness creates a Wonder, for the Old saying is, that Ignorance is the Mother of Admiration, but Fire, which produces greater Effects by Invisible motions, yet we stand not at such Amaze, as at the Load-stone, because these Effects are Familiar unto us. But perchance the Load-stone is Nourished by Iron, as many Creatures are by Heat, for though the Creatures are Nourished therewith, yet the Heat alters not its Vertue, nor the body in which the Heat inheres loses not the Property of Heating, the Sun is not Weakned by Warming the Earth, though the Earth is stronger by the Warmth of the Sun, but Warmth feeds after a Spiritual manner, not a Corporal, and as some things are Nourished by Warmth, so others by Cold, as Ice, Snow, and many other things, the like may the Load-stone be Refreshed, although not Fed by the Cold North; and as Fire is fed by Fuel, so may the Vertical part of the Load-stone be by Iron, as Exercise amongst Animals gets Strength, so doth the Load-stone on Iron, and as Idleness or want of Food breeds Weakness and Faintness, 
+
+[page 195]
+{: descrip}
+
+so doth the Load-stone separated from Iron. But the reason Iron doth not move to Iron, as Iron doth to the Load-stone, is, that there is a Sympathy in Contrarieties, as for Example, those Things or Creatures that are Cold, Seek and Adhere to those Things or Creatures that are Hot, and those Things or Creatures that are Hot, Seek or Adhere to those Things or Creatures that are Cold, so that Cold creatures are Nourish'd by heat, and those that are Hot, are Refreshed by Cold; thus Extreme Contraries meet in Equal Sympathies.
+
+### CHAP. XXVIII.
+{: #chap5-XXVIII}
+
+*Of the Different Motions and Figures in the Tides, as Flowing and Ebbing of the Waters.*
+
+Human Sense and Reason may perceive, that the Tides of Waters have two Different motions at one and the same time, as to Dilatate one way, as in the Flow, and to Contract the other way, as in the Ebb, at one and the same time; also to have two Different figures at one and the same time, as to be Convex at the Head of the Tide or Overflow, and to be Concave at the Tail or End of the Full Tide, or Flow, which is the Ebb; but that which my Human sense and reason perswade me, that Water doth always Flow in a Convex, and Ebb in a Concave, or a Pointed line, is, that when
+
+[page 196]
+{: descrip}
+
+we fling or throw Water on the Ground, it Flows in a Half-circle in a Convex figure, and the End of the Flow is Narrow, like as the Figure of that Fruit we call a Pear, which is Round and Big at the Upper part, and Narrow and Small to the Stalk; so that the Concave gathers towards a Point, but being Swell'd by the fall of the Tide, it Widens and Dilatates into a Compass, as into a Half-circle; but to inform my Readers as well as I can of my Opinion, without disputing according to Copernicus, that the Earth goeth about, and the Sun stands still, upon which Ground I have heard that Galilaeus says, the reason of the Ebbing and Flowing of the Sea is the Jogging of the Earth; but I have heard that the old Opinion was, that the Moon was the cause of the Ebb and Flow, which I can hardly believe, for mark the Tide from Scotland to Marget, when the Moon hath the same Influence, and this Tide is always so many hours in coming from Scotland to Marget; if it were the Moon, why should it not be High-water or Full-tide at Marget and in Scotland at the same time, the Power of the Moon being all one?  So that seems very improbable to me, for many things fall out at the Same time, and yet the one is not the Cause of the other; and in Philosophy there is nothing so ordinary as to mistake the Cause of Things, since indeed the Causes of Things for the most part are Hidden from us. But some again will have the Sun the cause of the Ebbing and Flowing of the
+
+[page 197]
+{: descrip}
+
+Sea; others say, Heat makes Motion, and the Seas being Salt make Motion, because it is Hot; but how comes it that the Fresh-waters Ebb and Flow, even Springs? But whatsoever the Cause be of the Sea's Motion, where it moves; for in some places, they say, it doth not; but where it moves, it is never High-water in one place, but it is Low-water in another place, and the Sea moves always Circularly; for as it is the Nature of Water to be made in Figures of Circular-lines, so it is the Nature to Flow Circularly, which, in my Opinion, is the reason of the Ebbing and Flowing Tides, that move Circularly, that is part of a ~~Circular~~[^5-05], where the Convex flows still forward, the Flowing motion extends more and more, causing it to swell out, and the Concave ends to extend longer and closer, insomuch as at last the Concave ends are joined into a Convex, for it doth not extend in a perfect Round circle, as I shall describe in my following Discourse, but after an Oval, or rather a Pear-figure, but when the Flowing Convex is extended beyond the Strength, it streight breaks, being most weak, by reason it is most Extended out, so that when the Tides have no more strength to Flow for want of Water to Extend, and the Convex over-power'd by Extenuation, it breaks asunder, and so falls back, whereby the Convex parts are now become the Concave, and where it was Concave, is now become Convex, which causeth it to Flow the other way, and Ebb where it did Flow; for where it 
+
+[page 198]
+{: descrip}
+
+lies Concave, it Ebbs, and where it is Convex, it Floweth, and thus it Ebbs and Flows perpetually, where it hath free Passage, but the farther it Flows, the Weaker it becomes, by reason the strength is abated, like a Horse that hath run fast and far, at last is so weak and breathless as he falls down; so when the Convex can Extend no farther, it breaks in two; but as the Convex Extends, the Concave ends draw Closer together, where by such time as they come to joyn, the Convex is so bowingly stretched, as it becomes Brittle, as I may say, or Weak, which causes it to break; but it is to be observed, that the Tides have a Double motion, for as the Convex flows Forward, the Concave ends draw Backward at one and the same time, for the Extenuation of Convex one way, causeth the Extenuation of the Concave ends the other way; but by reason the two Ends draw close towards a Point, the Ebbing waters seem Narrow and Little; but the Ebbing Tides are but an Effect of the Flowing Tides, not a Cause in itself, for the Interior nature of Water is to Flow where it can get Liberty and Freedom of Passage, and where it doth not Flow, it is Obstructed by some Obscure cause; But I desire my Reader not to mistake me, as to conceive the Motion of the Tides, and the Interior nature of Water all one, being something alike; but the Motion of the Tides, and the Motions of the Interior nature of Water are as Different, as the Local Motions of Animals, and their Interior
+
+[page 199]
+{: descrip}
+
+nature, and I believe, if the fresh Water had the same Liberty as the Sea-waters, to Flow which way they would, without Opposition or Obstructions of Hills, Dales, Banks, and Walls, and had the like Quantity to move withall, I believe they would as naturally Flow as the Sea, and Ebb when their Strength fails; and I believe, if there were a sufficient Quantity of Water in the Sea, and no Obstructions, as Islands, Creeks, and the like, to hinder the Passage, and that the Earth were like a Billiard Ball, it would Flow perpetually Round, as the Globe turns upon the Pole, if the Pole turns not round with the Globe:  But by reason of the several Obstructions of Islands, Creeks, Rocks, and Precipices of Ice, the Sea cannot have a constant Force or Stream of Running round the Earth, but being broken in Parts, or Divided by these Obstructions, it Flows as it were in Parts, which is to Flow, and then to fall Back in an Ebb, wanting a full Power and Strength to Flow round; for certainly it is the Nature of the Sea, if not Obstructed, to Flow round, and not to Flow, and then to Ebb in Tides; but the cause of the Motion of the Sea is the Roundness of the Earth, and the great Quantity of Water above it, and the cause of the Ebbing of the Tides, is the Obstruction afore-mentioned, and not caused by the Jogging of the Earth, as some have Imagined, which is to my Sense a Rough Opinion, to conceive so Rough and Jumping a motion of the Earth, which Turbulent 
+
+[page 200]
+{: descrip}
+
+and Uneasie motion in my Opinion would Disorder the Earth, and the Creatures in and upon the Earth, rather than cause the Tides; but if the Earth hath a Smooth Circular motion, it may cause the Sea to move with it in a Circular stream, like as a Mill-wheel in a Pond, but these Obstructions I mention, hinder that free Circulation, and are the cause of Ebbing and Flowing, so that it hath neither the Strength, nor the Liberty to go Round in a Smooth Stream, but is Troubled and Opposed. But to conclude, if the Earth had such a constant Jogging motion, it would cause a Perpetual Descension and Ascension of Mounts and Vallies, neither would there be any Setled and Firm ground.
+
+### CHAP. XXIX.
+{: #chap5-XXIX}
+
+*Describing of Tides.*
+
+The Flowing Water gathers up together like Superfluous Humours, and swells out the Convex, as Corrupted matter doth the Skin, and never leaves Extending till it Breaks, but it beings by ~~the~~[^5-06] Degrees in a Demy-circle, and as it Flows, it grows Larger and Longer, extending its Compass; and as the Convex Extends, the Concave ends must of necessity draw Closer together, which makes the Ebbing waters like a Tail to the Convex, which is as the Body, which makes the Ebbing waters to be Narrow, and by ~~the~~[^5-07] reason the Bulk of the Water flows
+
+[page 201]
+{: descrip}
+
+in the Convex, it causes the Concave ends to be Small, which makes it Shallow, and the more the Concave ends Extend, the Smaller they are, like Thread drawn from a full Distaff of Flax; for so the Concave ends draw or rather extend from the Convex body; but as I said before, the more the Convex Extends, the Closer the Concave ends draw together, and when the Convex is Extended to the uttermost, they Joyn, and as soon as ever they are Joyned, and mixt together into one Point as it were, it swells into a Body; for the former Convex being broken, the Waters fall back to that Part, which was the Concave, but now is become the Convex, and that Part, which was the Convex, is now become the Concave, yet the Convex must be full, before the Concave ends extend, like as a Glass that must be filled above the Brim before it can run over.
+
+### CHAP. XXX.
+{: #chap5-XXX}
+
+*Of Double-tides.*
+
+As for Double-tides, they are caused when as the Convex Lines of the Flowing Tide break faster than it can orderly Retreat, whereby they Retort back with a Double force, which causes a Double-tide.
+
+[page 202]
+{: descrip}
+
+### CHAP. XXXI.
+{: #chap5-XXXI}
+
+*Of Spring-tides.*
+
+AS for Spring-tides, they are like as Natural Issues, that proceed from the Earth, for though the Veins of the Earth are not fill'd with Sea-water, yet the Superfluous water in the Earth may issue forth of the Earth, which Issues cause the ordinary Tides to Exceed both in Strength and Fulness, and when there are Lower Tides than ordinary, there is some Obstruction, that the Observation of Men knows not.
+
+### CHAP. XXXII.
+{: #chap5-XXXII}
+
+*Of Tides and Streams Flowing against each other.*
+
+THE reason the Tides flow thorow a Stream of a Running River, is, that the Tide is more Strong than the Stream, but if the Stream flows thorow the Tide, then the Stream is Stronger than the Tide, but if the Stream and Tide pass thorow each other, as the Stream to go beyond the Tide, and the Tide beyond the Stream, then the Tide and Stream are like Duellers, which make Passes and Passages.
+
+[page 203]
+{: descrip}
+
+### CHAP. XXXIII.
+{: #chap5-XXXIII}
+
+*Whether the Sea run thorow the Veins of the Earth.*
+
+Some of the Learn'd are of that Opinion, that the Veins in the Earth are fill'd from the Sea, and that the Sea-water runs thorow the Earth as thorow a Sive, or the like Porous thing, letting pass the Rarer or Thinnest part, and restraining back the more Solid parts, which is the Salt, which to my reason is not probable; for we may observe through Experience, that the Nature of Water is Moist, and Liquid, and Wet, by which Wetness it Draws or Intermixes so, as to Suck or Draw the Salt or Tincture out of Solid Substances or Bodies, even the most Solid bodies, as Minerals, which are more Hard or Dense than the Porous earth is; and we find by Experience, that those Waters which run thorow Mines, have not onely the Taste and Tincture of those Minerals they have met with, but the Purging and Opening effects, which shew, that the Water draws a Substance from the Minerals, and not the Minerals from the Water, the like from the Earth, for that Water that runs thorow Chalky-grounds and Clay-grounds, will have the Colour and Taste of either; also all Salt-meats that are laid or soaked in Fresh-water, the Water becomes Salt and the Meat Fresh,
+
+[page 204]
+{: descrip}
+
+by reason the Water hath drawn with the Liquid and Wet motions the Salt from out the Meat; 'tis true, Salt-water will make Fresh-meat Salt, by reason it enters thorow the Pores of that Spongy substance, and there remains so as it is, the Salt-water is in that Porous substance, for that Fresh substance hath not made the Water Fresh, but the Salt-water hath made the Meat Salt by remaining in it; By these Experiences we may easily believe, that either the Sea-water doth not run thorow the Veins of the Earth, or that it is not made Fresh by the Earth, but by the Heat in the Earth, which Distills, and so divides the Salt from the water; but it is more probable, that the Earth is fill'd with Fresh-water of her own, which is as the Blood in the Veins, and Dews are as Sweat thorow the Pores of the Earth, and Rains are those Dews turned to Vapours, and so into Clowds, which fall back upon the Earth, and so into the Earth again. But, to draw towards an end of this Chapter, if the Sea-water runs thorow the Veins of the Earth, the Sea must be much Bigger than the Earth, as to Feed and Nourish the Earth, as also to Feed, Nourish and Refresh all the Creatures in the Earth, as also to serve its own turn to keep in a Full Sea, and to serve all the Sea-creatures, and to run about the Circumference of the Earth, and to feed the Air and Vapours, Winds, and the Like, both Within the Earth, and Above the Earth; and if the Earth were bigger than the Sea,
+
+[page 205]
+{: descrip}
+
+then the Sea were not sufficient to serve the Earth, as also its own Compass and Depth, otherwise they must be Equal, as not the Sea to be more than the Earth, or the Earth more than the Sea.
+
+### CHAP. XXXIV.
+{: #chap5-XXXIV}
+
+*Of Nilus.*
+
+In Egypt, the Sun being Hot, and that part of the Earth as is named Egypt having not a Sufficiency of Moisture, for the Motions from the Sun to draw forth, the Sun becomes so Strong in such a course of Time, as to draw up a Great quantity, like a Sea, but the Strength being not able to draw up such a Body of Water very High, after it hath drawn the Water some Heighth, as some Yards or Feet high, the Sun lets go his Hold by Degrees, which causes the Waters to fall back, or to descend, and then to run their former Course; besides, it may be the Propriety of the Sun to have more Attractive motions on Water in those Parts of the Earth at such a Time of his Course, or Yearly Journey; but if Nilus proceeds from the Nature of the Water, to Flow to such a part of the Earth, in such a compass of Time as once a Year, then it is after the Nature of Natural Issues or Tides, of which Human sense and reason hath not clearly found out the true cause, but Causes are not readily to be known, although it be easie 
+
+[page 206]
+{: descrip}
+
+to observe the Effects; and as for the Cause of Tides, and Nilus overflowing, we may as well ask, why Animals breath as to draw Inward and dilatate Outward the Air and Breath in such equal distance of Time and Motions, as why the Water Ebbs and Flows at such constant times.
+
+### CHAP. XXXV.
+{: #chap5-XXXV}
+
+*Of the Divided Parts of Water, and several External Motions.*
+
+Water being of a Rare and Porous body, is apt to Divide into several Parts, as into several Drops, which Drops are Round, according to the proper Nature of Water, being composed of round Circle-lines; but Water is apt to Divide in Parts, so those Parts are apt to unite together, for as the Rarity and Sponginess makes it apt to Dissever, so the Wetness and Rarity makes those Parts apt to Joyn and ~~Stich~~[^5-08] together, or to Intermix together; also the Rarity makes Water Fluid, and Rarity and Fluidity is caused by Extenuating motions; But, to conclude this Chapter, as Human sense and reason may perceive and observe, that Interior and Creating motions are divers in every Creature, so the Exterior motions, as for Example, of the Exterior motions of Water, which are after divers and several manners of Ways and Motions, as Flowing, Ebbing, Streaming, Spreading, Running, Circling, 
+
+[page 207]
+{: descrip}
+
+Waving, Furling, Folding, Curling, Rising, Falling, Springing, Dropping, Showring or Raining, which is in falling long straight Lines, or Chains of drops, either Intermixt drops, or Joyn'd drops; also the several Dilatations, as into Vapour, Air, or Wind; also it will Contract into Snow, Hail, Frost, and Ice, and millions of other Motions, that will be too tedious to Express, and millions of Motions, that Human sense and reason cannot Express, and as for Water, so the like of all other Creatures.
+
+### CHAP. XXXVI.
+{: #chap5-XXXVI}
+
+*Of Rain.*
+
+Water is apt to fall down by the Weightiness, for the several Drops or Parts of Water sticking close through the Wet quality or propriety, those Parts joyn close together, or intermix so one into an other, as they cause Weightiness, for though the nature of Water is Rare, and the Animate motions are Extenuations, yet the Combining of the Parts of Water is Contraction, and so Densation, and so becomes Heavy, so that the Interior motions make it Rare and Light, but the Exterior motions make it Dense and Heavy, so that Water by the Animate nature and motions is apt to Disperse, and to Ascend into Vapour, and by the Exterior motions to Unite and Descend into Rain, thus Water ascends in Vapour, 
+
+[page 208]
+{: descrip}
+
+unites in Clouds, and falls down in Showers of Rain.
+
+### CHAP. XXXVII.
+{: #chap5-XXXVII}
+
+*Of External Figures, and Internal Forms.*
+
+In some Creatures, there is such a Sympathy betwixt the Internal Form, and External Figure, as the Alteration of the one, Changes the Nature of the other; as for Fire, when as the External figure is Altered, the Internal faculty or propriety or nature is Destroyed; by which it is to be observed, that the Interior nature of Fire depends upon the Exterior figure; but as for Water, the External figure may be Changed or Altered, and the Interior nature not Altered, as we may observe when it is Frozen or Congealed into Ice, Hail, or Snow, then the Exterior figure of Water is Changed, but not in the Interior nature, for when Water is Unfrozen, the Water will be, as it was, before it was Frozen, by which we may observe, that the Interior nature of Water doth not depend upon the Exterior figure; as for Animals, as their Exterior figures are not so United to the Interior nature as Fire, as to Dissolve one with the other, nor so Pliant as Water, as to Change and Re-change from one Exterior figure to an other Exterior figure, neither do the Exterior figures of Animals suddenly Dissolve with the Interior nature, for the Exterior figure of a Dead man is as 
+
+[page 209]
+{: descrip}
+
+it was when he was Alive, but after the Interior nature is dissolved in Animals, the Exterior figure dissolves by Degrees.
+
+### CHAP. XXXVIII.
+{: #chap5-XXXVIII}
+
+*Of Metamorphosed Elements.*
+
+As I have formerly mentioned the Creating motions of Earth, Water, Air, and Fire, now I will Discourse of the Alternative motions, or the Transforming motions, as also the Destroying motions of the Loose parts of the Elemental bodies; I begin with the Transforming motions of some of the Loose parts of the Earth; the Natural motions are Attractive, Contractive, and Retentive, when as those Motions alter from Contractive to Dilative, or that other Motions in other Creatures intermix and Over-power the Natural motions, they alter the Exterior figure, and many times the Interior nature; but as for the Alteration of Earth, when as the Dilatating motions have Power over the Contracting motions, or the Rarifying motions over the Densing motions, Dilatating and Extending motions cause the Contractions in the solid Earth to let go their Strength, and by Degrees cause them to quit their Power, and then the Dilatations become Strong, and Dilatate the Solid Earth to a Porous and Spongy body, as from Earth to Mud, from Mud to Slime, and from Slime to Water, which Water is somewhat
+
+[page 210]
+{: descrip}
+
+more than the Middle degree of Extenuations or Dilations, which Dilations have brought or wrought Flatt matter of Earth into a Round circle, which before was a Lump or Ball of Earth, but if the Dilatations work beyond the Degree of Water, which is to be Liquid and Wet, then they Extend from Water to Vapour, from Vapour to Air, from Air to Fire, for as the Circumferent lines Extend, they become Smaller, and the Matter to be more Rare, as to be more Rare than the Degree of Water, or the Propriety of Wet requires, and so becomes Vapour, which is less Wet and more Rare than Water, for Water ~~in~~[^5-09] such a Degree of Circle Extenuations, Dilatations, or Rarifications, as to produce such a Substance to be Fluid, Moist, Liquid, and Wet, but beyond such a Degree it becomes less Wet as before that Degree, to be more and more Wet; but as I said, beyond the Degree of Water it becomes Vapour, from the Degree of Vapour it Extends, and is so Rarified, as to be Air, and from the Degree of Air it Extends so far as the Circumferent Lines become so Small with Extensions, as they become as Sharp as an Edge of a Knife, or such a thing, so as that Degree is next to the nature of Fire, as to have the Heat of Fire, for though the Degree is not beyond Air, yet the Air is Sulphury Hot; but it is to be observed, that this Sort of Air is like to Seething or Boyling water, for it is a Moist heath, like as a Sweating heat, and the reason is, that though the 
+
+[page 211]
+{: descrip}
+
+Watery circles are extended to an Airy substance, yet they are not Dissolved, but if those Circle-lines extend farther, or more than the Quantity of Matter will afford or allow to give a Compass, those Lines being extended very Small, break into Pointed parts, for the Smallness of the Lines causes the Figure of Points, when it is divided in Parts, and then the Interior nature and Lines are Dissolved, but if they extend not to a Dissolution, those Lines may Contract from the outmost Extension back to the former Degrees, as to return from Thin, Hot, Moist Air, to Thicker Air, from Thicker or Grosser Air to Vapour, from Vapour to Water, from Water to Slime, from Slime to Mud, from Mud to Solid Earth, for as it did Dilatate, Extenuate, and Rarifie, so in the Return it Contracts and Densifies; but this is to be observed, that according to those Motions are Slower or Agiler, so is the Alteration, also it is to be observed, that sometimes one Degree or Change will last Longer than the other Degrees, and sometimes some Degrees or Alterations change Sooner, and sometimes those Substances of these Metamorphosed Elements Dissolve in their Several changes, if other Figures, Creatures, or Motions do oppose them; but these Metamorphosed Elements are Increasable and Decreasable, as may other Creatures are, and when the Interior nature is Altered, the Substance Dissolves into other Creatures.
+
+[page 212]
+{: descrip}
+
+### CHAP. XXXIX.
+{: #chap5-XXXIX}
+
+*Of those Motions or Figures, that turn Water to Snow, Hail, Ice and Frost*
+
+Water being of a Soft, Fluid, Liquid, Moist, Wet substance, and being composed of a Circle-figure, is more pliant, and apt to be moved or wrought upon, than any other Creature or Substance, which is the reason that Cold and Hot motions seldom suffer Water to live in peace or rest, but often Transform and Metamorphose Water into several Shapes, and several Exterior figures; as for Cold contractions, they Draw, Wind, Twist, and Pull in the Watery lines, and Circle-figure many several ways, making water into Snow, Hail, Ice, and the like, for when Cold contractions make Water Snow, they draw the Circle-lines of Water in Triangular figures, and when Cold Contracting motions make Water Ice, then they draw the Watery circles in Square figures, and when the Cold Contracting motions make Water Hail, 'tis made into a Lump or Heap-figure, for in Hail, the Circle-lines of Water are twisted and wound about on a Heap, or Hail seems to be made by drawing the Water-circles by a Round Circular motion into a Close Contracted Body, and when Cold contractions do freez Dew, which is Water, they Surfle the Water-circles, 
+
+[page 213]
+{: descrip}
+
+which makes them Exteriously Rough or Uneven; for though Surfling is in the manner of a Round contraction, yet they draw onely the Parts to be Uneven; thus the Water-circles and Compass may be drawn from Round to Triangular, or from Round to Parallel, or from Round to many other several Figures, I will not say, by a Mathematical rule, but certainly Nature is beyond Art. Some may put the Question, why I should imagine that Ice, Hail, Snow and Frost, is made by such Motions into such Figures? My Answer is, that I observing the Nature of Dry cold, and the Nature of Moist and Liquid water, and the several Changes and Shapes of Transform'd water, it doth appear probable to my Human sense and reason, that Ice, Hail, Snow and Frost should be made according to my former Description. But, to conclude this Chapter, when the Hot dilatations are more Powerful than the Cold contractions, they extend the Watery-circles into their Natural figure and compass again.
+
+### CHAP. XL.
+{: #chap5-XL}
+
+*Why Snow is Rougher and Lighter than Ice or Hail.*
+
+The reason, Snow is Lighter and more Rough than Hail or Ice, is, that Snow being of a Triangular figure, which is a Figure where the Lines are not Straight, nor the Points
+
+[page 214]
+{: descrip}
+
+Equal in number, for Triangular-lines are Slope-lines, and the Points are Odd in number, whereas Square-figures have four Straight lines, and a just number of Points, and a Parallel line Straight, and two Equal ends or points; But a Triangular figure is not so, for though Three be a Plural number, it is an Odd number, as Two and a Single one, and a Triangular-figure being Uneven, causes it to be unsteady, not being Equally poised; besides, a Triangular figure cannot be so Compact or so United as any other Figure, which hinders that Figure from being Condensed into so Solid a Body as the Square or Round figure may be, and the Less a Body is Condensed, the Lighter the Body is, and the More a Body is Densed, the Heavier a Body is; but there be several Densities and Rarities, where some are Heavier than others, and some Lighter than others, according to the Degrees and Temperaments of several Substances, for the Nature of some Substance may alter the Weight as much as the Motions can do, for there is great difference between the nature of Water, Fire, Light, and Air, and yet they have all Rare bodies; also there may be great difference between Several waters, Several airs, Several fires, Several lights, and the like; also there may be difference of Densing motions, Rarifying motions, as some Densing motions may be Weaker, some Stronger, some Swifter, and some Slower than others; the like for Rarifying motions. 
+
+[page 215]
+{: descrip}
+
+### CHAP. XLI.
+{: #chap5-XLI}
+
+*Of Colours.*
+
+As for Colours, there are Natural Colours, Accidental Colours, and Artificial Colours: Natural Colours are such as are Proper to each Kind, as also to each Sort of Creatures, as the Different Colours of the Several Elements, Minerals, Animals, and Vegetables; Accidental Colours are Metamorphosed Light or Air, or some Sorts of Loose and Rare Matter caused by Several Motions; Artificial Colours are made by Several Mixtures of Several Substances, and Several Motions. But this is to be observed, that all Colours in all Sorts or Kinds are made by Several Contracting Motions; also it is to be observed, that the Natural Colours of Minerals are more Various and Different than those of Elements, and the Natural Colours of Animals more Various and Different than those of Minerals, and the Natural Colours of Vegetables more Various and Different than those of Animals. Some are of an Opinion, that Colour is made onely by Light, but how can one and the Same Light make so many Several Colours as belong to every Kind and Sort of Creatures? Or how can Light be the Cause, that a Parrot is one Kind of a Pie-colour'd Bird, and a Peacock another Kind of a 
+
+[page 216]
+{: descrip}
+
+Pied Bird, whose Colours are not caused by Light but by Nature? otherwise, if a Horse get a Foal of his own Color, it cannot truly be said, the Horse is the Cause of he Foal's Colour, but the Light, which is Ridiculous, and many Examples might be given to Cross this Opinion. But by reason some Colours are made by Perturbed Light, some Men have an Opinion, that all Colours are made that way; but such Colours as are Inherent, Light onely shews them to the Eye, but doth not make them in their Substance, for Grass is Green, whether the Eye seeth it or not, as much in the Night as in the Day, and the darkness of the Night doth only Obscure Colours, not Alter there Inherent Nature: for no Man can in Reason say, that the Sun is not of the Color of Fire, when as a Dark and Black Cloud Obscures it.
+
+But Natural and Inherent Colours are made thus: Motion making Lines of the most Facil Substance of a Creature, Contracts those Lines into Several Works or Figures, and according as those Lines are Drawn into such and such Figures, they cause such and such Colours; as for Example, when those Lines are Drawn or Contracted into such a Figure, it is Red, when into such a Figure, Blew, into such a Figure, Yellow, into such a Figure, Green; and when those Lines are Contracted partly into the Figure of Red, and partly into the Figure of Blew, it makes a Figure of Purple; and if 
+
+[page 217]
+{: descrip}
+
+they be Contracted partly into the Figure of Red, and Partly into the Figure of Blew, and partly into the Figure of Purple, it makes a Fourth Figure, which is a Fourth Colour, and so by the Intermixing of Several Figures, there may be made Infinite Colours; Likewise one and the Same Figure which is one Perfect Colour, may vary with each Particular Figure, which is a Particular Colour, and according as the Figures Differ, the Colours Change or Alter. As for Shadows of Colours, they are in my Opinion produced after this following manner: The Figure of Blew is one Perfect Colour, and the Figure of Red another Perfect Colour, but being Mixt, they make a Mixt colour; also Blew and Yellow make a Different Mixt colour from Blew and Red, and Blew and Green a Different colour from Blew and Yellow, and so we may Match Figures of Colours until a Man be Weary, but whatsoever hath Constantly one and the Same Figure in the Several or Single parts of other Figures, which are other Colours, produces Shadows in Colours, as Blew and Green, Blew and Red, Blew and Yellow, and the like, appear in Shadows of Colours, by reason one Particular figure of such a Particular Colour is the Ground-work, that is the Ground figure, which is the Ground colour, and makes all the Figures and Colours, it is mixt with, to be partly of its own Ground-figure and Colour, and according there is 
+
+[page un-numbered]
+{: descrip}
+
+More or Less Mixture, the Shadows are Fainter or Stronger, and according as those Figures are Less or More Contracted, the Colours are Deeper or Paler, for those Colours, whose Figures are Closer contracted, and Rougher wrought, are the Darkest colours as nearest to Black, and those Colours, whose Figures are the Loosest and most at Liberty, are the Lightest or Palest, and those Figures of Colours that are made of the Purest Substance, and most Exactly Wrought with the Smallest Lines, produce the Brightest Colours.
+
+Some say, Colours are made by Perturbed or Obstructed Light, but in my Opinion they are rather Broken Lines of Light, for if it were Perturbed Light, like as Over-agitated Air, or Troubled and Rough Waters, the Light would be onely Darker or Grosser; 'Tis true, those Perturbed motions may be the cause many times of Breaking the Light, which Broken parts Contracting into Several figures cause Several colours, every Particular figure being a Several work, and when those Several figures are Intermixed with each other, they cause Intermixed colours, for the Several figures made of the Pieces of Light are the cause of Several colours, and not those Pieces of Light without those Figures, for if those Lines of Light were not Contracted into Several figures, they could not make Colours; but if Airy Colours are not made by Broken lines of Light, but of Whole
+
+[page 218]
+{: descrip}
+
+lines, then such Colours are made by Contracting the Straight Unbroken lines of Light and Air, which Contraction turns Light or Air into Colours, as Contraction doth Water into Snow, Ice, Hail, and Frost; But it is to be observed, that it is not onely the Contracting motions, that make the Difference, but being Contracted into such or such Figures, as for Example, when the Water-circle is Contracted into such a Figure, it is Snow, when into such a Figure, Ice, into such a Figure, Hail; so when the Lines of Light are Contracted into such a Figure, it is Red, into such a Figure, Blew, into such a Figure, Yellow, and when the Figures are Intermixt, there are Mixt colours.
+
+But I will conclude this Chapter of Colours with an Answer to Two Questions, the First is, Whether all Creatures see all Objects alike? My Answer is, that if the Sight be Perfect, and without Imperfection, they do, but if the Sight be Imperfect, either by Nature or Accident, or be Over-powered, they do not, for a Squint-sight seeth Double, a Dazled sight seeth Glimmering, and a Dying sight seeth Fading, and many other Examples might be mentioned, concerning the Alteration of Sight, but Particulars are no Objection against the General, for surely an Eye is Nature's Press, to Print all Outward Objects that are Presented to it, the like are all the rest of the Senses, nevertheless there may be False or Defective Presses
+
+[page 218]
+{: descrip}
+
+or Prints made by Error or Imperfection. Another Question is, Whether Colour be in the Eye, or in the Object, or in the Air? My Answer is, Colour may be made in All, as well in the Object, Air, and Eye, as for Example, the Colour of Grass is in the Object, and when the Object meets with the Eye, both the Form and the Colour of the Grass is Printed in the Eye, also the Several Colours made by Perturbed light are in the Air, but if those Colours meet in the Distance of the Eye, the same Colours are Printed in the Eye; also Colours may be made in the Eye without the Help of Outward Objects, as in Dreams, or by a Blow on the Eye, or in a Frensy, or in the Entrance into a Swoon, and may other ways, which would be too Tedious to Relate. 
+
+### CHAP. LXII.
+{: #chap5-LXII}
+
+*Of Airy Figures.*
+
+As I said before, the Solid bodies moving in the Soft and more Porous bodies, make many Figures therein, some as Printed, some as Painted, others as Sculpture, as Cut, or Carved, in Wood or Stone, or Cast in Metall, or Moulded in Earth, some are as if a Man, or the like Creature, should Print themselves in Snow, 
+
+[page 219]
+{: descrip}
+
+others as if they should make themselves in Snow; as for Example, as if a Man should stand, and let the Snow fall thick upon him until he were all covered over, there would be his Figure in Snow, or if he should lie down in Snow, there would be his Print; so it is in Air, as we move from Place to Place, new Figures are made, and the former Figures Moulder or Melt out; but according as the Air is, so they Last, or Decay, for if the Air be Congealed with Cold, Thickned with Gross Fogs or Mist, the Figures last the Longer therein, although in a mishapen Posture, like ruinated Buildings, or broken Statues, or like defeated Armies, here an Arm, or a piece of an Arm, or a Hand, and there Legs, here a Head, there a mangled Body; but when the Air is Thin and Serene, the Print Dissolves as soon as the Figure Removes, and if the Air were as Solid as Snow, we should see the Figures as perfect in the one as in the other; but the Air being very Thin and Porous, the Sight of the Eye runs thorow without stay or stop, taking no notice, like Water in a Sive, wherein nought can be contained, because there is no hold to keep the Water in from running out. 
+
+### CHAP. XVIII.
+{: #chap5-XVIII}
+
+*Of Several sorts of Vapors.*
+
+There are many sorts of Vapors, according to the several Temperaments of those several
+
+[page 220]
+{: descrip}
+
+Parts of Earth they are Attracted from by other Creatures or Substances, or Dilatated forth of each Part or Parts of Earth; but it is to be observed, that many Several sorts of Vapors, when they are Drawn, or Ascend to such a Degree of Heighth, they all Intermix or Joyn together, yet seldom so Equally, but that some one sort doth Predominate over the rest, whether Salt vapor, or Sharp, as Vitriol vapor, or Oyly, or Sulphury, or Bitumenous, or Fresh waterish, or Gross earthy, Heavy, or Light and Airy; but from these Several sorts of Vapors may proceed Clowds, Rains, Snow, Hail, Wind, Lightening, Thunder, Meteors, and the like, made by Several motions on those Several vapors; and as there are Several vapors proceeding from the Body of the Earth, so there are several other Vapors, from several other Creatures, especially Animals and Vegetables, all which Vapors are Rarer parts than Water, but not so Rare as Air or Fire; but as for Animals and Vegetables, as there is a Natural heat, and a Natural moisture, Proper and Inherent in all Animals and Vegetables, so there is a Natural vapor produced between each, as between the Heat and Moisture, and by such Motions as make Vapor, but the Inherent Heat, Moisture and Vapor in Animals, are made by the Vital and Radical Heat, Moisture and Vapour. 
+
+[page 221]
+{: descrip}
+
+### CHAP. XLIV.
+{: #chap5-XLIV}
+
+*Of the Agreement and Disagreement of Fire and Wind.*
+
+Human sense and reason may observe, that Wind is somewhat of the Nature of Fire, which strives to Dissipate all things it meets or encounters with, and not onely so, but even to Dissipate its own Matter, by indeavouring to Spread it self over all Substance or Matter it doth encounter; this is the cause of the Sympathy between Wind and Fire, for the Motions in Wind do assist the Motions of Fire, as for Example, when as Fire is applied to Wood, or any other the like Matter, when as the Fire hath not Force or Power enough to Rivet, Wedge, or Peirce, or Thrust in its Fiery points into that Matter it meets with, the Wind lends the Fire Force, like as an Hammer doth to Nails, so the Wind Beats in the Fiery points into the Dense wood or other Opposing matter; also Wind doth help to Spread the Fire into the Several parts of the Opposite matter; thus Wind doth lend Fire Force; but this is to be observed, that Wind and Fire doth as two great Monarchs, which Help and assist each other at first in their weak condition, but afterward they strive to Destroy each other, as striving which shall be Absolute; for Wind after it hath holpen the Fire to Kindle, then to Burn, indeavours
+
+[page 222]
+{: descrip}
+
+to Dissipate both Fuel and Fire, for if the Wind can Dissipate the Fuel, it must needs Dissipate the Fire in the Fuel, for when the Fuel is Dissipated, the Fire Dies, having nothing to Feed or Live on; as for Example, a Man with his Breath, which is Wind, can blow Out the Flame of a Candle, and with his Breath can blow In the Flame again, that is, when he blows his Wind gently, he blows out only the Flame, as the Thinnest and Weakest part of Fire and Fuel, and when he gently or softly blows his Wind on the Substance of the Fire and Fuel, as the Snuff or Wick of the Candle, his Wind doth only dilate the Fiery Substance, that is, the Rare or Thinner parts thereof, into a Flame again, but if the Wind be too strong for the Nature of Dilatation, the Winds force Over-powers the Fires force, and Dissipates and Disperses the Ground, Substance, or Substantial ground of the Fires Increase or Continuance, which is the Fuel, as the Wick or Snuff of the Candle, the like for Grosser bodies, than the Snuffs of Candles are.
+
+### CHAP. XLV.
+{: #chap5-XLV}
+
+*The Difference of Cold and Hot Winds and Vapours.*
+
+The Difference of Cold and Hot Winds or Vapours, is made only by the Alteration or Change of Motions; as for a Proof, when as a
+
+[page 223]
+{: descrip}
+
+Man Breathes upon his Hand, it feels Warm, and when a Man Blows upon his Hand, it feels Cold, the reason is, that some sorts of Dilatations make Heat, and some sorts of Contractions make Cold, for when a Man breathes upon his Hand, he opens his Mouth and Lips wide, through which his Breath Dilatates and Spreads abroad, but when as a Man blows upon his Hand, then he draws his Mouth and Lips into a Narrow Compass, which Contracts the Breath into a Cold Wind, as the opening of the Mouth and Lips doth Dilate the Breath into a Warm Vapour; by this we may perceive, that several Motions make one and the same Thing from the same Passages, to Work and Cause two several Effects; wherefore Sense and reason may perceive, that Sharp, Cold Winds, or Cold Vapours, are made by Contraction, for sure, those Winds that are Sharp and Cold, their Passage, from whence they issue out is Narrow, for though Wind may be made by Dilatating motions, yet that Wind may be Contracted after it is made, as by several Passages or Places, for Narrow Passages or Places may Contract several sorts of Temperaments or Substances; but this is to be observed, that Contraction of Passages causes Narrow, Long, and Pointed figures, in the Vent or Issuing forth, and Round in the Compass of the Figure, like Pins, Needles, Straws, Thorns, and the like, whereas Broad Passages give Room and Liberty to the Nature of the Substance that passes thorow; this is the
+
+[page 224]
+{: descrip}
+
+cause that Cold winds are Sharp, Pricking, Piercing and Dividing as Sharp Pointed Figures are, so that Burning Heats and Sharp Colds have a Resemblance. 
+
+### CHAP. XLVI.
+{: #chap5-XLVI}
+
+*Of Wind.*
+
+Wind is wrought by Expulsive motions, and the Strength doth not proceed from the Thickness or Solidity of the Body, as many think it doth, conceiving it to be Contracted, or Prest-up Air, which if it were, it could not enter into such Small Porous and Narrow Passages as it doth; Wherefore, me-thinks the Strength should not proceed so much from the Solidity as the Agilness therein; for the quick Repetition doth so forcibly Press on each other, as upon necessity it must drive all Loose and Porous Bodies before it, but the farther it Blows, the Fainter is the Breath, for as the Repetitions grow Short, so Weaker; But as Wind is made by Dilatations, so it Divides by Expulsions.
+
+### CHAP. XLVII.
+{: #chap5-XLVII}
+
+*Of the Noise of Tempest and Storms.*
+
+As I have said, that Sort of Air, which is made by Watery-circles, is apt to Sound 
+
+[page 225]
+{: descrip}
+
+with every Motion that strikes thereon, by reason of the Hollow figure being Spherical. Likewise, this is the reason, Running Brooks make a Murmuring Noise; also this is the reason, that the Tides do make such a Noise in the Ebbs and Flows, Circles pressing or rather striking each other. Again, this is the reason, the Winds, when they Blow upon Airy or Watry-circles, by striking those Spherical circles cause it to Sound, and make a Roaring Noise by the Confusion it makes therein, for Wind, which is an Expulsive Vapor, doth not only strike those Watry-circles, but those that are Extended into Air, and when those Motions drive Circle against Circle, or Circle upon Circle,[^5-10] makes such quick Re-bound, which Re-bounds in Contracting and Crossing each other, make a confused Sound, which we call Tempestuous and Stormy; and it is to be observed, that a Tempest in the Air, and a Storm in the Water, and Thunder, is much after one and the same kind of Noise; but as Thunder is caused by the Expulsion of the most Extended Circular lines, so Wind is the Expulsion of the more Grosser circles, as when Lines break, which are Extended no farther than to Vapor; also these Expulsions, if they be not very Violent, cause Rain, for the Expelled motion being no stronger than to Press upon the Unbroken and Extended circles, either of Vapor or Air, drives it into the Watry compass, but when the Weather is Cloudy, it is not altogether so hard pressed upon
+
+[page 226]
+{: descrip}
+
+as to drive it into Perfect Water-circles, but to the next Degree as a Thick Vapour; and when the Weather is Inconstant, as we say, that is, some times Gross and Thick, and then it will be straight, Clear and Bright, is as the Pressure doth Abate or Increase, but unforced Rains, as I may call them, which is without a Violent constraint, is, when those Circles are drawn into a Watry compass in a Natural order, and by the Natural weight, being thicker than Natural air, that is, Original air, and not Transformed water, it falls down on the Earth; Likewise the pouring Showers make a Sound, by the force of the falling Drops, striking as they fall, but by reason the Water is divided by the Falling motions into Less bodies as it were, which makes not so strong a Sound, having less Compass, as the Tides, or Air having fewer Circles in a Body, as in Drops, which makes it of a less Bulk, and the Less the Body is, the Weaker and the Smaller is the Sound; but when the Watry lines are drawn into a Triangular figure of Snow, it falls silently without Sound, by reason the Watry line is drawn out of the Extended circle; Besides, that Figure is the Lightest Figure, by reason of Inequality, for a Square hath four Equal parts, which makes a Just number, so an Equal ballance, which gives it a Steddy weight, and a Circle is Equally round from a Centre without Parts, which gives a Steddy weight, but a Triangular figure is in three Parts, which is no Just number, nor Equal balance,
+
+[page 227]
+{: descrip}
+
+nor Steady weight, which makes it of less Force, for being a Wavering figure, it cannot Press hard, nor Strike strongly, nor Fall heavy, but Flies lightly about.
+
+### CHAP. XLVIII.
+{: #chap5-XLVIII}
+
+*Of Thunder and Lightning.*
+
+Thunder and Lightning are caused from Watry circles, for when they are extended from Water to Vapor, from Vapor to Air, from Temperate air to Hot air, from Hot air to Fire, if those Circles [^5-11] extended beyond the compass and strength of the Line, they Break, which is the cause of Thunder and Lightning, for as soon as the farthest Extension of the Circle is Broken, those Extended parts do with an Extraordinary Swift motion Run, or rather Shoot forth into Bright Flaming flashes, as Spinning lines of Light, but when those Lines extend with a Great strength, they break into Small parts, which causes Thunder to follow Lightnings; for those Breaking parts sometimes Expulse disorderly, Beating and Striking upon those Circle-lines that are Unbroken, which Circles, being of a Porous, Compass'd, or Arched figure, cause a Sound in the Higher Region, whereto they are Ascended, for their Extension causes them to be Light, their Lightness to Ascend; but all Round figures being Concave within, and Convex without, do present
+
+[page 228]
+{: descrip}
+
+to the Ear, if they be strong, as Concave and Convex glasses do Objects, when presented to the Eye; thus Round figures cause a Hollow sound, if they be struck, for the Concave draws those Motions in which are made Rebounds from side to side, and the Rebounds continue the Sound by the Echo repeated, for Sound lasts longer in the Hollow figures than in any other, and though I will not say, that onely Hollow figures make sounds, yet I say, that no Sound can enter but through Porous figures, as the Ear is a Hollow figure, and the Ear is not onely Hollow but Circular, but Sounds are made in the Ear, or rather Enter, as Light and Colours in the Eyes, for Discord is Perturbed motion, or rather Close Antipathetical motions, and Harmony are Sympathetical and Regular motions; but the more of these Extenuating circles break, the more Lightning there is, and the Stronger they Break, the more Thunder there is, and the Harder they strike upon the Unbroken circles, the Louder is the Sound; but if the Circle-lines break onely asunder, and Extend, or Shoot forth into Straight lines without more Parts, there is onely Lightning without Thunder, but if those Lines break into more Parts, there is Thunder also; and when there falls Rain at those times of Thunder, it is when the Gentler motions of some of those Expulsed parts do not strike Hard upon some of those Unbroken circles, but Press upon them, which causes them to drive into a Less circle, 
+
+[page 229]
+{: descrip}
+
+and a Grosser line, until they return into the Watry compass, where growing too Heavy for the Heighth, fall down towards the Centre of the Earth, as all Heavy bodies, if not Thick bodies under to bear them up, or Stronger motions than their Weight to hold them up; Thus in my Opinion is Thunder and Lightning caused, and when it Rains, those Unbroken circles turn into their Nature again.
+
+### CHAP. XLIX.
+{: #chap5-XLIX}
+
+*The Difference of Salt-water and Fresh-water.*
+
+The Difference of Salt and Fresh-water is, that Salt waters Circle-lines are Flat and Edged, as a Knife, or the like, and in Fresh-water Round, which Edge makes it not less Smooth, although more Sharp, nor hinders the Extenuating compass, but the Lines being Flat, make it more Solid, and so give it more Strength, than the Fresh-water Circle that is Round, which makes it more Porous than Salt-water is, by the Experience of an Egg, and the like, which in Fresh-water will sink to the bottom, but very Salt-water will bear it up from sinking, and according to the Strength, it will bear More of Less; but these Lines may Exteriously alter from Flat to Round, and Round to Flat, and never alter the Interior nature, as to break the Compass, which is to Dissolve
+
+[page 230]
+{: descrip}
+
+the Circle or Ring, as I may say, which Circle-ring is the Interior figure; but if Salt-water be Distilled it becomes Fresh, for that Art takes off the Edge.
+
+### CHAP. L.
+{: #chap5-L}
+
+*Of the Alterations of Motions.*
+
+One and the same Degree of Animate matter may Change and Re-change the Natural Posture and Motion in one and the same Figure, but a General alteration of those Motions Proper to that Figure, Dissolves the Natural form of any one Particular figure, for a Figure moving by several Motions, proper to its kind, must joyntly consent either by a Sympathy or Inforcement, to make a Dissolution as well as a Creation, but all Motions Work or Alter according as the Matter is, or Figure they Work on, or forced by Stronger motions to alter their Natural course; likewise Several and Contrary motions may work by Turns in one and the same Figure, by one and the same Degree of Animate matter.
+
+### CHAP. LI.
+{: #chap5-LI}
+
+*Of the Local Motions of Water, Air, and Fire.*
+
+I Perceive there to be other Figures that have Local motions, besides Animals, yet it is 
+
+[page 231]
+{: descrip}
+
+partly their Figures that are proper thereto; for though there is no Matter, but is Figured, yet all Figures move not of Themselves, and though all Figures are Moved or Moving, or both Moved and Moving, yet all Local motions move not after one and the same manner; but I here mean by Local motion, that which Naturally can move from place to place by its Interior nature, and Exterior shape, but if the Word be not right to the Sense, pray Pardon it, and take the Sense and leave the Word, and Christen it a New; but these Kinds of Local figures are Water, Air, and Fire, which Move after an Animal manner, although they have not the Shape of those we call Animals, yet they seem Animals by their Self-motion, as Moving from place to place, unless they be stopt by stronger Motions, or other Figures that are more Powerfull; the like of other Animals; as for Example, if one Man or more being Stronger, bind an other Man which hath not Strength nor Power to oppose or hinder them, he cannot Move according to the Property of his Nature and Shape. So likewise, if Cold Contractions be more Powerfull than the Extenuating Circles, it binds up the Water with Icy Fetters, whereby it cannot Move according to the Nature, nor Circular shape; So if any Man should go to a Place, and a High wall should stand betwixt him and that Place, he cannot pass unless there were a Passage, or that he can Clamber, which must be by Art, because there is no footing, and to Jump over it 
+
+[page 232]
+{: descrip}
+
+he cannot, for it is so High that the Weight of his Body will Pull him down, before the Strength or Agilness of his Limbs shall Raise him over, and he cannot Flee over, by reason his Shape is not fitted thereto, having no Wings; so Water being stopt, and the Passage hindered by a thick Bank of Earth, cannot Move according to its Property; for it is proper for Water to move Descendingly, at least Straight forth; but when it Ascends, it is forced by other more Powerfull motions; So likewise it is proper for Air to move after a Level, Streaming, or Spreading manner; for Fire, to Ascend after a Peircing, Shooting, and Perpendicular manner, for these Elements do as other Animals do, for Man, Beasts, Birds, Fishes, their Local motions are Different according to their Shapes, for it is the Property of a four-legged Creature to Gallop, Trot, Pace, Run, Leap, but they cannot Flee, because their Shape is not fitted thereto, having no Wings; nor a Bird cannot Gallop, Trot, nor Pace, having not four Leggs to make Changes therewith; it is true, a two Legged Creature may Leap, Jump, Hop and Run; likewise those Fishes can neither Run nor Flee, that have not Wings nor Leggs, but those that have Mixt Shapes, have Mixt Local motions, as there be Fleeing Fishes, and Swimming Birds, and Running Fishes, and Swimming Beasts; Indeed, most Creatures can Swim, for most Shapes are fitted thereto in one Kind or another, but Mans Shape is such, as it can imitate most Various motions,
+
+[page 233]
+{: descrip}
+
+though it is the Shape that makes them move Locally, but there must be such an Interior nature proper to such Shapes, as [^5-12] Vegetables and Minerals, their Property is not to move Locally, that is, to have a Self Exterior motion; It seems there Interior nature and Exterior shape is not proper thereto, or perchance it is only their Exterior shape, and not their Interior nature, that makes them unfit to Move so, for we find their Interior nature to be more Active, than many of the Exterior shapes of Animals. But to return to those Elements, I treat of, as first Water, the Interior nature causeth it to be Liquid and Wet, the Exterior shape to be Fluid, both Agreeing by a Sympathetical Conjunction, give a Local motion to Descend, and Bear all before it, or with it, that is Loose and Unfix'd; So Fire, the Interior nature causes it to be Hot and Dry, the Exterior figure to be Sharp to Burn, both Agreeing by a Sympathetical Conjunction, giving it a Local motion to Pierce and Divide all it can enter into, if not Over-power'd; So Air, the Interior nature causeth it to be Soft and Pliant, and the Exterior figure to be Thin and Searching, both Agreeing by a Sympathetical Conjunction, give it a Local motion to enter through all Porous bodies in a Level line, and to fill up all Vacant places in other Figures, unless it be Thrust out, and Kept out by some thing more Powerfull. It is the Natural propriety for Bright Shining Fire to be Hot and Dry, to be Sharp and Burning, to move Ascending; and
+
+[page 234]
+{: descrip}
+
+for Water, to be Liquid, Fluid, and Wet, and to Descend in a Descending line; and Air to be Soft and Yielding, to be Thin and Searching, to Move in a Level Line, unless they be forc'd other wayes; for Fire may be suppress'd Downwards, and Water forced Upwards, and Air dispers'd; and Fire is not only subject to be Supprest, but Quenched out; for Water, if there be a sufficient Quantity to the Fire, on which it is Cast, will Over-power it; for the Innate motions, which cause Water to be Wet, destroy the Motions that cause Fire to be Sharp and Burning, and the Figure being Destroyed, that is, Disuniting those Parts, and those Motions, that Keep and Maintain those Parts in that Figure, the Property is Extinguished too, as we see many Animal figures do to one another, and Birds and Fish, and Men, destroy Beasts, Birds, and Fish, according as they have Strength, Power, and Advantage; for indeed the Dissolution of one Figure is the Cause of the Creation of another; sometimes the Materials of One figure make Many figures, and sometimes the Materials of Many figures make but One figure; and an Animal figure hath many several manners of moving Locally, and the Elements, as other Animals, do move sometimes Slower, and sometimes Faster.
+
+[page 235]
+{: descrip}
+
+### CHAP. LII.
+{: #chap5-LII}
+
+*Of the Motions of the Sun and Planets.*
+
+The Sun, and the rest of the Planets are questionless Created as other Animal creatures, and their Local motions are according to the Shape, as we see all Animals are; for a Worm cannot Run, but onely moves by Gathering up the Body from one place, and then Stretching it self out farther, or else by Rolling, and Winding his Body from place to place, nor Beasts cannot Flee as Birds, nor Birds cannot Trot, Amble, nor Gallop, as Beasts, because they have no Shape fitted thereto; for Birds want Four legs to Pace and Gallop, and Beasts want Wings to Flee: So the Planets move according to their Shape, turning about as a Spherical circle about a Centre; and if the Sun runs about the World with such Speed, as some Old Opinions are, it must turn as a Wheel about the Spoak, or Rundle as a Bowl in the Ecliptick-line; but if the Sun, as some Modern Opinions hold, doth not move out of his place, but is, as it were, Fixed, and that the Planets move about it in Circular ways, according to their Shape, then the Motions of the Sun are onely by Dilatation and Attraction, from which Light and Heat proceeds, and Vapor is drawn or suckt up.
+
+[page 236]
+{: descrip}
+
+### CHAP. LIII.
+{: #chap5-LIII}
+
+*All Heat is not onely Inherent in the Sun.*
+
+'Tis not the Motion of the Sun that makes the Bowels of the Earth Hot, nor the Absence of the Sun that makes it Cold, but such Matter and Motions that make Fire and Heat in the Earth, and such Motions and Matter that make the Earth Cold; As for Example, Vaults or Cellars are Cold when the Surface of the Earth is Sultry hot, which shews, that the Sun doth not peirce his Fiery Beams or Heat so deep as a Cellar, much less can he peirce into the Bowels or Centre of the Earth; also in the Suns Absence, as in Night, the Air will be many times Hotter than in the Day; also in Winter, low Vaults will be very Warm, and sometimes Hot; also some Days will be Colder, and some Hotter, although the Sun be in one and the same Degree; This shews, that it is such and such Motions in such and such Temperament, that makes Heat, Cold, Burning and Freezing, which Causes or Motions are in Infinite matter, and not bound to one Particular Part or Creature, although some Particular Creature or Part may be more strongly indued with some Particular motions than other Creatures or Parts.
+
+[page 237]
+{: descrip}
+
+### CHAP. LIV.
+{: #chap5-LIV}
+
+*Of the Sun.*
+
+It seems to Human sense and reason, that the Sun is a Globe or a Body of Fire, without any Mixture of any other Element or Creature; for were the Sun Mixt with any other Element, than its own Matter or Substance, the Effects of the Sun would not be so Distinct and Constant as they are; for Several sorts of Mixtures would cause Several sorts of Effects, and more Divers Changes and Alterations, than seem to be in the Sun; but what Fiery and Illuminated substance that the Sun is composed of, is not to be guest at in Human sense and reason, as whether it be a Rare or Densed substance, or whether the Substance be Increasable or Decreasable, or whether the Substance be Nourished From or By other Creatures or Elements, or Consist and Subsist Of and In it self; but it is probable, that the Body and Substance of the Sun doth Consist and Subsist In and Of it self, more than other Elements, I mean, of it self as a Single creature, not being Mix'd with the Several temperaments and Several creatures of the other Planets, but hath no other Mixtures but what belongs to its own Proper Element, nor is troubled with other Inherent motions, than what belongs to its own Proper Figure, and that which makes the Opinion probable, is, that the Sun never
+
+[page 238]
+{: descrip}
+
+Changeth his Heat, nor Lessens his Light, nor Alters his Nature or Proprieties, nor Changes his usual Motions of Attracting, Contracting, Dilating, Dissipating, Illuminating, Rarifying, Clarifying, and Constant motions in Spherical or Circle-lines; but though it be probable, that the Sun is a Purer Element in it self than other Elements, yet the Sun Trades and Trafficks with other Elements, or rather other Elements Trade and Traffick with the Sun, and other Elements do oftentimes Obstruct the Sun, as Dark clowds will obstruct the Sun's light, and Vapours and Wind will abate the Heat of the Sun's Rays; for though they can neither Quench out the Natural heat, nor Put out the Natural light of the Sun, yet they will, as we observe, obstruct the Sun's Effects, although not the Cause. But, to conclude this Chapter, although the Sun seems to be a more Purer Element than the other Planets, and that it requires less Trade or Traffick with other Elements than other Elements do with the Sun, yet we see, there is Trade and Traffick with all the Elements, and there must be Trade and Traffick amongst all the Creatures in Infinite matter, because Matter and Motion is Infinite. As for the External motions and effects of the Sun, they are Divers and Different, for the External motions are Contracting, Dilatating, Uniting, Dispersing, Disgesting, Retentive, Expelling, Illuminating, Reflecting, Exhaling, Nourishing, Burning, Destroying, and Millions that are too tedious to relate.
+
+[page 239]
+{: descrip}
+
+### CHAP. LV.
+{: #chap5-LV}
+
+*Of the Moon.*
+
+As the Sun seems to be a World, Globe, or Body of Fire, that is, of such Substance and Motions as cause the Effect of Fire, so the Moon seems to be a World, Globe, or Body of Water, and the several Changes are as the Ebbing and Flowing of the Watery Globe, which makes the Circle of the Moon to be Fuller sometimes on one side than an other, but we could not observe or perceive the Ebb or Flow were it not for the Light of the Sun; and when it is High-tide, we say it is Full Moon, and when it is Low or Ebb, it is in the Wane, and as the Tide increases or decreases to or from our Hemisphere, we say it is in the first, second, or third Quarter; and if we do, we may observe, that the Light which the Sun casts or lends the Moon, is just such Light, as we name a Waterish light, that is, a pale Silver light, for Moonlight is like such Light, as when the Sun shines on Water; And it is to be observed, that the Moon seems More or Less light, as that side next the Sun is Swell'd fuller, or Ebbed lower; and the Constant changes, are like as the Constant tides of the Sea, which causes Men to believe, it is the Moon which causes the Tides of the Sea, but the Learned men say, the Moon is a Body of Earth, or an Earthy Body, the reason
+
+[page 240]
+{: descrip}
+
+of their Opinion is, that they can see through a Perspective Glass, that there be Inequalities in the Moon, which they imagine to be Mountains, Rocks, Hills, Dales, and the such like things; but it may be answer'd, that what they see by or through their Perspective Glass, is only the Reflexion or Image of the Earth we Inhabit, and not the Substance of the Moon, like as we see our Image in a Pond or Pail of water, so we see Mountains, Hills, and Vallies in the Watery face or Watery body of the Moon; But some will say, this Opinion may be Contradicted in the Eclipse of the Sun, for if the Moon were all Water, it could not Shadow the Sun from the Earth, by reason the Sun would Shine thorow it; but this will not prove a sufficient Contradiction, for a little Watery Cloud will shadow the Bright Sun, wherefore so Great and Thick a Body of Water as the Moon, when it interposeth it Self between the Sun and Earth, must needs Darken and Eclipse the Sun's Light and Body; and as for the Reflexion of the Earth, the Deeper and Fuller the Body of Water is, the more Perfect it Represents the Figures or Images that are opposite to it. But to conclude this Chapter, as the Sun hath the Motions and Effects of Fire, so the Moon hath the Motions and Effects of Water, and I cannot perceive in Human sense and reason, but that there may be Worlds, Globes, or Bodies of Water, as well as of Fire, and of Fire as well as of Earth, and Worlds of Air as well
+
+[page 241]
+{: descrip}
+
+as Worlds or Globes of Fire, Water, and Earth; As for the other Planets, if they be Bodies of Earth, surely they are not of so Gross a Substance of Earth as this we Inhabit, but are of a more Pure and Refined Earthy Substance, so as there is as much difference as between Porcelain and Ordinary Earth: But this is to be observed, that the External motions and effects of the Moon are Dilations and Overflows. 
+
+### CHAP. LVI.
+{: #chap5-LVI}
+
+*Of the Planets.*
+
+To the Conceivement of Human sense and reason, the Sun is a Fiery Globe or World, or a Globe of Fire, the Moon is a Globe or World of Water, and so is the Star named Venus, the other Planets are Globes of Air and Earth; now the Question will be, whether these Globes or Bodies be Pure of themselves, as having no Mixtures, as not being intermixt with other Creatures, as the Globe of the Earth we inhabit is, having innumerous several Creatures Created and Produced within it, and Partly of it; but Human sense and reason cannot possibly resolve this question, because those Worlds or Bodies, as the Planets, are not subject to the Knowledge of Human sense and reason, but yet Human sense and reason may and doth perceive so much, as to know that there is Commerce and Traffick between and amongst these
+
+[page 242]
+{: descrip}
+
+Worlds, Globes, or Bodies that are named Planets. But to conclude this Chapter, those Planets are Bodies which are Pure, as only of one Substance, as being Single Creatures without mixture of other Creatures, either for Creation or Habitation, but their Intercourse is as Passengers, or Travellers, not as Inhabitors.
+
+### CHAP. LVII.
+{: #chap5-LVII}
+
+*All Creatures are Intermixed or Joyned, or have Commerce with each other.*
+
+There is not one Creature whatsoever, but is either Intermixt or Joyn'd, or Commerces or hath Intercourse with other Creatures, yet the Intermixing which is most difficult to be Separated or Divided, is Separable or Dividable in Nature without each others Destruction, yet Nature cannot Divide the Inherent figure or form of any one Creature, without a Dissolution of that particular Creature, for though Nature which is Animate motion, can Divide several Creatures Intermixt, yet it cannot Divide one and the same Intire Creature, which it hath made, without a Dissolution, but those Creatures, that only are Joyned, or have only Commerce, are more easily Divided, but those Creatures, whose Intire and Innate figures or forms are Intermixt, the Animate motions cannot Divide without a Dissolution of the Creature commixt of two or more Sorts; as for Example,
+
+[page 243]
+{: descrip}
+
+a Mule, which is a Mixt sort of Creature, as between a Horse and an Ass, Animate motion cannot Divide each Sort without the Destruction of the whole Creature; but for such Intermixtures, where their ~~Animated~~[^5-13] forms or figures are not Intermixt, those may be Separated without a Total destruction of either Bodies, Forms, Figures, or Natures; as for Example, Vitriol and Salt from Water, and Water from each; as also some sorts of Heats from some sorts of Bodies, also several Parts from several Bodies, and yet not Destroy the Interior nature; as for Example, that Creature, named Man, may have all his Exterior parts, as Hands, Arms, Leggs, Nose, Lips, Eyes, and the like, divided from the Body, and the Interior Nature, Parts and Motion remain Perfect, according to his Nature and Property; The like for other Animals, as also Vegetables, and so for all Creatures, according to their Kinds and Several Sorts.
+
+### CHAP. LVIII.
+{: #chap5-LVIII}
+
+*Of the Temper of the Four Seasons of the Year, as Spring, Summer, Autumn, and Winter.*
+
+To Discourse of several Seasons of the Year, which is divided into Four Parts, as the Winter, Spring, Summer, and Autumn, is easie, but to discourse of the Several Changes, and Temper of the Weather or Elements, and
+
+[page 244]
+{: descrip}
+
+every Day or Hour, is not to be done; the like for the Temper of Mens Bodies or Minds, which are as Changeable; but for the several Seasons, the Sun causes Different effects, as for the Winter, the Sun, or Sun's Rays, having not that Powerful heat, as it hath in the Summer, by reason the Sun is more Oblique, or at a Farther distance from that Region or Part of the Earth, where Winter is; for the Distance of the Sun causes Winter, which Distance causes his Heat to be so Weak, as it cannot Clarifie or Purifie the Gross vapours, that arise from the face of the Earth, or those that are made in the Lower Region of the Element of Air, which causes the Air to be Thick and Gross; also it causeth Clowds and Rain, and the Climat or Region being Cold for want of the Sun's Near Presence, causes Frost and Snow, for the Sun's Absence, Distance, and Weakness gives a Freedom for the Cold motions to work more Powerful; but in the Spring, upon the Sun's Return, there arises a Dispute between the Hot motion proceeding from the Sun, and the Cold motions in the other Elements or Planets, which causes the Elements not to be Constant, but Various, some Days will be Fair Sun-shining Days, some Days Clowdy and Rainy, and some Days Frost and Snow, and sometimes in one Day it will be Fair, Clowdy, Rain, Snow, Freez and Thaw, all in the compass of fourteen or fifteen hours, such Dispute will be amongst the Motions and Tempers of the Elements;
+
+[page 245]
+{: descrip}
+
+but when as the Sun hath gain'd the power from the Less Elements, he hath a free Access to the Earth, whom he Imbraces, Warms, Comforts, and Co-operates, and begets Young Creatures; but the Sun, the Nearer he comes, the Stronger is his Heat, and from a Comfortable heat he becomes Burning hot, in which Degree he is an absolute Conqueror of all Exterior Cold motions, Separating and Vanquishing all Cold Tempers and Motions in the Loose Elements with Thunder and Lightning, but after his Strength is spent, he begins to Retire, which Retiring time is Autumn, in which time he begins to lose his Strength, and so his Effects become Weak by Degrees, by which the Cold temper and motions of Cold elements become more Strong by Degrees, and in the Winter season they are in full Power; But the Sun Attracts more Vapors in the Spring than his Heat can Digest, which falling back upon the Earth half concocted, cause many Diseases amongst Animals, and Destruction of young sprouting Vegetables, as also the Inconstancies of Weather. As for the Summer, the Sun being Perpendicular, or near that Degree, his Fiery points or motions peirce into all those Creatures they can take hold of, as also Inflame the Air so much, as it Burns and Dissolves many Creatures; for the Rare Air being full of Hot Fiery motions, Intermix with the Rare Vital spirits of other Creatures, by which Mixture they are Destroyed, becoming Unnaturally Hot and Burning
+
+[page 246]
+{: descrip}
+
+but in the Autumn, when the Sun retires, he leaves the Air and Elements Well and Equally Tempered; for if the Animal creatures of the Earth be Diseased or Die, those Diseases, or Distempers, or Deaths, are not so much caused by his Motions or Effects on their Bodies, as by their Excess of Luxurious feeding of the Delicious fruits of the Earth in this Season; but this is to be observed, that the Autumn is Warmer than the Spring, although he be in the Equal degrees of his Motions, and Heighth or Distance; the Reason is, that the Earth in the Season of Autumn is like to the Hearth of a Chimney, which after a Great fire will retain a Warm heat a Long time after, and in the Season of the Spring the Earth is like a Chimney-hearth, that hath not had Fire on it of many months, where the Hearth of the Chimney will require some Constant time of Fire, before it be thoroughly Heated, or Hot; and this is the Reason that the Spring is colder than the Autumn, also that the Air and Earth is Coldest just before the Opening of the Day, or Approach of the Sun's Light, than any time of the former part of the Night, because the Sun hath been Absent all Night; for though at some times, some Nights will be very Hot, yet that Heat proceeds rather from the Natural heat from the Bowels of the Earth, than from the Natural heat from the Rays of the Sun; for the Body of the Earth hath a Natural heat as well as the Body of the Sun hath, and when as both 
+
+[page 247]
+{: descrip}
+
+their Heats dilatate from each others Bodies, and Meet and Intermix together, the Medium becomes insufferably Hot to those Creatures, that Live upon the Face of the Earth, or in the Air; But it is to be observed, that when as Cold Vapours issue from the Earth, they allay the Hot influences or Effects of the Sun.
+
+### CHAP. LIX.
+{: #chap5-LIX} 
+
+*Motion doth not Work in all Creatures Exactly.*
+
+The Animate matter and motions do not alwayes Work or Move Exactly, either in Forming or Shaping of several Creatures bodies, or Moving Exactly in every Particular Mind; as for the Body of that Creature named Man, the Proportion of every Line or Lineaments, for some have Well-shap'd Hands, Faces, Leggs, Feet, and ill-shaped Bodies, and some have Well-shaped Bodies, and Ill-featured Faces, and some have Exact featured Faces, and Foul complexions; Thus some have one Part of the Body ill-shap'd, and the rest well-shap'd, and some Part of the Body well-shap'd, and the rest of the Body ill-shap'd; and as for the Body, so for the Mind, for some have Clear Understandings, and yet Cloudy Judgments, and some have Subtil Conceptions, and Weak Memories, and some have Ready memories, and no Fancies, and many the like Examples may be given. Likewise some have very Handsome 
+
+[page 248]
+{: descrip}
+
+bodies, and Deformed minds, and some Excellent tempered and Exact Moving minds, and Deform'd bodies. By these Examples, Human sense and reason may perceive, that the Animate motions do not at all Times and in all Creatures Work or Move either Industriously or Exactly, for some Times, and in some Bodies, and in some Minds, the Sensitive and Rational motions seem Lasie at the beginning of Creation, or Idle in the midst of their Works, or seem Tired before the finishing of a Creature. Thus motion moves sometimes Slowly, sometimes Carelesly, sometimes Falsly, or Erroneously. But it seems to Human sense and reason, that the Cause, that Animate motion moves or Works so Imperfectly, as seldome to Form any one Creature Exactly, is, that Infinite motion hath Infinite matter to Divide and Compose into Infinite figures, which requires Infinite of times, so that Motion hath not Spare time as to Move or to Work so Curiously, as to Shape and Form every Particular Part of every Particular Creature so Exactly, as to Form them Mathematically or Geometrically, so as when any Creature is so Exact, as no Fault can be found, it seems rather a Work by Chance, than any Design in Motion to Work so Exactly; But to conclude this Chapter, it would be a Thing or Work above Nature, and to be Accounted a Miracle, if any Creature should be made so Exact as somewhat were not amiss either in Body or Mind.
+
+----
+
+
+
+
+---
+
 [Footnotes]
 {: descrip id="footnotes"}
 
@@ -1746,3 +2652,16 @@ Matter of the Circle may be uneven; and though the Figure of a Circle is to be b
 [^34]: Cavendish's correction: read *smoothness*
 [^35]: Cavendish's correction: read *softer or harder.*
 [^36]: Cavendish's correction.
+[^5-01]: Cavendish's correction: after 'wetness' set 'is'
+[^5-02]: Cavendish's correction: read 'Retentive'
+[^5-03]: Cavendish's correction: there is
+[^5-04]: Cavendish's correction: their
+[^5-05]: Cavendish's correction: Circle
+[^5-06]: Cavendish's correction.
+[^5-07]: Cavendish's correction.
+[^5-08]: Cavendish's correction: Stick
+[^5-09]: Cavendish's correction: is
+[^5-10]: Cavendish's correction: after 'Circle' read 'it'
+[^5-11]: Cavendish's correction: insert 'be'
+[^5-12]: Cavendish's correction: insert 'for'
+[^5-13]: Cavendish's correction: Interior

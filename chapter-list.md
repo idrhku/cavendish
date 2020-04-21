@@ -124,3 +124,68 @@ title: List of Chapters
 [Chapter 34: *Of the Extension and Contraction of Circle-Figures or Circle-Lines*](../texts/cavendish/#chap4-XXXIV) | 147
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+
+
+### Part V.
+
+[Chapter 1: *Of the Four Worlds, of Fire, Air, Water and Earth*](../texts/cavendish/#chap5-I) | 150
+[Chapter 2: *Of different Motions and Creatures*](../texts/cavendish/#chap5-II) | 151
+[Chapter 3: *Of Moist cold and Moist heats, of Dry colds and Dry heats, and of Hot and Cold motions in general*](../texts/cavendish/#chap5-III) | 153
+[Chapter 4: *Of the Motions of Cold and Hot, Drought and Moisture*](../texts/cavendish/#chap5-IV) | 154
+[Chapter 5: *Of Earth*](../texts/cavendish/#chap5-V) | 156
+[Chapter 6: *Of Water*](../texts/cavendish/#chap5-VI) | 157
+[Chapter 7: *Of the Wetness of Water, and other Sorts of Liquors*](../texts/cavendish/#chap5-VII) | 158
+[Chapter 8: *Of the Interior Figure and Motions of Bright-shining Hot-burning Fire*](../texts/cavendish/#chap5-VIII) | 160
+[Chapter 9: *Of the Interior and Exterior motions of Bright-shining Hot-burning Fire*](../texts/cavendish/#chap5-VIX) | 164
+[Chapter 10: *Of the Exterior motions of several Sorts of Fire*](../texts/cavendish/#chap5-X) | 166
+[Chapter 11: *Of that Sort of Fire that is named a Dead fire, and the Difference betwixt that, and Bright fire*](../texts/cavendish/#chap5-XI) | 168
+[Chapter 12: *Fire Produced by Exterior motions*](../texts/cavendish/#chap5-XII) | 170
+[Chapter 13: *Of Hot and Burning motions and of Burning figures*](../texts/cavendish/#chap5-XIII) | 171
+[Chapter 14: *Of the Nature, Motions, and Figure of Oyl*](../texts/cavendish/#chap5-XIV) | 172
+[Chapter 15: *Of the Division of several Liquors*](../texts/cavendish/#chap5-XV) | 174
+[Chapter 16: *Of the Interior Figures and Motions of Metal*](../texts/cavendish/#chap5-XVI) | 176
+[Chapter 17: *Of the Exterior motions of Heat and Fire*](../texts/cavendish/#chap5-XVII) | 178
+[Chapter 18: *Of the Power of Water on Fire, as the Quenching out Fire*](../texts/cavendish/#chap5-XVIII) | 180
+[Chapter 19: *Of the Dissolving of Water*](../texts/cavendish/#chap5-XIX) | ibid.
+[Chapter 20: *Of the Motions that make Natural Air and Natural Light*](../texts/cavendish/#chap5-XX) | 182
+[Chapter 21: *Of the Motions that make Darkness*](../texts/cavendish/#chap5-XXI) | 185
+[Chapter 22: *Of Shadows*](../texts/cavendish/#chap5-XXII) | ibid.
+[Chapter 23: *Of Shadows and Aery Figures*](../texts/cavendish/#chap5-XXIII) | 186
+[Chapter 24: *Of Stone*](../texts/cavendish/#chap5-XXIV) | 187
+[Chapter 25: *Of Transparent Stones*](../texts/cavendish/#chap5-XXV) | 188
+[Chapter 26: *Of the Load-stone*](../texts/cavendish/#chap5-XXVI) | ibid.
+[Chapter 27: *Of the Needle*](../texts/cavendish/#chap5-XXVII) | 192
+[Chapter 28: *Of the Different Motions and Figures in the Tides, as Flowing and Ebbing of the Waters*](../texts/cavendish/#chap5-XXVIII) | 195
+[Chapter 29: *Describing of Tides*](../texts/cavendish/#chap5-XXIX) | 200
+[Chapter 30: *Of Double Tides*](../texts/cavendish/#chap5-XXX) | 201
+[Chapter 31: *Of Spring-tides*](../texts/cavendish/#chap5-XXXI) | 202
+[Chapter 32: *Of Tides and Streams Flowing against each other*](../texts/cavendish/#chap5-XXXII) | ibid.
+[Chapter 33: *Whether the Sea run thorow the Veins of the Earth*](../texts/cavendish/#chap5-XXIII) | 203
+[Chapter 34: *Of Nilus*](../texts/cavendish/#chap5-XXXIV) | 205
+[Chapter 35: *Of the Divided parts of Water, and several External motions*](../texts/cavendish/#chap5-XXXV) | 206
+[Chapter 36: *Of Rain*](../texts/cavendish/#chap5-XXXVI) | 207
+[Chapter 37: *Of External Figures and Internal Forms*](../texts/cavendish/#chap5-XXXVII) | 208
+[Chapter 38: *Of Metamorphosed Elements*](../texts/cavendish/#chap5-XXXVIII) | 209
+[Chapter 39: *Of those Motions or Figures that turn Water to Snow, Hail, Ice and Frost*](../texts/cavendish/#chap5-XXXIX) | 212
+[Chapter 40: *Why Snow is Rougher and Lighter than Ice or Hail*](../texts/cavendish/#chap5-XL) | 213
+[Chapter 41: *Of Colours*](../texts/cavendish/#chap5-XLI) | 215
+[Chapter 42: *Of Aery Figures*](../texts/cavendish/#chap5-XLII) | 218
+[Chapter 43: *Of several Sorts of Vapors*](../texts/cavendish/#chap5-XLIII) | 219
+[Chapter 44: *Of the Agreement and Disagreement of Fire and Wind*](../texts/cavendish/#chap5-XLIV) | 221
+[Chapter 45: *The Difference of Cold and Hot Winds and Vapors*](../texts/cavendish/#chap5-XLV) | 222
+[Chapter 46: *Of Wind*](../texts/cavendish/#chap5-XLVI) | 224
+[Chapter 47: *Of the Noise of Tempests and Storms*](../texts/cavendish/#chap5-XLVII) | ibid.
+[Chapter 48: *Of Thunder and Lightening*](../texts/cavendish/#chap5-XLVIII) | 227
+[Chapter 49: *The Difference of Salt and Fresh water*](../texts/cavendish/#chap5-XLIX) | 229
+[Chapter 50: *Of the Alteration of Motions*](../texts/cavendish/#chap5-L) | 230
+[Chapter 51: *Of the Local motions of Water, Air, and Fire*](../texts/cavendish/#chap5-LI) | ibid.
+[Chapter 52: *Of the Motions of the Sun and Planets*](../texts/cavendish/#chap5-LII) | 235
+[Chapter 53: *All Heat is not only Inherent in the Sun*](../texts/cavendish/#chap5-LIII) | 236
+[Chapter 54: *Of the Sun*](../texts/cavendish/#chap5-LIV) | 337
+[Chapter 55: *Of the Moon*](../texts/cavendish/#chap5-LV) | 239
+[Chapter 56: *Of the Planets*](../texts/cavendish/#chap5-LVI) | 241
+[Chapter 57: *All Creatures are Intermixed or Joyned or Have Commerce with each other*](../texts/cavendish/#chap5-LVII) | 242
+[Chapter 58: *Of the Temper of the four Seasons of the Year, as Spring, Summer, Autumn, and Winter*](../texts/cavendish/#chap5-LVIII) | 243
+[Chapter 59: *Motion doth not Work in all Creatures exactly*](../texts/cavendish/#chap5-LVIX) | 247
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
