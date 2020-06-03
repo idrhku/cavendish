@@ -189,3 +189,36 @@ title: List of Chapters
 [Chapter 59: *Motion doth not Work in all Creatures exactly*](../texts/cavendish/#chap5-LVIX) | 247
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+
+### Part VI.
+
+[Chapter 1: *Of the Motion of the Body*](../texts/cavendish/#chap6-I) | 252
+[Chapter 2: *Of the Frame of Man's Body*](../texts/cavendish/#chap6-II) | 254
+[Chapter 3: *Of Natural Self-tyranny*](../texts/cavendish/#chap6-III) | ibid.
+[Chapter 4: *Of the Understanding, Sense, and Reason*](../texts/cavendish/#chap6-IV) | 256
+[Chapter 5: *The two Ground motions in the Rational Animate matter*](../texts/cavendish/#chap6-V) | ibid.
+[Chapter 6: *The two Chief parts belonging to Man, are the Head and the Heart, wherein Reside the Rational Spirits*](../texts/cavendish/#chap6-VI) | 257
+[Chapter 7: *Whether the Passions are made in the Head or Heart*](../texts/cavendish/#chap6-VII) | 258
+[Chapter 8: *Of Different Passions in one and the same Part*](../texts/cavendish/#chap6-VIII) | 260
+[Chapter 9: *The Affinity betwixt Imaginations and Passions*](../texts/cavendish/#chap6-IX) | 262
+[Chapter 10: *Of the Brain*](../texts/cavendish/#chap6-X) | 263
+[Chapter 11: *Of the Multitude of Figures in the Rational matter, in the Brain, and Heart*](../texts/cavendish/#chap6-XI) | 264
+[Chapter 12: *Of Thoughts*](../texts/cavendish/#chap6-XII) | 266
+[Chapter 13: *Of Thinking or Thoughts*](../texts/cavendish/#chap6-XIII) | 268
+[Chapter 14: *The Cause why a Man hath not his usual Knowledge, Sense, and Reason, in a Swoon or Trance*](../texts/cavendish/#chap6-XIV) | 270
+[Chapter 15: *Of Sense and Knowledge in Dead and Living men*](../texts/cavendish/#chap6-XV) | 274
+[Chapter 16: *Of the Motions of the Rational and Sensitive matter*](../texts/cavendish/#chap6-XVI) | 275
+[Chapter 17: *The Power of the Rational motions over the Sensitive*](../texts/cavendish/#chap6-XVII) | 276
+[Chapter 18: *Of the Regular and Irregular motions of the Rational and Sensitive Animate matter*](../texts/cavendish/#chap6-XVIII) | ibid.
+[Chapter 19: *Of Sleep*](../texts/cavendish/#chap6-XVIX) | 279
+[Chapter 20: *Of the Disturbance of some Parts, causing a Disturbance in the Whole, as to hinder from Repose or Sleep*](../texts/cavendish/#chap6-XX) | 280
+[Chapter 21: *The Difference betwixt Sleeping and Waking*](../texts/cavendish/#chap6-XXI) | 282
+[Chapter 22: *Of Sleep and Dreams*](../texts/cavendish/#chap6-XXII) | 284
+[Chapter 23: *Dreaming of Living and Dead Figures*](../texts/cavendish/#chap6-XXIII) | 287
+[Chapter 24: *Of Local Dreams*](../texts/cavendish/#chap6-XIV) | 290
+[Chapter 25: *The Rational and Sensitive motions do not at all times take a general Notice or Knowledge of their own Body and Mind*](../texts/cavendish/#chap6-XV) | 292
+[Chapter 26: *Of Figures presented to the Senses*](../texts/cavendish/#chap6-XVI) | 294
+[Chapter 27: *Of the several Senses*](../texts/cavendish/#chap6-XVII) | ibid.
+[Chapter 28: *Of Hearing, Seeing, and the other Senses*](../texts/cavendish/#chap6-XVIII) | 299
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  

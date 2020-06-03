@@ -15,6 +15,7 @@ toc:
 - Part III.
 - Part IV.
 - Part V.
+- Part VI.
 - Footnotes
 ---
 {:descrip: .centered .small style="font-style:italic"}
@@ -637,7 +638,7 @@ is Perfected, yet that Matter is there, and surely hath a part in the Creation, 
 
 Creatures, as all Figures and Creatures lie or live in Matter; but as Children get Strength by Food, so they get Knowledge by Experience, although there may be a Strong-bodied man a Fool or Mad, and a Week-bodied man Wise and Sober, which is caused by the Regularity and Irregularity, as also by the Variety, and Swift or free Motions, or the Slowness, or few Changes of the Rational and Sensitive matter and motions; but as all Senses are not fixed or bound to one Organ in a Body, so all Knowledge is not bound or tied to one Sense, no more than all Matter is bound or tied to one Creature; but as the Sensitive Animate matter makes Appetites, so the Rational Animate matter gives directions in the choice of the Food of Appetites, as what is good, or what is bad for the Creature, but many times the Motions of Sense and Appetite are too strong for the Motions of Reason and Wisdom.
 
-## CHAP. III.
+### CHAP. III.
 {: #chap2-III}
 
 
@@ -2608,6 +2609,527 @@ bodies, and Deformed minds, and some Excellent tempered and Exact Moving minds, 
 
 ----
 
+[page 249]
+{: descrip}
+
+## PART VI.
+
+## THE PREFACE OF THE SIXTH PART,
+
+## To all Learned PHYSICIANS.
+
+Most Rveerend and Grave Fathers of Health,
+
+I present this Work unto your Sage Judgments, your Prudent Practices, your Great Experiences, your Studious Observations, your Miraculous Cures, and Humbly lay it on the Tables of your Studies, in Hope, some Spare Time may invite you to read therein. I dare not Commend it, lest you should Disprove it; for as your Wisdoms Value it, so it is Good or Bad. 
+
+I am to be Pardoned, if I have not the Names and Terms that the Anatomists Have or Use; or if I have Mistaken some Parts in the Body, or
+
+Misplaced any; for truly, I never Read of Anatomy, nor never saw any Man Opened, much less Dissected, which for my Better Understanding I would have done; but I found, that neither the Courage of Nature, nor the Modesty of my Sex would Permit me. Wherefore it would be a great Chance, even to a Wonder, I should not Err in some; but I have seen the Intrals of Beasts, but never as they are Placed in their Bodies, but as they are Cut out to be Drest, and in the Shambles; and perchance I have seen, passing by the Shambles, a Cruel Butcher cut the Throat of a Beast, or Rip up the Body, where the Guts and Garbage did burst out; but that gave me not much more Knowledge, not seeing how they Lay in their Bodies. And though it is a Usual Custom for Ladies and Women of Quality, after the Hunting of a Deer, to stand by, until they are Ript up, that they might Wash their Hands in the Blood, supposing it will make them White, yet I never did it; but, as I have said before, I have seen the Intrals of Beasts out of their Bodies, which Intrals, I have heard, are much like a Man's, especially a Hogs, so that I know, Man hath a Brain, a Heart, a Stomach, Liver, Lungs, Splene, and the like; yet these I never Viewed with a Curious and Searching Eye, but as they have Lain in some Vessels; and as for Bones, Nerves, Muscles, Veins, and the like, I know not how they are Placed in the Body, but as I have gathered Several Times from Several Relations or Discourses, here a Bit, and there a Crum of
+
+[page 251]
+{: descrip}
+
+Knowledge, which my Natural Reason hath put together, of which Meat my Wit, like an Unexperienc'd Cook, hath ventured to Dress; if it Pleases the Palats of my Readers, I shall account my Time not Lost; if not, it is not the first Dish of Good Meat that hath been Disgusted.
+
+This part of my Book, which Treats of Diseases, is to Express, what Irregular Motions and Mistemperaments make several Diseases, as also the Ground and Fundamental Diseases that are Incident to Man's Body; but I shall not trouble you in this Book with many Physical Rules, or Cures of Diet, or Medicine, but some few I shall mention: The truth is, such Treatments are Improper for this Book; besides, they require a Whole Volume by themselves; But my Chief Design in this Book is onely to Treat of some Particular Diseases, which are most Common, and Ordinary amongst Mankind, but as for the Practice and Cures, I leave them to Physicians.
+
+[page 252]
+{: descrip}
+
+# PHILOSOPHY.
+
+### CHAP. I.
+{: #chap6-I}
+ 
+
+*Of the Motion of the Body.*
+
+Physicians should Study the Motions of the Body, as natural Philosophers Study the Motions of the Heavens, for Several Diseases have Several Motions, and if they were well Watched, and Weighed, and Observed, they might easily be Found out Severally; and as they take Compass of the Heaven, and Stand upon the Earth, so these may take the Degrees of the Disease, although they Dissect not the Body. Thus natural Physicians may know, when the Sun of Health will be Eclipsed by the Shadow of Melancholy, which gets betwixt the Body and Health; And natural Physicians may come to know the Thoughts, as they the Stars, by Studying the Humors of Men, and may know 
+
+[page 253]
+{: descrip}
+
+what Influences they may have upon the Body, and may know the several Changes of their Humor, as they the several Changes of the Moon, that the several Changes of the Humor cause the Blood to Ebb and to Flow, as the Tides of the Sea; Thus they may make an Almanack of the Body, for to shew what Weather and Seasons there will be, as great Tempests and Storms of Wind-colick; whether there will fall upon the Lungs great Rheums, as Showers of Rain, or whether there may be Great and Hot Fevers, or whether there will be Earthquakes of Shaking-Agues or Cold, and Numb-Palsies, or whether there will be Dearths of Flesh, and so leave Bones Bare by the Droughts of Hectick Fevers, or whether the Over-flowing of Moisture, which causes Dropsies. Thus, if we could find the Several Motions in Several Diseases in a Body, as surely might be done by Observations, and Study, and could find out the Several Motions by the Several Operations in Physick, we might surely so Apply them together, as to make Animals, though not Live Eternally, yet very Long; And truly, I think this Book of Philosophical and Physical opinions, may give great Light to this Study. Physicians must first take care in their Prescriptions, to prevent Errors of mistake, before they Apply Remedies to Cure.
+
+[page 254]
+{: descrip}
+
+### CHAP. II.
+{: #chap6-II}
+
+*Of the Frame of Man's Body.*
+
+I will first Discourse of the Orderly course of Nature, which is, to have a Perfect Shape, according to the Kind, or Sort of Figure it was Created to, that is, like an House to be Well Built; Next, to have it Strong and Firm; Thirdly, to have it Commodious; Fourthly, to have it Well Furnished; Fifthly, to have it Clean from Dirt or Rubbish; Sixthly, to Keep it in Repair; Seventhly, to Prop it from Falling down with Old age, the Pulling it down by some Evil accident, or Burning it by Fevers, or the like, or Drowning it by Dropsies. And though I may Similize it to any Figure, yet I only imploy it to Mankind, that is, to have a Perfect and Upright Shape, a Clear Strength, Sound Parts, Plump and Fat, Clean from Gross Humours and Obstructions, to Keep it Heathfull with Wholesome Food, to Help Nature with Cordials or Physick, Death being the Destruction.
+
+### CHAP. III.
+{: #chap6-III}
+
+*Of Natural Self-tyranny.*
+
+Motion doth not only Divide matter Infinite, but Disturb matter Infinite; for 
+
+[page 255]
+{: descrip}
+
+Self-motion Striving and Strugling with Self-motion, puts it Self to Pain; and of all Kind of Motions, the Animal motions Disturb most, being most Busie, as making Warrs and Divisions, not only Animal figures against Animal figures, but each Figure in it Self by Discontents and Dislike, which Discontent makes more Pain, than Ease or Pleasure, or Tranquillity, by reason of Irregularity; but Motion is an Infinite and Eternal Tyrant on Infinite figures, for as Motion makes Figures, so Motion dissolves Figures, which makes Infinite and Eternal matter Eternally Restless; for the Extract of Infinite matter, which is an Animated matter, which Animate matter is Self-motion, and makes the Inanimate part of matter so Restless too by Working thereon. Thus the Only and Infinite matter is a Tyrant to it Self, or rather I may say, Infinite is a Tyrant to Motion, and Motion to Figure, and Eternity to all. For though Infinite, Eternal matter, Motion, and Figure are Individable, yet they are all as Separated in Aspiring; for Motion, although it is but an Effect of Matter, yet strives for Absolute Power over Matter and Figures; and Infiniteness strives for the Absoluteness and Power over Matter, Motion and Figure; and Eternity strives for Absolute Power over all. Thus the Effects strive, to have Power over the Prime Causes, which is the Only matter; for if there were no Matter, there could be no Figure, nor Motion, nor Infinite, nor Everlasting; the like do the Minor
+
+[page 256]
+{: descrip}
+
+effects over the Minor causes, for Effects are Causes of Effects.
+
+## CHAP IV.
+
+*Of the Understanding, Sense, and Reason.*
+
+There is no Sense without Reason, nor no Reason without Sense, and if Sense and Reason are not General throughout Infinite matter in Infinite Creatures, it is a Particular gift from something, which is Transcending the Infinite matter, which is Infinite nature, as God, a Deity; but if Reason be a Particular gift to some Particular Creature, as namely Man, Nature, or the God of Nature, would prove both Partial and Finite; as for Infinite Nature, she seems to be Inconfin'd, and for the God of Nature, He can have no Bias.
+
+## CHAP V.
+
+*The Two Ground-Motions in the Rational Animate Matter*
+
+The Rational Animate matter moves, as it were, Two ways, for it hath Different motions, Internal and External, like as the Sensitive matter, which moves the Inanimate part of Matter Internally and Externally, according to the Nature of each Figure; as for Example, the Creating of a Figure is One way, and the Several
+
+[page 257]
+{: descrip}
+
+Actions of the Created is another way; the like doth the Rational Animate matter, it first Runs into Figures, and then Moves Figuratively; Again, some Figures being Stronger than others, will force the Weaker figure to move after their Manner.
+
+## CHAP. VI.
+
+*The two Chief Parts belonging to Man, are the Head and the Heart, wherein Reside the Rational Spirits.*
+
+The Head and the Heart are the two Resideing parts for the Rational Animate matter to Move more Variously and Agilly in, making Passions in the Heart, and Reasons in the Head; and whensoever those Parts be Disaffected, the Understanding and Passions are Disordered, and many times so, as never to be Rectifi'd; but sometimes this Disorder comes by Misworking of the Sensitive Animate matter, and sometimes by the Wrong Steps and False Measures of the Rational Animate matter; but though the Animal Knowledge or Reason be Disordered, yet not Extinguished, unless the Animal Sense be absolutely Altered, which is to Die; for though they Move not Regularly, yet they Move after an Animal manner; As for Example, a Man, although he Goeth not Upright, according to his Natural shape, but Creeps upon his Hands and Knees, or that he is forced to
+
+[page 258]
+{: descrip}
+
+Roll from Place to Place, having neither Arms nor Legs, yet he Moves in an Animal manner, and partly to what his Natural Shape is, for these Forced Motions, or Want of some of the Outward parts, Alter him not from being an Animal, nor yet from being a Man, unless all the Sensitive motions, which Naturally belong to their Figures, be Altered, and then he turns from that Kind of Creature.
+
+### CHAP. VII.
+{: #chap6-VII}
+
+*Whether the Passions are made in the Head or Heart?*
+
+Some are of Opinion, the Passions are made in the Head; others, that they are made in the Heart; for my part, I am of the Latter Opinion, that is, that all Passions are made in the Heart, as Love, Hate, Fear, Anger, Grief, Jealousie, Envy, Malice, and the like; and also the Will, and Opinions, which are a Kind of Passions; and that Imaginations, Conceptions, Fancies, Understanding, Judgment, Memory and Remembrance, is made in the Brain, and that, which we call Thought, or Animal Knowledge, is made both in the Brain and Heart; for if either of these two Parts be Wounded, that Knowledge Dies, as both the Scientific Knowledge and Rational, both being that which we call Thought, the one belongs to the Body, the other to the Mind; for Touch is a Weak 
+
+[page 259]
+{: descrip}
+
+thought，and Thought a Strong touch; and my Reason why I think, that the Passions are Created in the Heart, and not in the Head, is, First, That Passions and Judgement seldom agree, for when we have the Passion of Fear, or Anger, or the like, all the Motions, that work to those Passions, are felt in the Heart; for if we do observe, we shall find all Passions arise from the Heart, and all the Parts near thereto will be Disturbed, when in the Brain we find no Violent motions at all, perchance the Sensitive part may be Disturbed, as to make the Head ake as with a General Distemper. Secondly, There are oftentimes Passions felt, as it were, in the Heart, without any Knowledge or Thought of it in the Head, as when we shall be Sad, and Angry, and Fearful, and know no Reason why. Besides Objects many times pass by, or, as it were, Steal through the Senses, and likewise Creep through the Brains, and raise a Passion in the Heart, without any Notice taken thereof, or Knowledge how it came Therein. Lastly, That, although there is a great Sympathy betwixt the Passions and Imaginations, yet they are not after one and the same Manner of Motions, which sheweth, they are Created in Several figures, the one in the Triangle Heart, and the other in the Spherical Brain, and the Different Shapes of the Head and Heart, may be one Cause, that makes the Difference betwixt Passion and Imaginations, as well as the Different motions. But to prove Passions are made in the Heart, and not
+
+[page 260]
+{: descrip}
+
+in the Head, is, that when the Brain is Distempered, and Mad, as we say, yet the Passions may be Free and Regular; and Love and Hate, which are the two Chief Passions, may be Constant to the Objects they were placed on; thus the Mind or Soul, which is the Rational Animate matter, lies as much in the Heart as the Head, as also in all the other Parts of the Body, but the Different parts cause Different motions, both in the Sensitive and Rational matter.
+
+### CHAP. VIII.
+{: #chap6-VIII}
+
+*Of Different Passions in one and the same Part.*
+
+As for Passion, we shall Love and Hate at one and the Same Time, but not one and the same Thing at one and the same Time, for that is impossible. But Different Passions are made according to the Subjects or Objects they Move by or to, yet the Rational Animate matter, which Createth Passions, may Move partly Sympathetically, and partly Antipathetically, at one and the same Time; As for Example, a Man may be in Love with a Woman for her Beauty, or Wit, or Behavior, and yet have an Aversion to her Bad qualities; but a Man cannot Love the Person of a Woman, and Hate it at one and the same Time; but to the Creating of those Passions that Sympathize, as Love, and Hope, and Joy, and the like, the Rational Animate 
+
+[page 261]
+{: descrip}
+
+matter doth as it were Spread and Dilatate it Self; but for those Passions that Antipathize, it Contracts it Self more together, as in Hate, Fears, Jealousies, Doubts, Envy, Spight, and the like; and when two or three Passions arise at one Time, as a Passion of Grief for my Friend that is Kill'd and a Passionate Hate to his Murtherer, or the like, then the Rational Animate matter Divides it Self, partly Moving after one manner, and partly Moving after a quite contrary manner, and so may Divide into as many Parts, and after as many several Manners, as their Place or Quantity will give way to. But when we Love what was Hated, or Hate what was Loved, then the Rational Animate matter Changes its Motions towards such a Subject or Object without a Division. But when they Move Disorderly, the Passions are like a Tempest at Sea, Passions beat against Passions in a Confused manner, that is, the Motions of Passions cross one another, Distempering the whole Body, causing the senses to Mistake with the Violence thereof; Likewise in the Brain there may be Opposite motions in one and the same Degree of Animate matter, either Rational or Sensitive, either by an Alteration of Motion in one and the same Part of matter, or by Divisions moving in Parts, but when the Rational Animate matter Moves in a Regular division, and the Measures of Time, and the Notes of Motions skilfully Set, and rightly Kept, that is, Curiously or Neatly, and Carefully ordered, then 
+
+[page 262]
+{: descrip}
+
+there is an Harmony, which Harmony is a Quiet Mind, Gentle Imaginations, a Clear Understanding, a Solid Judgement, Elevated Fancies, and Ready Memory; but when this Rational Animate matter moves Disorderly, there arise Extravagant fancies, False reasons, Mis-understandings, and the like. 
+
+### CHAP. IX.
+{: #chap6-IX}
+
+*The Affinity betwixt Imaginations and Passions.*
+
+It is the Rational Animate matter that makes Passions, and not the Sensitive Animate matter, for the Senses only present the Objects, the Rational the Passions; which shows, the Rational Animate matter is as much in the Heart, as in the Head, and may be of the same degree of Strength, although they Work Different wayes, as being Different figures, yet there is such Sympathy with each other, whether by Recourse or otherwise, as Passions will Raise Imaginations, Corrupt Judgement, Disorder~~ed~~[^6-01] Reason, and Blind-fold Understanding; And Imaginations will raise Passions, as Fear, Love, Hate, Doubt, Hope, and the like; which shews, that the Rational Animate matter in the Head and Heart hath such Affinity as the Sensitive Animate matter hath in the Stomack and Head, as the Pain in the Head will make the Stomack sick, and a Sickness in the Stomack will make
+
+[page 263]
+{: descrip}
+
+the Head ake, I will not say at all times, but most commonly, neither will Imaginations at all times raise a Passion, nor a Passion an Imagination, but very often. But as there is Affinity between the Passion and Imagination or Thoughts in the Head, so between the Appetites and Passions, as also the Imaginations, but the Appetites are made by the Sensitive motions, and the Passions and Imaginations by the Rational motions. Likewise the Sensitive motions in making of Appetites do so resemble the Rational motions in making of Passions, as there is Little difference, only the Sensitive matter and motions make Appetites on the Inanimate matter, and the Rational makes Passions on its own Substance. 
+
+### CHAP. X.
+{: #chap6-X}
+
+*Of the Brain.*
+
+The Brain is not the Cause of Knowledge and Understanding, for a Bird that hath but a Little Brain, seems as Understanding, if not more, than a great Beast, as an Ox, or the like, which hath far greater quantity of Brain; but perchance the Bird hath more of the Rational Animate matter in his Little Brain, than the Beast that hath more Brain, for the Rational Animate matter Moves within the Brain, not upon the Brain, for so Works the Sensitive Animate matter, the Brain being made of the Inanimate
+
+[page 264]
+{: descrip}
+
+part of matter; for when the Brain is Defective, it is caused by the Sensitive Animate matter, not the Rational Animate matter; yet oftentimes the Sensitive Animate matter Disorders the Motions of the Rational Animate matter, as we shall see in Distempered and Sick bodies; Likewise the Disordered motions in the Rational Animate matter, will Disorder the Sensitive motions, as we shall see by Troubled minds.
+
+### CHAP. XI.
+{: #chap6-XI}
+ 
+
+*Of the Multitude of Figures in the Rational Matter, in the Brain, and Heart.*
+
+The reason why we may have Millions of Several figures in our Memory at One time, so likewise raised up to our Remembrance, when we can receive but One Perfect figure through our Senses at one time, is, that the Passages, for Outward objects to enter, are so Straight in all Animal figures, as that but one Object can take Place therein, I mean as being Perfectly distinct; for the Passages being Straight, many Objects entring at once, make a Confusion, at least a Disorder; for if more than one Object be Presented at one Time to any Particular sense, they are receiv'd but by Piece-meals, as in the Small parts, and many times the Divided parts are so Mixt together, as no Piece is perfectly Seen or Heard, or Smell'd, or Tasted, or Touched; besides, 
+
+[page 265]
+{: descrip}
+
+the Passages being Straight, the Sensitive Animate matter cannot work so Regularly, having not Liberty; for it is not with the Sensitive Animate matter, as with the Rational animate matter, by reason the Sensitive Animate matter works upon Gross materials, as upon the Inanimate part of Matter, which makes, that it cannot Move so Nimbly, nor Divide into Parts so Suddenly, especially in a Straight passage, as the Rational Animate matter can, which Moves only in Number and Measure, without any Dull or Inanimate[^6-02] mixture, for the Rational Animate matter can Figure out the whole World, and Millions of Several figures therein, Sooner and Swifter than the Sensitive Animate matter can Print one Figure upon any of the Senses; and not only those Figures that the Sensitive Animate matter Presents, or hath Presented, but makes those Figures that were never Presented, as those we call Phantasms; and as I said, the Rational Animate matter hath more room to Move in, not being Incumbred with the Inanimate matter, when as the Sensitive Animate matter is Incumbred with the[^6-03] Ear, Eye, Nostrils, Mouth, or Pores of the Flesh, so there may be a greater Quantity or Proportion of that Rational moving matter together in a Body, or Bulk, as I may say, than of the Sensitive Animate matter in the fore-said Passages, and according as the Quantity of the Rational matter is, there is the more Knowledge, and Clearer Understanding, the Quicker Wit, and the Livelier
+
+[page 266]
+{: descrip}
+
+Memory, the Fresher Remembrance, and the more Multiplicity of Thoughts, for it is not only the Largeness and Extent of the Place wherein the Rational matter Moves, that makes the more Knowledge and Understanding, and the like, but the Quantity of the Rational matter; for a Great Head may have but a little Wit, or Dim Understanding, and a Little Head a Quick Wit, and Clear Understanding, if the Little Head be full of this Rational Animate matter, and the Great head be empty thereof, but if the Room or Place be Large, and filled with this Sort of Animate matter, according to the Bigness, that Creature will be very Knowing, Understanding, and Ingenious; for imagine, that all the Heads of Mankind were put into the Compass of One Head, and sufficient Quantity of that Rational matter therein, that Creature, whatsoever it were, would have not only the Knowledge of every Particular Brain joyned together, but that Knowledge and Understanding would Increase as Use-money, for that Bulk or Banck would Multiply being put together.
+
+### CHAP. XII.
+{: #chap6-XII}
+ 
+
+*Of Thoughts*
+
+Many wonder what Thoughts are, and how such Millions can be within so Little a Compass as the Brain. I answer, that a Little  
+
+[page 267]
+{: descrip}
+
+quantity of the Rational Animate matter may make Millions of Figures, which Figures are Thoughts; As for Example, from Eight Notes Millions of Tunes are made, and from Twenty four Letters Millions of Several Languages may be made; Likewise One Lump of Clay may be moulded and formed into Millions of Several Figures; and like Pictures, Many Figures may be drawn in One Piece, and every Figure in a Several Posture; Likewise a Little Picture will represent so Great an Army, as would take up many Acres of Land, were it in a Pitched Field; again, a Globe no Bigger than a Head, will represent the Whole World. Again, say some, how is it possible there should be so many Several Thoughts in the Head at One time, and how from one Thought should there arise so Many of a Sudden, and at some times so Extravagant as to have no Coherence therein, at other times very Methodical and Sympathetical? To the first I answer, how many Several Postures may a Man put his Body into at One time, nay, I may say One Part of the Body? for how many Several Postures may the Face draw it Self into at One time? Secondly, I answer, that many Several Wheels will Move with One Motion, nay, with One Kind of Motion Several wayes, and many Wheels, with Several Motions Several wayes, and all within one and the same Compass, and from One Prime Spring. Again, some may Wonder how it is possible Figurative Thoughts can Inlarge and Contract the Dimension
+
+[page 268]
+{: descrip}
+
+and Extension; I answer, how is it with Prospective Glasses, Convex and Concave Glasses? likewise a Screen, or a Fan, or the like, which can fold many Folds into one Fold, then can draw them out into a Plain, Straight piece again, and so Shut up into a Fold, or Open in a Plain piece as Often and as Quick as a Thought? and millions of the like Examples may be given, but these are enough for this Time, on this Subject. 
+
+### CHAP. XIII.
+{: #chap6-XIII}
+
+*Of Thinking or Thoughts.*
+
+Thoughts are more Pleasant to the Mind, than the Appetite to the Senses, and the Mind Feeds as ~~greatly~~[^6-04] on Thoughts, as an Hungry Stomack doth upon Meat; and as some Meat breeds Good Nourishment, and some Bad Nourishment, causing either Health and Strength, or Diseases and Pain; so doth Thoughts, for Displeasing Thoughts of Grief, and all Sad Remembrances, cause the Mind to be Dull and Melancholy, or Froward and Discontented; and Pleasing Thoughts cause the Mind to be Cheerfull, Pleasant and Delightfull. Besides, the Mind is like Chewing of the Cud, for what the Senses bring in, and are Fed with outward Objects, those Swallowed Objects, the Thoughts of the Mind Chew over again; Thus the Mind is alwayes Feeding. 
+
+[page 269]
+{: descrip}
+
+Besides, the Senses have no longer Pleasure or Pain than the Objects Remain; but the Mind is as much Grieved or Delighted, when the Object is Removed, as when it is Present; As for Example, a Man is as much Grieved when he Hears his Friends is Dead or Kill'd, as if he Saw him Dye or Slain, for the Dead friend Lives in the Mind, not the Mind in the Dead Friend; and if a Man have a fine House, or great Riches, or an Excellent rare Race of Horses, or the like, the Mind takes as great Delight in Thinking of his fine House, as if it Dwelt in the House, and as great Delight in Thinking of his Riches, or what he could Do with the Use of his Riches, for the Mind. Doth not so much Dwell in the House, as the House in the Mind, nor the Mind doth not take so much Delight in the Use of the Riches, as in the Thoughts of Using them, and the Remembrance of the Curious Horses is as much in the Mind, as when the Horses were in the Eye; for when the Sense is Filled, the Mind can but Think, and the Mind may as well Think, when the Objects are Gone, as when they are Present, and the Mind may take as much Delight in Thinking what the Senses Have Injoyed, as what they are to Injoy, or desire to injoy; for Thoughts are the Fruition of the Mind, as Objects the Fruition of the Senses; for the Mind takes as much Delight, (if not more) in Thinking of an Absolute Power, as when the Commands of an Absolute Power be Obeyed, for Obedience dwells no more in the
+
+[page 270]
+{: descrip}
+
+Mind, when it Is Acted, than it did, Before it was Acted, or by the Imagination that it is Acted; Thus, the mind receives no more by Action, than it doth by Contemplation, only when the Pleasure of the Senses are Joyned with Delighfull thoughts, a Man may be said to be More Happy, though I believe, the Pleasure of the Senses draws the Delight from the Thoughts; for the more at Rest the Body is, the more Busie the Mind is imployed, and as Torments of the Mind are beyond the Torments of the Body, or at least the Displeasure of the Senses, so the Delight of the Mind is beyond the Ease or Rest of the Body, or the Pleasure of the Senses.
+
+### CHAP. XIV.
+{: #chap6-XIV}
+
+*What the Cause is, a Man hath not his Usual Knowledge, Sense and Reason, in a Swoon or Trance.*
+
+As I have said, Infinite doth not Know it Self, so the Several parts in Infinite matter are Ignorant of each other; also, the Several motions in one and the same Part, make a man in a Swoon or Trance, neither have ~~the~~[^6-05] Sense nor Knowledge as usually; for though there be no Alterations of his figure, yet there are Alterations of the Natural motions belonging to his Figure; as for the Sensitive motions, although they do not Move to the Destruction, as the Dissolution of the Figure, yet they do not 
+
+[page 271]
+{: descrip}
+
+Move to the Use of the Figure, but may Move as to the Use of another Figure, not of the Nature, Kind, or Sort of Animal; also the Rational motions may Move as to another Sort or Kind of Knowledge, like as Different Languages, so Different Knowledges, not Understanding each other, like as a Point or Pen, that Writes upon a Table-book, so the Animate matter may Write Several Knowledges, which can be Rubb'd out or Writ in, as often as the Pen and Book remains; So, I will compare Several Knowledges to Several Languages, the Pen to the Animate motion, the Book to the Inanimate matter, or rather to the Figure; as for Example, Put the case Latine were the Natural Language to a Man's Figure, and that he knew none other Language, then of Necessity all other Languages, as Greek, Hebrew, French, Dutch, English, or any other Language whatsoever, must necessarily be as Nonsense to him, being Ignorant in those Languages; So when as a Man is in a Swoon or Trance, the Animate motions Rub out the Natural Language as the Natural motions, which are the Natural knowledges, and then Write Hebrew or Greek, which are Unknown Languages, which is, the Animate motions move other ways, than is the Natural or Proper to the Figure, or Creature, then the Creature thus disturbed hath, as it were, forgotten his own Language, so his own Natural knowledge, being wholly Possess'd or Indued with an other Sort or Kind of Language, which 
+
+[page 272]
+{: descrip}
+
+is another Sort of Knowledge, but when as the Distemper is over, and that the Animate motions are Regular, according to the Nature and Propriety to the Creature as Man, then the same Natural Language, which is the same Natural knowledge and the same Natural motions are as they Naturally should be, the same Creature as Man is as he was before the Swoon or Trance, but in the Swoon or Trance he was Possessed or Indued with other Sorts or Kinds of Knowledge, which Unknown knowledges, as Unknown languages, caused by Unusual and Improper motions, are rubbed out, as the Natural and Proper motions were, and so the Body and Mind is as Ignorant, when out of the Trance, of that Knowledge in the Trance, as when they were in the Trance of their own Native knowledge both of Sense and Reason. Thus Several knowledges are not onely in Several and Different Creatures, but in One and the same Creature, which Several knowledges both of Sense[^6-06] Reason, were, or are no more Known to each other other, than Several languages to Unlearned men. But yet every Particular or Different language is still Language, although every Particular is not General; So every Particular and Different knowledge is still Knowledge, although each Sort is not General; but if the Natural language, which is the Natural knowledge, which is the Natural motions, be never Rightly or Plainly Repeated again, then we say, that Creature, as Man, is become a Fool, Ideot, or Irrational
+
+[page 273]
+{: descrip}
+
+Creature. In truth, Swooning and Reviving is like Memory, Forgetfulness, and Remembrance, which is, such and such Figures and Motions are Rubbed out or Put by with other more Powerful motions, making other Figures in the former Places or Figures, and after Repeated again, which Dissolving and Repeating, or Creating of Figures by Motions, may be made so long as the Figure lasts, like as a Point or Pen that Writes upon a Table-Book, or Parchment, which Writing may be Rubbed out, and Repeated so long as the Book or Parchment remains; The like for Several knowledges of Sense and Reason made by Animate motions, may be Rubbed out, or Put out, and Repeated again in the Several parts of the Body and Mind: Indeed every Several part hath a Several knowledge, and every Several Animate motion is a Several knowledge. But to conclude this Chapter of Swooning or Trances, in a Swoon or Trance all the Motions in the Sensitive passages, both Sensitive and Rational, are altered quite from the Nature of the Creature for a time, but after some time they move Properly and Regularly again; but surely the Creature in the time of the Swoon or Trance, was neither void of Sense nor Reason, but had both, although not such Sense and Reason as was proper to his Nature and Figure. 
+
+[page 274]
+{: descrip}
+
+### Chap. XV
+
+*Of Sense and Knowledge in Dead or Living Men.*
+
+Some may ask this Question, that if Sense and Knowledge (as the Sensitive and Rational Animate matter,) be in Inanimate matter, and all Creatures composed of these Degrees of Matter, so that in every Creature or Figure, or Part of matter, there is Sense and Knowledge, what Sense and Knowledge hath a Man, or any other Animal, when they are Dead? I answer, that the Figure of that Man, and every Part of his Figure, may have Sense and Knowledge, but not the Animal Sense and Knowledge, for those Motions proper for that Figure be generally Altered, not to be Repeated without a new Creation; for though the Animal shape is not Altered untill it be Dissolved, yet the Animal motions of Animal Sense and Knowledge are absolutely or intirely Altered, so as the Dead Figure hath no more of an Animal Creature then barely the Shape, and the Shape is Dissolving from an Animal shape, as fast as the Sensitive Expulsive motions can Separate the Whole figure into Parts; but it is impossible for a Living animal to know what Sense and Knowledge a Dissolving animal, which is a Dead figure, hath, because it is not an Animal when Dead. But such Questions may as well be asked,
+
+[page 275]
+{: descrip}
+
+what Sense and Knowledge Vegetables, Minerals, or Elements have, as to ask what Sense and Knowledge a Dead man hath; for though a Man may partly know of the Sense and Knowledge of other Animals by himself, being of Animal kind, yet he cannot know what Sense and Knowledge other Kind of Creatures have, and a Dead Animal is Changed from what it was, to some Creature that must be.
+
+### CHAP. XVI.
+{: #chap6-XVI}
+
+*Of the Motions of the Rational and Sensitive Matter.*
+
+The Sensitive and Rational Animate matter is the highest Extract, it is the Quintessence of Nature, which is the Animate part of Nature, which is the Life and Knowledge in Nature, which is the Actions and Soul; as for the Rational Animate matter, having no Incumbrances, it can Divide and Unite, Dilatate and Contract it self Infinite Several wayes in its own Substance and Motions, but the Sensitive Animate matter Moves after another manner, for it Divides and Composes, Dilatates and Contracts with the Inanimate matter, and though the Rational and Sensitive Animate matter move not alwayes after one Manner, yet they move alwayes after one Nature.
+
+[page 276]
+{: descrip}
+
+### CHAP. XVII.
+{: #chap6-XVII}
+
+*The Power, the Rational Motions have over the Sensitive.*
+
+The Rational motions in the Mind have great Power over the Sensitive motions in the Body, as to Perswade or Command the Sensitive motions, to keep the Sensitive Passages or Doors to be Shut from all Outward Objects, when as the Mind would not be Disturbed with Outward Objects, when it desires only to move in Contemplations; Also the Rational motions in the Mind will Command, or Perswade, and sometimes Force the Sensitive motions in the Body, to keep Open the Sensitive passages, and to Labour in some Arts, or Studies, or Observations, as Reading, Writing, or Practising, or Working in some of the Appetites, so that when as the Mind is Ambitious, Covetous, or Wanton, it Forces the Senses to Watch, to Work, to Play, and the like.
+
+### CHAP. XVIII.
+{: #chap6-XVIII}
+
+*Of the Regular and Irregular Motions of the Rational Matter and Sensitive Animate Matter.*
+
+There is such Sympathy between the Rational motions in the Mind, and the Sensitive motions in the Body, as they oftentimes Disturb
+
+[page 277]
+{: descrip}
+
+each other, I will not say alwayes, for sometimes the Rational motions are Regular, and the Sensitive Irregular, other times the Sensitive are Regular, and the Rational Irregular, but oftentimes the Irregularity of the Rational motions, causes the Irregularity of the Sensitive, and oftentimes the Irregularity of the Sensitive motions, causes the Irregularity of the Rational; As for Example, when as the Rational motions are so much Irregular, as to be Tumultuous, so as to cause Fearfull imaginations, or Imaginary fears, which Irregular Imaginations and Fears, cause the Sensitive motions to move Irregularly and Tumultuously; and this Animate matter and motions do not only move Irregularly, and Tumultuously, but Violently, as beyond the ordinary Capacity or Ability of the Body; as for Example, when some Men are Disturbed with Imaginary fear, or Fearfull imaginations, which causes the Sensitive motions to Print in the Sensitive passages Irregular Objects, which causes a man to See Strange unusual Objects, which Men name Hobgoblins, Spirits, and Devils, as also to Hear strange Noises, to Smell unusual Sents, and to Feel unusual Touches, and to be Carried into unusual Places; and it is not to be Doubted, but all these Strange and unusual Sights, Sounds, Sents, Touches and Violence were true, for no doubt, but such Sensitive prints were made on the Sensitive passages, that cause the Unusual Sensitive effects; for if such Extravagant motions be made, such Extravagant
+
+[page 278]
+{: descrip}
+
+senses will be; as for Example, when Men say they are Pinched black and blue, no Question, but they have had such Pinching motions on their Body, as to be Sore, and many times the Black and Blue spots will remain, and when they say, they were Carried or Flung into such a Ditch, or the like Place, I do not doubt it, for I see no reason but that the Whole body may be carried Violently from place to place by the Strength of the Animate motions in that Body; for certainly, the Animate motions in one Body, as a Man, do not ordinarily Work or Move to the utmost Power of their Strength or Agility; as for Example, Mad men in their Mad fits, have many times more Strength, than when they have not their Mad fits, for some that are, as we say, Outragiously mad, Ten men cannot Hold or Keep them in their Beds, and when as their Mad fits are past, they are so Weak, as a Womans strength may Rule them. But to draw a Conclusion, it is with the Animate matter and motions, as it is with Governours and Citizens, or Commons, they know not their own Power and Strength, untill such time, as they make a Trial, or are Forced to it, for every Particular part knows not the Strength of the Whole, untill the Several parts Joyn all into One, as the Several powers of each Part into one whole Strength and Power, so the Animate matter and motions Moving and Working in Several parts of the Body and Mind, know not their own Abilities, untill each Part joins as into 
+
+[page 279]
+{: descrip}
+
+one whole Power and Strength. Thus the Animate matter and motions in every Creature may be Ignorant of it Self, but when as the Animate matter and motions are United into one whole Power, they have great Force and Strength; but when as the Sensitive motions begin the Disorder, Uproar, or Tumult, the Rational becomes so Disordered with the Disorder of the Sensitive, as it can neither Direct Prudently, nor Advise Subtilly, nor Order Methodically, and when as the Rational motions begin the Disorder, Uproar, or Tumult, then the Sensitive motions cannot Act Orderly, Methodically, or Properly; but many times the first Beginners are the first Repenters.
+
+### CHAP. XIX.
+{: #chap6-XIX}
+
+"Of Sleep."
+
+Although the Sensitive Animate matter, or the Rational Animate matter doth never desist from Moving, as being against the Nature, for Animate matter is in a Perpetual motion, yet that Matter both Sensitive and Rational, doth not alwayes Move or Labour in a like Degree, nor alwayes after one manner of Way, or in one Part or Figure, or in one Time, but Differently; as for Example, in Animals, Creation, Increasing, Nourishment, Consistence, Use, Convenience, Decays, Sicknesses and Death, Grief, Joy, Love, Hate, and the like; also the
+
+[page 280]
+{: descrip}
+
+Rational and Sensitive doth not Move Asleep as Awake, or Awake as Asleep, for Asleep they Work on the Inside of the Sensitive passages, and Awake on the Outside of the Sensitive passages; for in Sleep they desist from Working, or Printing, or Patterning of Outward Objects on the Outward Parts of the Sensitive passages, as sometimes with being Tired with Outward work, as Outward motions, and sometimes for want of Outward objects to Work and Move on, other times it is their Appetite to Freedom and Liberty to desist from Outward Labours or Imployments; for though the Animate motions oftentimes move and work as Actively to Sleep, and in Sleep, yet it is easier to move Voluntarily, than when they are Bound to Outward objects, as to Work upon Constraint and Necessity. 
+
+### CHAP. XX.
+{: #chap6-XX}
+ 
+*Of Disturbance of Some Parts, causing a Disturbance in the Whole, as to hinder from Repose or Sleep* 
+
+Although the Sensitive nor Rational matter doth never desist from Moving, being in a Perpetual motion, yet they do not alwayes Figure or Print Outward Objects, neither do they alwayes make Use of the Sensitive outward Passages or Doors, for the Sensitive motions make no Use of the Outward passages, 
+
+[page 281]
+{: descrip}
+
+when they Shut them up from Outward objects, for though Sensitive motions move in the Sensitive passages for their Consistence, yet not alwayes for their Use, as we may perceive, when they are Shut for Sleep; but the Sensitive Animate motions in the Sensitive passages cannot Shut the Doors when they will, although they have Rational consent, for sometimes the Irregular motions in some Parts of the Body, hinder the Sensitive repose, as also the Rational; as for Example, when as the Sensitive motions are Irregular in any one Part of the Body, as in a Finger, or a Toe, it disquiets all the rest of the Animate motions both of Body and Mind, insomuch as the Sensitive motions in the Sensitive passages cannot move so Regularly or Orderly, as they would do, if the Sensitive motions in the Finger or Toe were Regular; neither can all the Animate motions both of Mind and Body all times rectifie the Disorders of that one Part, although they get the Assistance of other Motions in other Creatures and ~~Arts~~[^6-07], so that some Discords in some particular Parts hinder the Order of the Whole man, or such like Animal Creature; but when the Disorder is not so much as to hinder a through Order, but that there is only a half Disorder, or a partial small Disorder, then the Sensitive passages are partly Closed, and partly Unclosed, as in Slumbers, or Half sleeps, or to Shut and Open untimely.
+
+[page 282]
+{: descrip}
+
+### CHAP. XXI.
+{: #chap6-XXI}
+
+*The Difference between Sleeping and Waking.*
+
+The Difference between Sleeping and Waking, is, that in Sleep the Sensitive Animate matter and motions Work on the Inside of the Sensitive passages, as they do when as Awake on the Outside of the Sensitive passages, and when as the Sensitive motions Work on the Inside of the Sensitive passages, they Work by Rote, that is, they Work as to make Prints and Figures on the Inside of the Sensitive passages, without the Help or Patterns of Outward objects, which is the Cause, that, when as the Outward passages are shut from receiving Outward objects, then the Sensitive motions in the Sensitive passages Work inward, and their Inward work is for the most part Erroneous, for want of Objects, so as they work Confusedly and Extravagantly, Figuring or Printing a Lions Head or the like, to a Foxes Tail; or Printing or Figuring Pictures of Outward objects so Confusedly and Extravagantly, as to Joyn partly Animal, partly Vegetable, partly Mineral, or partly Elemental, or one Vegetable, or one Mineral, or one Animal, or the like to an other, not any wayes Agreeable to each other, or at least not their Parts agreeable to each other, all which is for want of Outward objects, to take right Examples from, for 
+
+[page 283]
+{: descrip}
+
+Working by rote, and by Sensible remembrance, they Work falsly, which causes the Rational motions to move Erroneously in Sleep, by reason the Rational moves according, for the most part, to the Sensitive Prints or Pictures; but sometimes the Sensitive, and so the Rational, moves just to those Objects, that have been formerly Printed on the Outside of the Sensitive passages, and then those Sensitive motions cause Perfect Dreams; but if the Sensitive motions make no Perfect Prints or Figures on the Inside of the Sensitive passages, or that the Rational motions, when as the Outward Senses are shut and reposed, move not in a perfect Ground or sculpt Figures, but only move in a Streaming or Flowing Dilatating motion, then a Man says, he did not Dream, that is, he did not Think, and Believes he was all the time, he was Asleep, as if he was Dead, as being without the Animal Sense or Knowledge, but the Man is mistaken, for the Animal Sense and Knowledge is in the Animal Mind and Body, but doth not move in the Animal Mind and Body Asleep, as it doth Awake; I say, not alwayes or at all times so, but sometimes it doth, for in Madness the Rational and Sensitive motions work or move as in Sleep Awake, and Awake as in Sleep.
+
+[page 284]
+{: descrip}
+
+### CHAP. XXII.
+{: #chap6-XXII}
+
+*Of Sleep and Dreams.*
+
+Sleep is caused by a Tiredness of the Spirits; for when the Sensitive motions are Tired with the Working on the Inanimate part of matter, which Tiredness is Slacking the Motions, or Changing their Motions, as when they Work Lasily, then the Figure grows Drowsie, and the Senses Dull, being weary of Pencilling, [^6-08] Copying out Objects upon the Optick Nerve. Likewise with Printing Letters, and Setting Notes on the Drum of the Ear, or in Drawing Platforms of several Tastes, Touches and Sents on the Tongue and Pores of the Flesh, or Striking or Playing on the Nerves, and on the *Duramater* and *Pia mater* of the Brain; but many times the Figure grows Drowsie, and the Senses Dull, when the Sensitive motions are Idle for want of Work, that is, having no Variety of Objects presented to them; I mean, of such Kind of Works, for the Animate matter never ceases to Move, although the Motions are not alwayes Agil and Quick, nor after one and the same manner; but when they Alter the Motions, as I may say more proper than to Slacken them, they do as it were cast Anchor, pulling down their Sail, going as it were under Hatches, and the Figure that is like a Ship, where the Motions of the Breath are like Waves of Water, 
+
+[page 285]
+{: descrip}
+
+that Heave it up, and then Sink down, but Sail not, nor Steer not to any Coast; and the Sensitive Animate matter, which is in this Action like Mariners, when they Work under the Hatches, Drawing and Winding up the Slimy Humors in the Body like Ropes by Attractive motions, Staying and Setling the Loose parts by Retentive motions, Placing and Putting Disordered parts into their Proper places by Digestive motions, and all the Motions busily imployed; some Mending the Figure, Stopping the Leaks, Dearning and Sowing together the Torn Sails, Oyling and Greasing the Keel, Pitching and Tarring the Crevises, Tying and Twisting the Ropes, Drawing the Superfluous moisture to the Gutter, ready to be Pumpt out, Sweeping all the Rubbish and Dirt on a Heap, ready to be Flung out; some Running up, and Returning from the Deck, which are the Pores of the Skin; but the Rational Animate matter is the Master of the Animal Ship, and the Sensitive Animate matter, as the Saylors, these Work on the Inanimate part of matter, the other Directs, when occasion serves, that is, when the Body is in Action; for though the Rational Animate matter never Labours on the Inanimate part of matter, yet they Counsel and Direct the Animal Ship, when it is Built, and set afloat, that is, when the Body is come to the full Growth, and Orders it in Blustring Storms, and Great Dangers; but the Rational Animate matter, when this Animal Ship is cast   
+
+[page 286]
+{: descrip}
+
+to Anchor, which is to Sleep, moves only in a Rocking or Rouling motion, as it were from side to side of the Cabbin, which is the Brain, making no Perfect Figure, nor giving Direction; this is Sleeping without Dreaming, but Dreaming is, when they move in Figures, making such Figures, as these Objects, which have been Presented to them by the Sensitive motions, which are only Pictures or Copies of the Original Objects, which we call Remembrance, for Remembrance is nothing but a Waking Dream, and a Dream is nothing but a Sleeping Remembrance; But if the Sensitive Animate matter moves in the same Manner, on the same Place, as Printing and Drawing such Figures or Objects in the Optick Nerve, or Setting such Notes or Letters on the Drum of the Ear, or Drawing such Platforms on the *Dura mater* or *Pia mater* of their Brain, or the Tongue, Flesh or Skin, of their own accord, without the Presence of the Outward objects, then we See, Hear, Taste, Smell, Touch as strong as if we were Awake, if their Motions be as Strong and Industrious; but many times we have in Sleep those Objects but in Part, and not in Whole, the reason is, that either the Sensitive Animate matter is Slow, or else they are not so Perfect Artists to Work without a Pattern, Working by misplacing and mistaking, or else Working by halfs, according to their Skil, or as Appetite moves them, making a Hodg-Podg or Gallimophry of many several Pieces or Draughts into one
+
+[page 287]
+{: descrip}
+
+Figure or Picture, which make Extravagant Dreams, by reason they Work not in a Methodical manner, and the Rational Animate matter moving in the same manner, makes a Mixt resemblance; but the Sensitive Animate matter having not the Outward objects in Sleep to Work by, seldome works Perfect or Plain, and working Imperfectly, they move Disorderly, and for the most part, that which makes us so often Perturbed in our Sleeps, is by moving Cross and Irregular, which cross Irregularity insnarls several Motions, so as there is no Distinction, which is the reason, that our Dreams are so often Obscure and Dark, as we can make nothing of them; and when the Rational Animate matter moves Cross and Tumultuously, our Dreams are most commonly Fearfull; and when the Sensitive Animate matter Works so Disorderly, our Dreams are Painfull; and when the Sensitive Animate matter works Perfectly, and the Rational Animate matter moves Justly, we have as much Knowledge and Understanding of what we Dream of, and as much Satisfaction from our Senses, as if we were Awake, and the real Objects present to us. 
+
+### CHAP. XXIII.
+{: #chap6-XXIII}
+
+*Dreamings of Living and Dead Figures.*
+
+Those Friends ~~in~~[^6-09] Acquaintance that have been Dead a long time, and appear in our
+
+[page 288]
+{: descrip}
+
+Sleep, we never question the Truth of their Life, though we question them how they Lived; again, the reason is, that these Figures are as Perfect and Lively to our present Senses in our Sleep, as when we are Awake, for oftentimes the Sleeping motion Prints Figures on the Inside of the Optick Nerve, as on the Inside of the *Pia mater*, as the Waking motion doth on the Outside, and when we Hear them as it were Discourse words, right on the Inside of the Drum of the Ear, or *Pia mater*, by the Sensitive motion, as on the Outside, when we are Awake; for all Sensitive matter Works Inwards Asleep, as Outward Awake; for if we smell Sents pleasing or displeasing, the Sensitive Spirits draw Lines, and set Notes on the Inside of the *Dura mater* and *Pia mater* of the Brain; And so for Taste and Touch, they draw Platforms in the Inside of the Skin, either of the skin of the Tongue, or any other Outward part of the Body, as they do on the Outside of the skin Awake; Thus the Senses present as Perfect Prints to the Rational matter oft times in Sleep as Awake, only they Print of the Inside Asleep, and on the Outside Awake, and what Rational Creature would not believe their Senses? for should a Man see an other man Die, and see him Buried, and afterwards should see that man Alive again, and hear him Speak, and Touch him, shall feel the Substance of Flesh, would not he think he Lived? *Thomas* the Apostle questions the Relations of our Saviours Resurrection from the 
+
+[page 289]
+{: descrip}
+
+Grave, but never questioned his Senses, when he Saw and Touched him; So in our Dreams, when the Sensitive Animate matter Prints such Figures on the Optick Nerve, as of such a Person which is Dead, the Rational matter straight Patterns out the Sensitive Print, and when the Sensitive Print, and the Rational Figure is just alike, the other Motion of the Rational matter cannot question the Truth of that Figure, or Figures being there, though they many question how they come Alive again, treating with it, as if Awake; the same is, if the Sensitive Animate[^6-10] Prints any thing as Dead, which is Living, and the Rational Patterns it, the rest of the Rational motions make no question of the Truth of those Sleeping motions, untill Waking motion otherwayes Inform them; for Rational motion in every Particular Figure knows little of the Sensitive motions, but what the Senses show them in the Several motions, yet the Rational motion generally knows, what they Present unto them, which every particular Sense doth not, each Motion is Unknown, and are Strangers to each other in one and the same Figure, for the Ear knows not what the Eye seeth, nor the Eyes know not what the Nose smells, nor the Nose knows not what the Tongue tastes, nor the Tongue knows not what the Body feels, but the Rational Animate matter in a Figure, knows all the Sensitive motions in the same Figure, as long as the Figure is Perfect, and Moves in an Animal way, and that the Rational motion
+
+[page 290]
+{: descrip}
+
+moves Regular; for when the Motions are Irregular, they can take no Perfect Copies, nor Notice how the Sensitive move, that is the reason that in Perturbed Passions, which are only Irregular motions, the Senses become as it were Useless to them, but most commonly the Disorder of one brings the Disorder of the other, I will not say, at all times; and so when the Sensitive Spirits are Regular, the Rational is Regular, but not at all times, for sometimes the one is Regular, the other is not, but the Rational which takes Copies of the Sensitive, is oftener Disordered by the Sensitive, than the Sensitive by the Rational, for when there is Grief in the Mind, many times the Body is in good Health, but it is seldome known, when the Body is Sick, but the Mind is Troubled.
+
+### CHAP. XXIV.
+{: #chap6-XXIV}
+
+*Of Local Dreams.*
+
+The reason that many times we Dream of Walking Woods or Houses, and the like is through this following reason: The Rational Animate matter, as I often said before, turns most commonly into such Figures, as the Sensitive Animate matter Prints, or hath Printed upon the Senses; now if a Tree, or House, or the like, be Printed on the Inside of the *Pia mater*, or the like Sensitive Part, when we are Asleep, the Rational Animate matter straight 
+
+[page 291]
+{: descrip}
+
+Figures them, these Figures move after a Local manner, although they have not an Animal or Local Shape; the reason is, that the Rational Animate matter, being Purer in it Self, without the mixture of Inanimate matter, moves only in ~~their~~[^6-11] own Matter, and the Figure moves in the Matter, whereas the Sensitive Animate matter Working upon the Inanimate part of matter, Moves in that Inanimate matter, and not the Inanimate matter in the Sensitive Animate matter, that is, the Sensitive Animate matter moves in the Inanimate part of matter, and the Inanimate part of matter is Moved by the Sensitive Animate matter; Thus the Sensitive Figure is Moved, but not Moving, but the Rational Animate matters Figures give their own Motions; Likewise if we have seen a Battel, or heard of a Battel, and afterwards we Dream of the same, or of the like Battel, then the Rational Animate matter puts it Self into Animal Figures, and Moves after a Local manner, each Figure placing it Self after that manner or way, as was Related, or Printed by the Senses, or after a way of its own Invention; and when the Figures encounter each other, as they must do to Fight a Battel in the Brain, and then some seem to be Falling, and others Dead, and some Mangled, Those Figures are as Falling and Broken, and cease to Move after the Local manner; and when one Party seems to Move as in a Confusion, then the Motions are Irregular, and just as the Senses present; so doth the Rational Animate
+
+[page 292]
+{: descrip}
+
+matter Act in the Brain, when we Sleep, and sometimes when we are Awake, as an Imagination, but especially in the Disease of Madness.
+
+### CHAP. XXV.
+{: #chap6-XXV}
+
+*The Rational nor Sensitive Motions do not at all times take a general Notice or Knowledge in their own Body and Mind.*
+
+Rational motions in the Mind do not at all times take Notice of the Sensitive motions in the Body, that is, the Rational motions do not at all times take Notice, as to Figure the Sensitive Prints in their Rational Matter or Substance; as for Proof or Example, the Mind many times when it is in a Serious Contemplation, or Violent Passion, will take no Notice of the Sensitive motions in the Body, for in a Serious Contemplation, the mind neither takes Notice of those Objects, as are Presented to any of the Senses, as Seeing, Hearing, Smelling, Tasting or Touching. Thus much I my Self have known by Proof of my own Mind and Senses; also some Men in Violent Passions receive a deadly Wound, and at the present take no Notice thereof, but when as the Serious Contemplations or the Violent Passions are past, then the Sensitive pains are taken Notice of, as also the Sensitive objects, which Express that
+
+[page 293]
+{: descrip}
+
+the Senses have Knowledge different or single from the Rational, for the Sense Felt it at the present, as well as after, although the Mind did not take any Notice thereof; and as in the Whole, so in Parts, both in Body and Mind; as for Example, when as a Man is in a serious Discourse, the Mind is so Attentive, as not to take Notice of any other Part of the Body, but of the Tongue and Words spoken, for if any other man Pulls or Pinches any of the other Parts of the Body, neither the Ear hears his Words, nor Flesh feels his Touch, unless he use such Violence as to make a double or treble Outward motion, that is, to make a more Violent Outward motion, than the Inward motions are at that Present, or more Fix'd than the Set Motions are in those Particular Parts. But to Conclude, and to Prove that the Mind doth not at all times take Notice of the Sensitive Actions or Knowledge, when a Man Designs to go to such a Place, or to Such a Man, or Woman, or the like, after the Mind hath designed to what Place or Person the Body shall go, the Mind seldome regards the Bodies motions, as how the Feet go, or the Body moves, for the Mind regards not every Step, nor the measures of each Stride or Slip, nor many times the PLace he goes to, and yet the Feet carry the Body directly to the designed Place or Person; but if the Sensitive Animate matter, which is the Mover of the Body, should not Regard, or should not Knowingly order every Step and Motion of the Feet,
+
+[page 294]
+{: descrip}
+
+the Body would not Move out of its Place, or not Go, where it was Designed.
+
+## CHAP. XXVI.
+
+*Of Figure Presented to the Senses.*
+
+The reason, why Figurative Senses are Quicker, than the Figurative Growth, is, it is less Labour to Print on the Inanimate part of matter, than to Cut out Sculpt Figures, both for the Strength of Actions, and for the Variety of Actions therein, fetching their Material, a long way,  and from many several places, which requires time and place, when Printing is but an Impression made upon a Flat.
+
+## CHAP. XXVII.
+
+*Of the Several Senses.*
+
+The general Opinion is, that all Objects come through the Optick Nerve, and Print the Figures received, on the Brain; and that there are, nor can be no Figures in the Brain, but what the Opticks bring in, and have passed through the Eye: It is true, by Experience we find, that without an Eye we cannot see Outward objects as they are without us, yet we see those Objects as they are without us in our Sleep, when our Eyes be shut; Thus the Sense of Seeing is not lost, although the Eyes were
+
+[page 295]
+{: descrip}
+
+out and the Optick Nerves stop'd up. But some will say, those Objects in Dreams have past through in Part or in Whole, therefore the question will be, whether an Animal can have an Insight, if it were Born blind; but if it be so, as the Opinion is, that no Figure or Insight can be, but what comes or hath passed through the Eye, and Optick Nerve, must want that Sensible Knowledge, for according to that Opinion, the Ear can do the Understanding no Service as toward that Sense, by reason Sound can make no Figure to Sight, neither will Taste, nor Sent; But some may say, Touch may discover somewhat of that Sense to the Understanding, but I think not: for in my Opinion, Touch is as Senseless to Insight as Sound; for we cannot Comprehend more of Touch, than of Sound, for Depth and Breadth are no more to Insight, than High notes and Low notes, nor Soft nor Hard, no more to Insight than Swift and Slow, Sharp or Flat, nor Pleasure nor Pain, no more than Harmony and Discord; but my Opinion is, that Figures are as Inherent to the Mind as Thoughts; and who can have an Unfigured Thought? for the the Mind cannot have Thoughts, but upon some Matter, and there is no Matter but must have some Figure, for who can think of Nothing? but the Mind is like Infinite nature, having no Dimension or Extension, no Centre nor Circumference, nor Breadth nor Depth; and as the Animate matter Creates Figures, so the Mind, which is the matter Creates
+
+[page 296]
+{: descrip}
+
+Thoughts, which Thoughts are the Figures of the Mind; for when we hear of a Deity, we say in Words, it is an Incorporeal thing, but we cannot conceive it so in Thought, we Say we do, but we cannot Prove we do; 'Tis true, the Mind may be in Amaze, and so have no Fix'd Thought of any Particular thing, yet that Amaze hath a Figurative ground, although not Circumscribed; as for Example, my eyes may see the Sea, or Air, yet not the Compass, and so the Earth or Heavens; So likewise my eye may see a long Pole, yet not the two Ends, these are but Parts of these Figures, but I see not the Circumference to the uttermost Extension, so the Mind in Amaze, or the Amaze of Thinking, Cuts not out a Whole and Distinct Figured Thought, but doth as it were Spread upon a Flat, without a Circumference, and though there are not such Figures in the Brain, as it brought through the Opticks, yet such Figures as the Mind Creates; for the Mind is Animate matter, and Animate matter is Self-motion, and Self-motion is alwayes Moving and Working, which Working is Figuring. Thus the Sensitive Animate matter Prints Figures in the Brain, and the Rational Animate matter Creates Figures in the Brain after its own Invention, which are Imagination and Conception, wherein are made Imaginary Worlds, without the Materials of Outward objects, and perchance these Motions may Create such a Figure as this World, and such several Figures, as the several Creatures  
+
+[page 297]
+{: descrip}
+
+therein, although not so Solid and Lasting, because those motions want those Gross materials, which they should Create it withall; but the Sensitive Animate matter in this case, Prints these Figures upon the Brain, like as when it doth the Outward objects, and when the Sensitive Animate matter Works on the Inside, as in Sleep, then it gives an Insight, which are Dreams, according to their Copied Prints, and these Motions may make Light, Colours, Tunes, draw Plat-forms of Taste and Sent, make Prints of Touch, not only the Rational Animate matter by Imagination, but the Sensitive Animate matter gives a Sensible Touch on the Brain of all the Outward Senses, by which Touch, I mean Sensible Knowledge. Thus the Interior motions may move the Brain with the Variety of every Sense, without the Exterior Passages or Objects, and although it may not make those very Objects, yet such as are Proper for each Sense, and of the same Nature as I said before, ~~Draw~~[^6-12] lines of Light, Gathering motions make Clouds, Triangular motions make Colours, Insnarled motions make Darkness, without the Outward object, and all other Motions that make several Printed Figures; Likewise, Reflections without the help of the eye, and so Re-bounds and Retorts; for Sound and Set notes Print Words, and Plain Tunes without the Ear; So likewise for Taste, Sent and Touch; but when the Brain is filled with Outward objects, the Natural motion seldome Works after 
+
+[page 298]
+{: descrip}
+
+their own Invention, having not Room as it were, or else it is as it were Over-burthon'd with Work, having more Objects brought in, than they can either Conveniently and Regularly work or move on; but Weak minds which are Slow moving matter, think Life an Insensible thing, and the Head or Brain empty of Figures, when it is not filled with Outward objects, like as a Barrel is not filled with Liquor, they think Empty, because the Thin Air, with which it is filled, is not Subject to their Gross Senses, so not to their Weak Capacities. Thus it is not the Outward objects that make the Sense, but the Animate matter, which is Self-motion, which is the Sense and Knowledge, and the Different motions therein, and therefrom, make the Differences thereof, and though Different Sense and Knowledge may be in Different, and Several Figures, and such Kind of Sense and Knowledge proper for such Kind of Sorts of Figures, yet the Figure adds nothing to the Sense and Knowledge, although the Animate matter may give a Figure such a Kind of Sense and Knowledge, and when that Figure Dies, that Kind of Sense and Knowledge may Alter, which was proper to that Kind of Figure; yet if it were the Figure that gave the Sense and Knowledge, and not the Animate motions, there would be no Alteration when the Figure is made, or any extraordinary Passion, where by Experience we find, the Sense and Knowledge do Alter all, though the Figure be Perfect and in Health.
+
+[page 299]
+{: descrip}
+
+### CHAP. XXVIII.
+{: #chap6-XXVIII}
+
+*Of Hearing and Seeing, and the other Senses.*
+
+Some may think it strange, that One Word should strike or enter into Several Ears at One Time, but surely it is not more strange that One Word should strike or enter many Several Ears, than that One Object shall enter into many Several Eyes at One Time; for the Sensitive motion and matter in the Ears receives Words or Sounds, as the Sensitive matter and motion in the Eye doth receive Objects, for the Motion of the Objects are not the only Cause of Hearing or Seeing, or the Effects of the other Senses, but the Motions in the Senses make such Motions as the Objects; and for proof, when as the Senses are Stop'd or Shut, the Objects are Useless, but the Sensitive motions will Print or make such Figures as Outward objects, without the Help of Outward objects; as for Proof, those that are Mad or Conceited, will Hear, See, Feel, Smell and Taste, several Sights, Sounds, Words, and the like, without Outward objects. But Words and Sound are trebly made, first they are made in the Object, then in the Sense, and last in the Mind; but when as a Man Speaks to an other man, they are made many times over Several wayes; as for Example, a Man before he Speaks, Thinks of those Words he should
+
+[page 300]
+{: descrip}
+
+Speak, then those are made in the Mind of the Speaker, by the Rational matter and motions, then he Speaks those Words, then they are made in the Mouth of the Speaker by the Sensitive motions, as also in his Ears when he Hears himself Speak; also those Words are made in the Ears of the Hearer by the Sensitive motions and matter, and then in the Mind of the Hearer by the Rational motions and matter, and if those Words be Spoken to a Multitude of Men, from those Words are made Multitudes of Copies of those Words in the Multitude of Ears and Minds; This shews, that it is not, as each Mind and Sense will make them, but Really was they are, so that we may well perceive, that some and the same Motions, and Figures, and Matter, is in the Senses and Mind, as in the Outward objects, and that some and same Motions, Figures and Matter, are in the Outward objects, as in the Mind and Senses, as in Madness; and also in Multitude, which expresseth all these several wayes of Sense and Reason and Objects. 
+
+### CHAP. XXIX.
+{: #chap6-XXIX}
+
+*Of Particular Objects entring into Several Men's Particular Senses.*
+
+As for Particular Objects to enter into Several Men's Particular Senses, some may Wonder, how that can be; as for Example, One Word to enter into many Several Ears; but in
+
+[page 301]
+{: descrip}
+
+my Opinion, Sound spreads as Light doth; as for Example, a Small Candle will inlighten a Large Compass, by reason, Rayes of Light stream equally from the Centre[^6-13] Candle to the Circumference; So doth Sound, for when as a Pistol or the like shoots, or makes a sound, or the Mouth of a Creature, the Pistol, or Mouth, or that which makes the Sound, is the Centre, which spreads Sound, as Fire doth Light; and when such a Compass of Air is fill'd with Sound, either Vocal or Verbal, every Ear that stands in the Compass, must upon necessity receive the Sound, if the Ear be not Deaf; Likewise every Eye may see Light that is not Blind, and Rebounds of Sound are as the Reflexion of Light, and Verbals are received into the Ears, as Figures into the Eyes, and as several Lines of Light Intermixt make Colours, so several Notes or Stops of Sound make several Tunes; but some may say, that if the Air were full of the same Words or Notes, that more would enter the Ear than was needfull, and so would make a Confusion; I answer, that cannot easily be, for the Ear can but receive a Due Proportion, unless the Ear be Defective, the like for the Eye, as so for the the other Senses. But to conclude this Chapter, the Motions of Outward objects Move and Figure the Air, being a Rare and Soft Agil Substance, to its own Likeness, and so long as those Figures or Motions last, those Figures and Motions are Sensible to the Senses, for the Senses Move according to the Motions of the Objects
+
+[page 302]
+{: descrip}
+
+in the Air, and for the most part, the Reason Moves according to the Senses.
+
+### CHAP. XXX.
+{: #chap6-XXX}
+
+*Of Light and Colours.*
+
+Light and Colour is made upon the Optick Nerve, as Sound on the Drum of the Ear, for Light the Sensitive Animate matter draws long, straight, small, even Lines upon the Optick Nerve, and when Colours are made, Notes are set upon those Lines drawn upon the Optick Nerve; Colours are made when those Lines are set with Notes, as Quavors, Semi-quavors, &c. but Light is only when those lines are drawn without Notes. 
+
+### CHAP. XXXI.
+{: #chap6-XXXI}
+
+*Of Hearing.*
+
+After the same manner is Sound received at the Ear, only the Difference is, that instead of Drawing or Printing the Outward objects, received through the Eye, Printed on the Optick Nerve, the Sensitive Animate matter Sets or Pricks down Notes and Draws Lines on the Drum of the Ear, as Musicians do upon Paper, or the like; and the Sensitive Animate matter in making them Run, and ~~make Stops~~[^6-14], according as the Vocal Sound is Set, and it is Louder  
+
+[page 303]
+{: descrip}
+
+or Lower, and according as they work Weaker or Stronger; but for the Verbal, it is Writ or Printed on the Drum of the Ear in Letters, for Words and the Knowledge, the Animal Figure takes, is, when the Rational Animate matter moves according to those Letters or Notes, or wayes of Division; but in a Confused Sound there is no Order, Time, nor Stop kept, nor no Perfect Note, nor Letter, nor Line Prick'd, or Printed, or Drawn, but as we Vulgarly say, it is all Scrible Scrable, or else Ciphers set for Notes, and like as it is to the Opticks, so it is to the Ear, for the Notes and Letters are as Pictures which Fade; for as the Outward motions Slacken, so the Vocal and Verbal Sound Dissolves, and the Memory and Remembrance of Sounds Vocal and Verbal is, as the Sense of the Objects on the Opticks. 
+
+### CHAP. XXXII.
+{: #chap6-XXXII}
+
+*Of Taste, Touch, and Smell.*
+
+These senses are made by such motions as Sound is, and as they are Set on the Drum of the Ear, so these are Set on the Nerves of the Tongue, or on the Skin, for when the Skin is off our Tongue, we cannot Taste; Likewise for Touch, 'tis set on the Nerves and Sinews, and when the Notes are set Harmoniously, it Pleaseth the Senses, otherwise it Displeaseth them, which Displeasure is Pain in the Sensitive 
+
+[page 304]
+{: descrip}
+
+Animate matter, and Hate in the Rational Animate matter. As for Sents, they are Motions that Draw like Lines, like a Platform upon the *Pia mater* of the Brain; indeed the second Draught of the Sensitive Animate matter, is to Draw all their Figures upon the *Pia mater* of the Brain.
+
+### CHAP. XXXIII.
+{: #chap6-XXXIII}
+
+*Of Touch.*
+
+Touch is the general Sense of the Whole Body, which the other Senses are not, for though every Part of the Body is of a several Touch, yet it is all Touch; when Sight only belongs to the Eyes, Sound only to the Ears, Sent only to the Nostrils, and Taste only to the Tongue; besides, Any of the Senses, nay, All of them may be Wanting, as if they did not belong to Life, (as indeed they do not, but are only as Conveniences to the Life, and not Necessary) whereas Touch is as it were the Life of the Figure, for when this Sense is generally wanting in the Animal Figure, it is as we say, Dead, that is, the Natural motion belonging thereto, is generally Altered, or quite Changed as we say. This Sense is received through the Pores of the Flesh, and the Nerves are the Instrumental Strings, whereon Motion Playes, either a Harmony of Pleasure, or a Discord of Pain, for as their Strings are struck, so is Pain
+
+[page 305]
+{: descrip}
+
+or Pleasure felt; but I have treated sufficiently of this Sense in the Chapter of Numb'd Palsies.
+
+### CHAP. XXXIV.
+{: #chap6-XXXIV}
+
+*Of the Pores of the Body.*
+
+The Pores are Passages, which let Out the Smoke or Vapour, Unnatural Heat, and the Superfluous Humors in the Body; also they are Passages to let In Comfortable Warmth, Refreshing Colds, Nourishing Air; these Passages have their Inconveniencies, for they are a means to Conveigh out the Good with the Bad, and many times take in Infections, as malignant Diseases, that pass through the Pores, for Infection comes in as much through the Pores, as any other Passage of the Body. Besides, many times the Radical moisture is Carried out by Unnatural Heats, and some times the Vital Spirits by too many Transpirations; but these Pores are Drawn or Shut Closer together by Contracting motions, or set Wider open by Extenuating motions, but if these common and Necessary passages to the Interior parts be too Close shut, either by Cold Contractions, or Hot Contractions, it Smothers and Choaks the Vital parts by keeping in the Vapour or Smoke that should go forth, for the Pores in this Case are as the Funnels of Chimnies, wherein the Smoke ascends up, and goeth out, and if they are set too Wide
+
+[page 306]
+{: descrip}
+
+open by the Extenuating motions, they Cause the Body to Starve, by giving Passage to such matter, as should be Kept in to Feed the Body, or by giving too free Passage to the Natural moisture, that should Quench or Temper the Heat in the Body, or by giving too free a Passage to the Gadding spirits that should stay in the Body, to be imployed to the Substance and Strength thereof. Besides, when they are too Open, they are as apt to take in, by giving Passage to that which is a Prejudice to the Life of the Body, as Infections, Malignity, or Unnatural Colds, or the like; but the Pores of the Body are alwayes Imployed, where the other Passages of the Body are Imployed but sometimes. But to conclude this Chapter, though the Pores of the Body be the least Doors or Passages of the Body, yet they are more in Number than all the other Passages, for the other Passages are but Single Passages, or but in Pairs, whereas the Pores are Numerous; but the Passages of the Mouth and Nostrils are the most Usefull, and yet the most Deadly, for to receive in Air, and to let out Breath, which being stop'd the Body Dies, being Over-power'd with Inward Vapour, and Hinder'd from Outward Air, for there is a Necessity, that one Creature must Live by an other, and Animals cannot Live without Air, although some think Fish do ~~not~~[^6-15], but I believe they do, for if Fish had no Air they would Die, witness those Fish that Die in Frozen Rivers.
 
 
 
@@ -2665,3 +3187,18 @@ bodies, and Deformed minds, and some Excellent tempered and Exact Moving minds, 
 [^5-11]: Cavendish's correction: insert 'be'
 [^5-12]: Cavendish's correction: insert 'for'
 [^5-13]: Cavendish's correction: Interior
+[^6-01]: Cavendish's correction.
+[^6-02]: Cavendish's correction: Read "Inanimate matters mixture"
+[^6-03]: Cavendish's correction: Read "with the inanimate in the Ear"
+[^6-04]: Cavendish's correction: for 'greatly' read 'greedily'
+[^6-05]: Cavendish's correction: they
+[^6-06]: Cavendish's correction: and
+[^6-07]: Cavendish's correction: Parts
+[^6-08]: Cavendish's correction: and
+[^6-09]: Cavendish's correction: and
+[^6-10]: Cavendish's correction: insert 'matter'
+[^6-11]: Cavendish's correction: its
+[^6-12]: Cavendish's correction: Drawing motions make
+[^6-13]: Cavendish's correction: of the
+[^6-14]: Cavendish's correction: Stop
+[^6-15]: Cavendish's correction.
