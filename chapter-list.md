@@ -222,3 +222,80 @@ title: List of Chapters
 [Chapter 28: *Of Hearing, Seeing, and the other Senses*](../texts/cavendish/#chap6-XVIII) | 299
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
+
+### Part VII.
+
+[Chapter 1: *Of Natural Warrs in Animal Figures*](../texts/cavendish/#chap7-I) | 307
+[Chapter 2: *Of the Motion of the Blood*](../texts/cavendish/#chap7-II) | 309
+[Chapter 3: *Of the several Ways of Bleeding Physically*](../texts/cavendish/#chap7-III) | 311
+[Chapter 4: *Of Diseases caused by Conceit or Imagination*](../texts/cavendish/#chap7-IV) | 312
+[Chapter 5: *Of the four Natural Humors of the Body*](../texts/cavendish/#chap7-V) | 313
+[Chapter 6: *The four Natural Maladies in the Body, and two Unnatural*](../texts/cavendish/#chap7-VI) | 315
+[Chapter 7: *Of the Motions that make Sickness*](../texts/cavendish/#chap7-VII) | 317
+[Chapter 8: *Of the Motions which cause Pain*](../texts/cavendish/#chap7-VIII) | 319
+[Chapter 9: *Of Swimmering or Dissiness in the Head*](../texts/cavendish/#chap7-IX) | 321
+[Chapter 10: *Of Weakness*](../texts/cavendish/#chap7-X) | 322
+[Chapter 11: *Of Numb and Dead Palsies*](../texts/cavendish/#chap7-XI) | 323
+[Chapter 12: *Of that we call a Sleepy Numbness*](../texts/cavendish/#chap7-XII) | 325
+[Chapter 13: *The Manner of Motion, or Disorder in Madness*](../texts/cavendish/#chap7-XIII) | 326
+[Chapter 14: *Of Madness in the Body and Mind*](../texts/cavendish/#chap7-XIV) | 329
+[Chapter 15: *Madness is not always in the Head*](../texts/cavendish/#chap7-XV) | 331
+[Chapter 16: *Musick may Cure those that are Mad in Mind*](../texts/cavendish/#chap7-XVI) | 332
+[Chapter 17: *Of Natural Fools or Idiots, also of Deaf and Dumb men*](../texts/cavendish/#chap7-XVII) | 333
+[Chapter 18: *Of Fundamental Diseases*](../texts/cavendish/#chap7-XVIII) | 336
+[Chapter 19: *Of the Spotted Feaver, especially the Spotted Plague*](../texts/cavendish/#chap7-XIX) | 338
+[Chapter 20: *Of the Small Pox and Measles*](../texts/cavendish/#chap7-XX) | 341
+[Chapter 21: *Of Expelling the Malignity to the outward Parts of the Body*](../texts/cavendish/#chap7-XXI) | 344
+[Chapter 22: *Of Hectick Feavers*](../texts/cavendish/#chap7-XXII) | 346
+[Chapter 23: *Of ordinary Feavers*](../texts/cavendish/#chap7-XXIII) | 348
+[Chapter 24: *Of Feavers in the Blood*](../texts/cavendish/#chap7-XXIV) | 350
+[Chapter 25: *Of Agues*](../texts/cavendish/#chap7-XXV) | 352
+[Chapter 26: *Of Consumptions*](../texts/cavendish/#chap7-XXVI) | 355
+[Chapter 27: *Of Coughs*](../texts/cavendish/#chap7-XXVII) | 359
+[Chapter 28: *Of Dropsies*](../texts/cavendish/#chap7-XXVIII) | 363
+[Chapter 29: *Of Sweating Diseases*](../texts/cavendish/#chap7-XXIX) | 367
+[Chapter 30: *Of Gangrenes*](../texts/cavendish/#chap7-XXX) | 369
+[Chapter 31: *Of Cancres and Fistulaes*](../texts/cavendish/#chap7-XXXI) | 370
+[Chapter 32: *Of the Gout*](../texts/cavendish/#chap7-XXXII) | 371
+[Chapter 33: *Of hard white Swellings*](../texts/cavendish/#chap7-XXXIII) | 373
+[Chapter 34: *Of the Stone*](../texts/cavendish/#chap7-XXXIV) | 374
+[Chapter 35: *Of Apoplexies*](../texts/cavendish/#chap7-XXXV) | 375
+[Chapter 36: *Of Epilepsies*](../texts/cavendish/#chap7-XXXVI) | 378
+[Chapter 37: *Of Lethargy*](../texts/cavendish/#chap7-XXXVII) | 380
+[Chapter 38: *Of Shaking Palsies*](../texts/cavendish/#chap7-XXXVIII) | 381
+[Chapter 39: *Of Convulsions and Cramps*](../texts/cavendish/#chap7-XXXIX) | ibid.
+[Chapter 40: *Of Colicks*](../texts/cavendish/#chap7-XL) | 385
+[Chapter 41: *Of Surfeits*](../texts/cavendish/#chap7-XLI) | 386
+[Chapter 42: *Of Unnatural Purgings and Fluxes*](../texts/cavendish/#chap7-XLII) | 388
+[Chapter 43: *Several causes of the Flux, of Purging or Vomiting*](../texts/cavendish/#chap7-XLIII) | 389
+[Chapter 44: *Of Diseases in the Head, and Vapors to the Head*](../texts/cavendish/#chap7-XLIV) | 392
+[Chapter 45: *Whether the Brain turn Round in the Head*](../texts/cavendish/#chap7-XLV) | 394
+[Chapter 46: *Of the Sound or Noise in the Head*](../texts/cavendish/#chap7-XLVI) | 395
+[Chapter 47: *Of the Head feeling Numb*](../texts/cavendish/#chap7-XLVII) | 396
+[Chapter 48: *Of the Winter, and the Diseases therein*](../texts/cavendish/#chap7-XLVIII) | 397
+[Chapter 49: *Of the Season of the Spring, and the Diseases most Frequent therein*](../texts/cavendish/#chap7-XLIX) | 401
+[Chapter 50: *Of the Season, and the Diseases of the Summer*](../texts/cavendish/#chap7-L) | 402
+[Chapter 51: *Of the Autumn, and the Diseases most Frequent therein*](../texts/cavendish/#chap7-LI) | 405
+[Chapter 52: *Of the Infections of Animals, Vegetables, and Elements*](../texts/cavendish/#chap7-LII) | 406
+[Chapter 53: *Of the Superfluity of the Humors, as Phlegm, Choler, Melancholy and Blood*](../texts/cavendish/#chap7-LIII) | 407
+[Chapter 54: *Of those Parts of the Veins which draw Nourishment into the Body*](../texts/cavendish/#chap7-LIV) | 409
+[Chapter 55: *Of the several Motions in an Animal Body*](../texts/cavendish/#chap7-LV) | 410
+[Chapter 56: *Of the Animal or Radical and Vital Spirits in Animal Bodies*](../texts/cavendish/#chap7-LVI) | 412
+[Chapter 57: *Of Cordials and Opium*](../texts/cavendish/#chap7-LVII) | 413
+[Chapter 58: *Of Pleasure and Pain*](../texts/cavendish/#chap7-LVIII) | 414
+[Chapter 59: *The nature of Purging Medicines*](../texts/cavendish/#chap7-LIX) | 415
+[Chapter 60: *The Motion of Medicines*](../texts/cavendish/#chap7-LX) | 422
+[Chapter 61: *Of Purging*](../texts/cavendish/#chap7-LXI) | 426
+[Chapter 62: *The reason why one and the same Quantity of Physick shall Purge some Bodies to Death, and not Move other Bodies, or at least not to that Degree*](../texts/cavendish/#chap7-LXII) | 427
+[Chapter 63: *The Agreeing and Disagreeing of Food, as also Physick and Cordials*](../texts/cavendish/#chap7-LXIII) | 429
+[Chapter 64: *The Agreeing and Disagreeing of Humors, Senses, and Passions*](../texts/cavendish/#chap7-LXIV) | 431
+[Chapter 65: *Of Outward objects Disagreeing with the Natural Motions and Humors in the Body*](../texts/cavendish/#chap7-LXV) | 433
+[Chapter 66: *Of the Inward and Outward Senses and Parts of the Body*](../texts/cavendish/#chap7-LXVI) | 437
+[Chapter 67: *The Sympathies and Antipathies of Sound to the Mind and Actions*](../texts/cavendish/#chap7-LXVII) | 438
+[Chapter 68: *The Knowledge of Diseases*](../texts/cavendish/#chap7-LXVIII) | 443
+[Chapter 69: *Of Diseases in General*](../texts/cavendish/#chap7-LXIX) | 448
+[Chapter 70: *The reason why Animals are Hot whilst they Live, and Cold when Dead*](../texts/cavendish/#chap7-LXX) | 450
+[Chapter 71: *A Conclusion of this Part, of Diseases*](../texts/cavendish/#chap7-LXXI) | 452
+[Chapter 72: *The Deitical Centre.*](../texts/cavendish/#chap7-LXXII) | ibid.
+
+<p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  

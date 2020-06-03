@@ -16,6 +16,9 @@ toc:
 - Part IV.
 - Part V.
 - Part VI.
+- Part VII.
+- To My Just Readers
+- Newcastle, Ground of Natural Philosophy
 - Footnotes
 ---
 {:descrip: .centered .small style="font-style:italic"}
@@ -2002,7 +2005,8 @@ Fiery points of Hot burning, Bright shining Fire will divide the Watery-circle, 
 
 hath Strength, to close or joyn those Dissevered or Divided parts into one Body again, by the means of its Natural moistness and wetness; This is the cause of the Perturbance of Boyling water; but when as Fire doth only Rarifie water, it doth that Work by a Softer and Gentler motion, as more Insensible, in which Wasting condition Water dies of a Consumption, or Hectick Feaver, Dissolving by degrees, and as it were Insensibly.
 
-### CHAP.XX.
+### CHAP. XX.
+{: #chap5-XX}
 
 *Of the Motions that make Natural Air and Natural Light.*
 
@@ -2678,13 +2682,17 @@ Self-motion Striving and Strugling with Self-motion, puts it Self to Pain; and o
 
 effects over the Minor causes, for Effects are Causes of Effects.
 
-## CHAP IV.
+## CHAP. IV.
+{: #chap6-IV}
+
 
 *Of the Understanding, Sense, and Reason.*
 
 There is no Sense without Reason, nor no Reason without Sense, and if Sense and Reason are not General throughout Infinite matter in Infinite Creatures, it is a Particular gift from something, which is Transcending the Infinite matter, which is Infinite nature, as God, a Deity; but if Reason be a Particular gift to some Particular Creature, as namely Man, Nature, or the God of Nature, would prove both Partial and Finite; as for Infinite Nature, she seems to be Inconfin'd, and for the God of Nature, He can have no Bias.
 
-## CHAP V.
+## CHAP. V.
+{: #chap6-V}
+
 
 *The Two Ground-Motions in the Rational Animate Matter*
 
@@ -2696,6 +2704,8 @@ The Rational Animate matter moves, as it were, Two ways, for it hath Different m
 Actions of the Created is another way; the like doth the Rational Animate matter, it first Runs into Figures, and then Moves Figuratively; Again, some Figures being Stronger than others, will force the Weaker figure to move after their Manner.
 
 ## CHAP. VI.
+{: #chap6-VI}
+
 
 *The two Chief Parts belonging to Man, are the Head and the Heart, wherein Reside the Rational Spirits.*
 
@@ -2842,7 +2852,7 @@ Creature. In truth, Swooning and Reviving is like Memory, Forgetfulness, and Rem
 [page 274]
 {: descrip}
 
-### Chap. XV
+### CHAP. XV
 
 *Of Sense and Knowledge in Dead or Living Men.*
 
@@ -3131,9 +3141,1370 @@ The Pores are Passages, which let Out the Smoke or Vapour, Unnatural Heat, and t
 
 open by the Extenuating motions, they Cause the Body to Starve, by giving Passage to such matter, as should be Kept in to Feed the Body, or by giving too free Passage to the Natural moisture, that should Quench or Temper the Heat in the Body, or by giving too free a Passage to the Gadding spirits that should stay in the Body, to be imployed to the Substance and Strength thereof. Besides, when they are too Open, they are as apt to take in, by giving Passage to that which is a Prejudice to the Life of the Body, as Infections, Malignity, or Unnatural Colds, or the like; but the Pores of the Body are alwayes Imployed, where the other Passages of the Body are Imployed but sometimes. But to conclude this Chapter, though the Pores of the Body be the least Doors or Passages of the Body, yet they are more in Number than all the other Passages, for the other Passages are but Single Passages, or but in Pairs, whereas the Pores are Numerous; but the Passages of the Mouth and Nostrils are the most Usefull, and yet the most Deadly, for to receive in Air, and to let out Breath, which being stop'd the Body Dies, being Over-power'd with Inward Vapour, and Hinder'd from Outward Air, for there is a Necessity, that one Creature must Live by an other, and Animals cannot Live without Air, although some think Fish do ~~not~~[^6-15], but I believe they do, for if Fish had no Air they would Die, witness those Fish that Die in Frozen Rivers.
 
+----
+
+[page 307]
+{: descrip}
+
+# PHILOSOPHY 
+## PART VII.
+### CHAP. I.
+{: #chap7-I}
+
+*Of the Natural Wars in Animal Figures.*
+
+All Animals after they are Created, and have an Animal life, their Figure is Inlarged by Nourishing motions, and Sympathetical matter; these Nourishing motions are Digesting motions, carrying those Parts, which are Received by the Senses, unto those Parts, that are Created therein, Building thereon, and Fitting therewith, Strengthening by Adding Thickness, as well as Inlarging by Extenstion; yet all that is Received into the Stomach, is not Nourishing, the Reason is, that the Temperament of the Matter is not Sympathetical, that is, agreeing not with the Motions therein; for though it is not so Antipathetical
+
+[page 308]
+{: descrip}
+
+to make an Open War, which War is Sickness, yet they do Hinder and Obstruct, like Several Factions, those Natural motions, which make Health; but when the Natural motions and Tempers of Humours are quite Opposite to the Food that is received, or the Unnatural humors bred in the Body, by Evil Digestion, they become Mutinous by the Quantity that is received, or that ariseth from Obstructions, whereupon there becomes a Feirce and Cruel Fight of Contrary motions, and Temperaments of Matter, and whilst they are in the Battel, we say, the Body is Sick, and if the Natural motions be not Strong enough to Cast that Evil and Dangerous matter Out, or at least able to Resist them so far, as to Guard themselves, until the Evil parts do Spend themselves with their own Fury, or till the Natural motions and Temperaments can have some Assistance, as Cordials, or Physick, it Destroys the Figure it Fights with; but if the Natural motions be more Powerful, either by their own Strength, or by the Help of their Assistants, than the Mutinous and Rebellious humours are, or the Forein Enemy, as Surfets, and the like, then the Distempers or Diseases are Cast out, Killed, or Taken prisoners, which is to be Purged, Corrected, or Purified, which makes the Humours Obedient and Peaceable.  
+
+[page 309]
+{: descrip}
+
+### CHAP. II.
+{: #chap7-II}
+
+*Of the Motion of the Blood.*
+
+I have heard, that the most Renowned and Learned Physician Doctor *Harvy* hath found out the Circulation of the Blood by his Industrious Studies and Observations in the Dissections of Animal bodies, and it would be very Beneficial to the Health and Consistence of Animal Bodies, if he had, or that other Learned men could find out the Motion of the Blood, as it runs in a Circular course, as whether it hath an Intermixing motion, as it Runs thorow the Veins, or whether the Blood doth not do, as Water seems to do, when it Runs in a Swift course, where the Following parts or Drops of water are as great Strangers to the Leading parts of the Water, as the Situation of either Pole; for though the Hinder parts of a Stream or Flood of Water press the Former parts to run Forward, like as Crowds of People, some Shoving or Thrusting others before them, yet the Hindermost cannot get Passage, as to get First, for a Single strength is too Weak to pass thorow the Strength of a Great, Close, United Number; So Water, which is apt to Divide in Parts, and as apt to Joyn into great Swell'd Bodies, yet those Parts do not seem to Intermix or Incorporate whilst they Flow or Ebb, for if the Several parts should Intermix as they Flow 
+
+[page 310]
+{: descrip}
+
+or Ebb, their Intermixing motions would Hinder or Retard their Flowing or Ebbing motions, in so much, as the Flowing or Ebbing motions would not hastily be perceived, neither could Flows and Ebbs be Changed or Repeated so soon, as we perceive they are; But if the Blood doth not Intermix one Part into another in its Circulation about the Body in the Veins, then some Veins may have Foul and corrupted blood, and some very Pure blood, if so, when as an Animal, as a Man, is Let blood, if they light not on that Vein whereas the Corrupted blood is, they may take out the Pure and Incorrupted blood, and leave the Foul and Distempered blood in the Body, which Corrupt or Distempered blood may corrupt the Vital parts as it Runs in a Circular motion thorow those Parts. This is the Reason, that many in Feavers, or any Disease that proceeds from the Distemper of the Blood, are never the better, when as they are Let blood, because the Physician or Chirurgeon knows not, in which Vein or Part of the Body the Distempered blood is. Wherefore Physicians or Chirurgeons had better strike two or three Several Veins in Several Parts of the Body, and venture the Loss of some of the Good or Well-tempered blood, than let the Distempered blood Remain, lest it may Corrupt the whole Body, not by Intermixing, but by Running or Flowing thorow all the Parts of the Body. 
+
+[page 311]
+{: descrip}
+
+### CHAP. III.
+{: #chap7-III}
+
+*Of the Several wayes of Bleeding Physically.*
+
+There are three Several wayes of Bleeding Physically, as by a Lancet, by Scarifying and Cupping, and Leaches. The Bleeding by a Lancet I approve of Best, the other two wayes Worst, for that way of Bleeding that is by Leaches and Cupping, doth for the most part more Hurt than Good, for they draw forth of the Body the Thinnest part of the Blood, wherein the Purest Spirits (setting aside the Arteries) are infused, and leave the Grossest and Heaviest part of the Blood behind; and it is to be observed, that the Purest part of the Blood is in the Artery Veins, the Grossest Blood in the Middle Veins, and the Thinnest Blood in the Hair Veins, wherein are more Spirits than in the Middle Veins, although much less than int he Lowest Veins which are the Arteries; and for Proof, those that Bleed either by Leaches or Scarifying, are more Pale and Fainter than those that Bleed by the Lancet, although the Blood be equal in Quantity, but some may say, that Leaches open the Middle Veins; I answer, they may do so, if the Hemorrhoid Veins be so High or Swell'd, as to be ready of their own accord to Open, but not if they lye Low, for a Leach cannot peirce thorow the Skin, and then thorow the Flesh, 
+
+[page 312]
+{: descrip}
+
+and lastly to open the Vein, as a Lancet can, for a Leach hath not strength to do it; and as for Scarifying and Cupping, it is but Skin deep, for though the Cupping Glasses draw, yet they make no Incision into the Middle Veins, and Scarifying is only on the Skin. 
+
+### CHAP. IV.
+{: #chap7-IV}
+
+*Diseases caused by Conceit or Imagination.*
+
+As for the Producing Diseases by Conceit, 'tis thus: The Sensitive motions, which are the Motions of Life, have an Absolute power over the Sensitive part of the Body, as Working every Part thereof, and therein; so the Rational Animate matter, which are the Motions of the Mind, Create Imaginations and Conceptions, and the Rational and Sensitive being as Man and Wife, the Rational as the Husband, the Sensitive as the Wife, whereupon the Rational many times Begets that Disease, it Figures, which is an Imagination, and the Sensitive brings that Child forth, being like the Figure of the Rational; and to Prove it, those that Conceit they shall have the Small Pox, Measels, Plague, or the like, most commonly they fall Sick of that Disease, although they come not near the Infection; and to prove the Animal Spirits which is the Mind, works the same Motions by an Imagination as the Disease is, those which Conceit a Disease, do not fall Sick of any 
+
+[page 313]
+{: descrip}
+
+other Disease, but the same they Imagine; and the reason why these Malignant Diseases are Produced oftner by Imaginations, than other Diseases, is, that those Diseases are Dangerous, or that they are apt to Deform, which makes a Fearfull Conception or Imagination to Work more Strongly, for did the Imaginations work as Strong to other Diseases as to these, they would Produce the same Effect. 
+
+### CHAP. V.
+{: #chap7-V}
+
+*Of the four Natural Humors of the Body, and those that are Inbred.*
+
+As there is Natural Fire, Air, Water and Earth, that is made by an intire Creation, derived from their own proper Principles, as likewise a Metamorphosed Fire, Air, Water and Earth; So there are Humors in Animal Bodies, and in other Bodies, for all I can perceive, and though the Bodies cannot be Metamorphosed, yet the Humors may. But in every Animal Body there is a Natural Melancholy, Choler, Phlegm and Blood, the Natural blood is the Vital vapour, the Natural flegm is the Radical moisture, the Natural choler is the Radical heat, the Natural melancholy is the Animal spirits, being the Highest Extract; and if we do but observe those that be Naturally Melancholy, they have the Soundest Judgement, the Clearest Understanding, the Subtilest Observation,
+
+[page 314]
+{: descrip}
+
+and Curiousest Inventions, the Most Conceptions, the Finest Fancies, and the Readiest Wits; likewise the Strongest Passions, and most Constant Resolution; but Humors which are Imbred, as Flegm, Choler, and Melancholy, are made as Metamorphosed Fire, Air, Water, Slime, Mud and Earth; as for Example, the Chylus is the matter that is Metamorphosed; the Dilatating motions Transform it from Chylus to Slime, from Slime to Water, from Water to Blood, from Blood to Vapour, from Vapour to Comfortable and Lively heat, from Comfortable and Lively heat to Burning Feavers, and Hecktick Feavers, and the like. Likewise the Chylus by Contracting motions turns from Chylus to Slime, if they be Cold Contractions, it turns from Slime to Flegm, from Flegm to Heavy Melancholy, if Hot Contractions, it turns from Chylus to Temperate Choler, from Temperate Choler to Choler Adust, from Choler Adust to Melancholy, which turn from a Slimy humor to a Muddy humor, from a Muddy humor to an Earthy dry humor. Some sort of Hot Contractions make it Sharp, some Salt, some Bitter; Likewise several sorts of Salt, Sharpness, and Bitterness are wrought with Mixt motions; Cold Contractions make the Humor Glassy and Stony; Hot Contractions make the Humors Tough, Clammy, Glutenous and Stony; Hot Dilatations make the Humor Oily, Cold Dilatations Watery; Likewise mixt Motions make mixt Humors, and mixt
+
+[page 315]
+{: descrip}
+
+Tempers inclining to each Side, as the Motions predominate.
+
+## CHAP. VI.
+
+*The Four Natural Maladies of the Body, and Two Unnatural Maladies, one in the Mind, the other in the Body.*
+
+Every Diseased figure is either Pained, Sick, Dissie, Numb, Weak, or Mad, sometimes they meet all in one Figure, these are Distinct Senses one from another: As for Pain, although every Several part of the Body hath Different sense, yet they agree in the General, as to be all Pain. But Sickness is quite Different from Pain, for it is another Sense, for to have Pain in the Stomach, is not to be Sick in the Stomach, neither is any Part of the Body, but the Stomach, liable to this Sense of Sickness; the Head may Ake, and the Heart may Ake, Heel or any Part of the Body, but none but the Stomack can be Sick; Indeed, it is a Different sense from Pain. Thirdly, a Swimming or Dissiness in the Head are Different from both the other, it is a Third sort of Sense, neither is any other Part of the Body subject to this Disease but the Head, yet Faintness or Weakness is a Disease as it were Tempered with the Three former Diseases, as to have Pain, Sick, and Giddy, or a Swimming, to be Mixt or Compounded into One Disease, but it is so Mixt and Compounded
+
+[page 316]
+{: descrip}
+
+ into all Three, as neither is Perfectly or Distinctly felt, so as it is no Distinct sense, this Disease is General to the whole Body. The Fifth is Madness, this Sense is neither Painful, nor Sick, nor Giddy, but Light in the Head, which is different from Giddiness or Swimming; but this Disease Infects with a Distemper the Five Outward Senses. The Last is a Numbness and Deadness of Particular parts, and sometimes of the Whole body, but this Disease is not onely a Different sense, but of another Nature, which is Unknown to the Figure, for the Figure is not any ways Sensible thereof, indeed it is of the Nature of Swooning, for those that Swoon, the Motions of the Animal Sense and Mind are quite Altered for a Time, but then the Animal motions Return that is Re-changed to the proper Motions again, so that those Dead parts, that cannot be Restored to the Sense of Touch, are, as it were, in a continual Swoon, for though in a Swoon the Exterior motions proper to the Sense of Touch be Changed, yet the Interior motions proper to the Consistence of that Figure are not Changed; for if the Interior Consistent motions were Changed, it would turn to a Dissolution, so in Dead palsies, if the Interior Consistent motions were Changed, those Parts would Corrupt as to Dead Carcases. Numb palsies are different from Dead palsies, as Fainting from Swooning, for Fainting is in the next Degree to a Swoon, so a Numb palsie is the next degree to Dead palsies. But there is a Sixth  
+
+[page 317]
+{: descrip}
+
+Malady, that is somewhat of the Nature of Dead Palsies, onely the one is in the Mind, as the other in the Body, which Sixth Malady is Natural Folly or Simpleness, which is of as different a Nature from the Nature of a Man's Mind, as a Dead body from the Nature of a Man's body; and those that are but Half Fools are, as if the Mind were in a Numb palsie.
+
+### CHAP. VII.
+{: #chap7-VII}
+
+*Of the Motions that make Sickness.*
+
+The Motions that cause Sickness are different, according as the Sickness is, or rather the Sickness is according to the Different motions, for some Motions are like the Ebbing and Flowing Tides of the Sea, for the Humor Furdles or Folds Upwards, as the Flowing tide, which most commonly provokes to Cast, as Over-flowing the Mouth of the Stomach, but when the Humor Folds Backward, as the Ebbing waters do, that provokes to the Stool, for as Falling tides Run from one place, they Flow to another; So when the Humor falls back from the Mouth of the Stomach, it Over-flows the Belly, but if the Humor neither Over-flows the Belly, nor the Mouth of the Stomach, it Runs into the Nerves, like as the Water Runs thorow the Earth, and as the Water Breaks forth by Springs, so doth the Humor by several Rheums. Again, some Sorts of Sickness in  
+
+[page 318]
+{: descrip}
+
+the Stomach are made by such kind of Motions as Water Boiling in a Pot, over the Fire, for as Ebbing and Flowing motions are Running Backward, and so Forward, so Boiling motions are Rising Upward and Falling Downward, there is as much Difference in these Motions, as betwixt Vaulting and Running; but these Rising motions cause Vapors to the Head, for the Thin parts, which Rise Highest, when their Rising strength fails, Fall not hastily down again, but Gather to a more Solid Body, as Vapor from the Earth doth into Clowds; these Clowds cause the Dimness and Darkness of the Sight, Obstructing the Light that is brought by the Optick Nerves. Again, there are other Sorts of Sicknesses in the Stomach caused by such Motions, as are like the Rolling of a Barrel, the Humor turning about in the Figure of a Barrel, which Figure, or the like, is somewhat Bigger in the Middle than the two Ends, this Humor in the Stomach is most commonly Tough and Thick, being more United, and sometimes one End of the Humor is set Upward, and the other Downward, and so Turned as a Barrel with the Head Upward, and sometimes moved as a Barrel the Longest way on the Ground; these Motions cause neither Purging by Vomits nor Stool, but Thrust out into Cold sweats; for though these are not so Strong Dilatating or Expulsing motions as Over-flow, which forces to Vomit or to Purge, yet it Extenuates by Thrusting weakly out into a Faint
+
+[page 319]
+{: descrip}
+
+sweat; then there are other Sorts or Sicknesses, which are Caused by such Motions, as if Meat were turning about on a Spit, for the Centre of the Humor removes not out of the place, although the Circumference turns about, this is a Constant Sickness, and the Stomach hath no Ease, untill the Humor is taken out of the Stomach by some Stronger Motions, as you would take a Spit from the Fire, or by Retentive motions, to hold the Humor from Turning; So there are millions of Several Motions, which make Several Sicknesses in the Stomach, for though the Stomach can be but Sick, yet the Sickness is not alwayes after one and the same manner.
+
+### CHAP. VIII.
+{: #chap7-VIII}
+
+*Of the Motions which cause Pain.*
+
+Pain is Caused not only by Irregular motions, but Cross motions, or rather, as I may say, Jumbling motions, that is, Motion Beating upon Motion, or, as I may say, Running upon each other, Thronging and Justling each other; and Several sorts of Pain in Several parts of the Body, are caused by Different, Cross, or Beating motions, but if they be Dilatating motions, they Beat upon one an other by Shuffling Outward, like as Foolish Women do for Place, Tumbling upon each other to get Fore-most, those Painfull motions turn to Sores and Putrifie, because Dilatating
+
+[page 320]
+{: descrip}
+
+motions make Moisture, and being Perturbed make Corruption; but if they be such Contracting motions which cause Pains, they turn those Parts that are Pained, to be Harder than Naturally those Parts are, as the Stone, Dry Liver, or Brain, or the like; but if those Pains be made of Mixt Motions, as some beat Inward, and some Outward, and so run Cross, they are Hard Swellings, that extend to the Exterior parts, but will not Break, as the King's Evil, or Gouts that lie in the Flesh, or Sciatica and many the like; for though the Extenuating motions would Burst out, yet the Contracting motions Keep in, and being both Equally Strong, neither get the Better for the Time the Pain is; and if the Pain be amongst the Sinews, it is caused either by Contracting motions, or Dilatating motions, but not Mixt, but as it were Divided; for if it be Extenuating motions, the Sinews are Irregularly stretch'd too far; if Contracting or Attracting motions, they Irregularly draw, or pull, or gather the Sinews strings too Short; if the Pains be in the Bones, they are only Cross motions, as if one should Run against the other, yet neither Shuffle Backward nor Push Forwards, being Equally string; if in the Flesh they are Intangled motions, which make it incline towards Black, as to seem Purple, or Read or Black. And if the Pain be in the Skin, they are Pricking motions, as if a Needle should draw a Thread in and out upon a Cloath, or the like; but in every Pained Part there is some
+
+[page 321]
+{: descrip}
+
+difference in the Manner of Motions, although not in the Nature of the Motions.
+
+### CHAP. IX.
+{: #chap7-IX}
+
+*Of Swimming or Dissiness in the Head.*
+
+Dissiness and Swimming in the Head is made by Several sorts of Motions, of such Vapour as is Condensed into Wind, if Wind be Condensed, if not, it is Rarified Vapour turn into Wind, and the Agilness of the Motions therein causeth the Force thereof by an often Repetition, giving no time for a Repulse; But howsoever Wind is made, either by Rarification or Condensation, it is Wind most commonly, which causeth that we call a Swimming and Dissiness in the Head; for this Condensed, or Rarified Vapour, which you will, when it is Expulsed, Flies Violently about, Carrying or Driving whatsoever is Bearable, Loose, or Moveable, along or about with it, according to the Strength thereof; and if this Wind be in those Veins, which Incompass and Run through the Brain, it Carries the Blood therein, with such an Extraordinary and Swift motion about the Head or Brain, as it Carries the Senses, as it were, along with it, which makes the Diseased think the Brain turned Round in the Head, when it is only the Vapour that Wheels round therein, or about; but the Lasting strength Wasting by the Violent Swiftness, brings but a short
+
+[page 322]
+{: descrip}
+
+Trouble to the Diseased, and seldome or never causes a Ruine, unless there be some Vein broken by the Violence thereof; but if it be a Windy Vapour in the Hollower and Larger Parts of the Head, it sometimes will gather like a Ball, or like that we call a Spinning Top, which Spins about the Brain whilst it hath strength, and when the Strength fails, the Spinning motion is done, and the Vapour disperseth, so the Dissiness ceaseth; at other times those Vapours will move like a Whirl-wind, moving Ascendingly in Lesser and Lesser Circles, untill it brings a Circle to a Point, in the Shape of a Pyramide; and when the Strength abates, or that it Breaks it Self against more Solid matter, the Vapour disperses, and so Expulses; but this Sort of Motions is so Violent, as it causeth the Diseased to Fall, but soon Recover, for what is Supernaturally Violent, cannot last Long.
+
+### CHAP. X.
+{: #chap7-X}
+
+*Of Weakness.*
+
+Swooning is caused by the Obstruction of the Spirits, or too great Evacuations, or when any thing Suppresses, or Laies Siege to the Heart or Head, they being the Magazine of the Life of the Body, wherein the least Disorder is like Fire to Gun-powder; Weakness is caused by a too much Relaxing of the Sinews and Small
 
 
----
+[page 323]
+{: descrip}
+
+Fibres of the Body, which are like Laths to a House, and Flesh, like the Mortar laid thereon; the Bones like the strong Timber Rafters and Beams therein, which when the Mortar is worn of, the Laths are apt to Loosen; so when the Body is Lean, the Flesh is Wasted, the Sinews are apt to Slacken. Again, some are Weak, by reason the Sinews are Boil'd too tender, as too much towards a Jelly, which the Body will be after Moist Extenuating Diseases, as after Extraordinary Sweatings, Small pox, Measles, or the like, or in Hydropical diseases. Weakness is in a Degree to Death, as being towards a Final or General Expulsion of the Figure.
+
+### CHAP. XI.
+{: #chap7-XI}
+
+*Of Numb and Dead Palsies.*
+
+A Dead palsie is not onely made by Mistempered matter and Disordered motions, but by Unnatural motions, as Improper to the Nature of that Kind of Figure, Working or Mis-working most commonly upon the Exterior parts, Drawing up, or Shutting close those Passages that should be Open, working Contrary motions from the Nature of the Figure, which causes Insensibility, but as long as the Vital parts be Untouched, which are the Stewards and Trustees to the Life of the Body, which are to Dispose, Discharge, and Direct,
+
+[page 324]
+{: descrip}
+
+to Take in and Lay out for the Subsistence of the Body, as I may say; as long as these are Untouch'd, the Life and the Body may Subsist, although the other Particular parts be, as we say, Dead, or Lost to the Natural use of the Body. A Numb palsie is of the same Nature, but not of the same Degree; as for Comparison, a Dead palsie is, as if a Door, for common and necessary Passage, should be Close shut, and Lock'd or Nail'd up; and a Numb palsie is, as if the Door or Doors should be Half open, and according as it is Open or Shut, the Numb palsie is More or Less; but both Dead and Numb palsies are occasion'd by some Unnatural Contractions, for it it were by some Unnatural Expulsions, the Parts Infected would Rot, and fall from the other Parts, as Gangrenes, which certainly are caused by such kind of Unnatural Expulsions, as Dead palsies are of Unnatural Contractions. Thus we find by Experience, that they are Unnatural Contractions, that cause Dead palsies, because they do not Rot. Wherefore in the Diseases there must be applied Opening medicines, that work Dilatively, and if they be caused from a Cold contraction, then Hot Dilatating medicines must be applied, but if they proceed from Hot contractions, the Cold Dilatating medicines must be applied; But the Difficulty and Skill will be to find whether they proceed from Cold or Heat, although most commonly all Physicians do apply in these Diseases very Hot and Dry medicines, which are
+
+[page 325]
+{: descrip}
+
+Contracting, which Medicines are quite Contrary to the nature of the Diseases, which makes them Cure so few, but the surest way is to Apply Dilatating medicines, whether Hot or Cold.
+
+### CHAP. XII.
+{: #chap7-XII}
+
+*Of that we call a Sleepy Numbness.*
+
+A Sleepy Numbness is also caused by Obstruction or Stoppages; as for Example, if any Over-burthensome Weight lies upon the Arm, or Hand, or the like, it will become Numb, which is Vulgarly called Sleepy; the reason is, that Pressing too hard upon those Parts, we Stop the Pores, which should receive Touch, for if the Pores be close Shut, Touch cannot enter, no more than if the Eye be shut, an Outward object can enter, or stopping the Ears or Nose, a Sound or Sent can enter, as we may find by Experience, for if any part is Bound too hard, it straight becomes Numb; likewise by a violent blow; the Reason is, the Striking or Thrusting back the Blood; for the Blood is like a Running company, which when they are Forceably beaten back, on those Companies that are Thrusting forward, Unite by Contraction into so Firm a Body, that no Particular part can stir, which Solid and Thick body stops the Pores of the Flesh, and the Running Motions in the Veins; but also as we give Liberty by Unbinding,
+
+[page 326]
+{: descrip}
+
+or by Taking off Weight, or by gently Rubbing, to Open the Pores, and Disperse the Blood, it is Cured. Likewise the Sleepy numbness may proceed from a Superfluity of Vapor, which flying to the Pores for Vent may stop the Passage by too great a Concourse, being more Vapor than sudden Vent; but any Alteration of Motion cures it, by Dispersing the Vapor more Thin and Evenly.
+
+### CHAP. XIII.
+{: #chap7-XIII}
+
+*The manner of Motion or Disorder in Madness.*
+
+The Motions that make that Extravagancy we call Madness, is as a Carver or Painter, Ingraver, Printer, or the like, should place the Figures they work Wrong end Upwards; or as if Mathematicians should draw a Platform, and should make a Square, where a Circle should be, or should put Equal Weights in Uneven Scales, or set False numbers; or make False measure; or as a Painter, Printer, Carver or Graver, should Paint, Print, Carve or Grave a Bird's head to a Lion's body, or if a Painter should Draw Feathers on Beasts, and Hair on Birds, or the like; Indeed, a Sensitive madness is like Dreams in Sleep, onely the Sensitive motions work in Sleep, as I have described before, on the Inside of the Sensitive dores, and when Awake on the Outside; and in
+
+[page 327]
+{: descrip}
+
+Sleep they be wrought without a Pattern, and Awake by a Pattern from the Real Figure, which they Present; and the Differences in Madness are, that they Work by Rote without the Real Subjects on the Outside of the Sensitive Door, as if Awake, although there are no Objects to take Pattern from, as we may perceive by them that are Distempered, that they See such Objects that are not Present, or such as never were, or can be; and so the like for Sounds, Taste, Touch, and Smelling, that is, the Sensitive motions Paint, Print, Carve, Grave, or the like, ~~as~~[^7-01] on the Outside of the Optick Nerve, without a Real Pattern, and when the Senses work Regular, they never Draw on the Outside without a Pattern, but on the Inside, as in Sleep, and the like for all the other Senses. But the Motions of the Rational Madness are when they move Violently and Irregularly, if the Motions be only Violent, then they Fall into Violent Passions, as Anger, Fear, Malice, or Loving, Hating, Grieving, Dispraises, and Resolute Intentions; if their Motions be Irregular, then they have Strange Conceptions, Wild Fancies, Mixt Memories, Inconstant and Various Opinions; if their Motions be Violent and Irregular, they have Strong and Strange Imaginations, High Despairs, Obstinate and Dangerous Resolutions; if the Sensitive and Rational Animate mater Sympathize in Violent Irregularity, then they will Violently Talk, Laugh, Sing, Weep and Sigh, without reason
+
+[page 328]
+{: descrip}
+
+why, or wherefore; but mistake me not, for when I say too Violent, Strong, Swift, Weak, Slow, it is Irregular, as to the Temper or Nature of the Figure, but not as to its own Nature; as for Example, a Clock may go too Swift, as to the distance of the Hour, and yet Strike Even every Nick; and the Pulse may be too Swift for the Natural Temper, and yet keep even Time; a Musician may Play too Fast for a Solemn Tune, and too Slow for a Light Air, and yet Play Right to the Notes; as for the Irregularity, some Motions may be too Swift, others too Slow, for other Assistant motions; as for Example, an Army is to March in a Body, and some should Go or Ride half a Day, or a Daies Journey before the rest, and some should Lag and come Slowly behind, or that some should Go one way, and some another; or as two should Carry a Burthen, and the Hindmost should go too Fast for the Former, and so Tumble or Throw down; or as Horses in a Coach, the one Runs away, and forceth the other to Follow; as for Disorder, it is somewhat otherwise, as Tumults and Uproars, as some doing that which they ought not to do, or belongs not to them, or instead of Guarding a House, Pull it down, or like those that will make a Fire in the midst of the House on a Wooden Floor, and not in the Chimney; then there is a Disorder in Placing and Matching of Parts, and Alterations of Motions, quite Different from the Nature of the Figure, for some Sort of Madness is made by
+
+[page 329]
+{: descrip}
+
+such Different motions, as Death, from that which we vulgarly call Life, that is, the Motions are as Different as Several kinds of Figures; for in this Kind of Madness, they no more Know In their Fits, or Remember Out of the Fits, what they Did or Said, or was Done to them in their Fits, then if they had been Dead; Just as in a Swoon, they know not what was done to Restore them; yet there is not a Cessation of Motions, neither in the Sensitive, nor in the Rational, but an Alteration of Motion; 'tis true, there is for a Time a Cessation of such Sorts of Motion, as belong to the Natural Health of the Figure, but not to the Life.
+
+### CHAP. XIV.
+{: #chap7-XIV}
+
+*Of Madness in the Body and Mind.*
+
+There are two Sorts different in Madness, the one is Irregular motion in the Rational Animate matter, the other in the Sensitive Animate matter, as Mis-placing, Ill mixing, Distempering, False Carving, Wrong Printing on the Inanimate part of matter, as in Feavers, or the like Diseases, where the Distempered matter is Mis-placed, which Improper motions alter the Natural motions, which make the Natural Temper, and Causes an Unnatural Temper by Improper motions, working upon every Particular Sense Irregularly, or rather Improperly, and Mixtly, which makes Extravagancies both
+
+[page 330]
+{: descrip}
+
+in each Particular Sense, and in the Generality; this Madness proceeds from the Sensitive, and not from the Rational Animate matter, for the Rational part will be in Order, and describe Distinctly what Extravagances the Sense presents to them; but this Madness of the Body is oft times mistaken, and thought to be the Distemper of the Mind, because the Sick Persons describe those Extravagancies by Relation, yet oft times the one Causes the other, but not alwayes, for many times the Mind will be Disordered, when the Body is Sound and Healthfull, and many times the Body will be Distempered, when the Mind is Regular and Free; but the Madness of the Body only Continues to the Height of the Disease, and as the Disease Abates, the Extravagancy Fades, and by Health Vanishes away, or rather is Rubbed or Worn out, by the Regular and Proper Natural motions belonging to the Figure or Body; but the Madness in the Mind proceeds from Irregular motion in the Rational Animate matter, as when they neither keep Time nor Measure, not only in making Figures, but in moving those Figures they make; this Distemper, or rather that Disorder, is altogether in the Moving matter, when the other Distemper is in Disordering the Moved matter, for the Sensitive Animate matter may Work Regularly, according to the Nature and Strength, but not according to the Temper or Degree of the Inanimate matter, nor according to the Nature and Property of the Kind or
+
+[page 331]
+{: descrip}
+
+Sort of Figure; but when the Sensitive and the Rational joyns in Conjugal Disorder, the Mind is Raving, as we say, and the body Weak. The best Remedy for Madness is Temperate Diet, but not so Spare as to Dry the Body too much; as also Diet-drinks, but not Drying Diet-drinks; also Purging with Hellebor, but especially Bleeding, first in the Fore-head or Temple-veins, next under the Tongue, and at last in the Legs. But the best is to make Issues in the Inside of the Thighes. Some approve of Leaches, but I do not. As for the Madness of the Mind, which makes not Disturbances in the Sensitive matter or motions, the best Remedy is Gentle perswasions, Kind expressions, and Harmonious musick.
+
+### CHAP. XV.
+{: #chap7-XV}
+
+*Madness is not always ~~about~~[^7-02] the Head.*
+
+Madness belongs not always to the Head, as that onely the Eye, Ear, Nose and Mouth Sees, Hears, Smells and Tastes Extravagantly, but every other Part of the Body that is sensible of Touch; for Extravagant Touch is as much as Extravagant Sight, and the like; for Touch of the Breast, or any other Part of the Body, is a Sense, as much as the Eye in the Head; thus the Body or Senses will be Mad as well as the Mind, as I have described in former Chapters. Likewise for the Madness in the Mind, it is not
+
+[page 332]
+{: descrip}
+
+always bound in the Head; for where there are Extravagant passions in the Heart, the Mind is as Mad, as when there are Extravagant imaginations in the Head, for the Rational matter, that which we call the Soul or Mind, is as much, and hath as much Recurse to the Heart, as to the Head, and so to the other Parts of the Body, for any thing I can perceive.
+
+### CHAP. XVI.
+{: #chap7-XVI}
+
+*Musick may Cure those that are Mad in Mind.*
+
+There is great reason why Musick should Cure Madness, ~~for~~[^7-03] the Mind, for this sort of Madness is no other but the Rational matter and motions that are in the Brain and Heart, put out of their Natural motion, and the Rational matter and motions having a Natural Sympathy with Musick, may be composed into their Right order, but it must be such Musick, as the Number of the Notes must go in such Order as the Natural motion of the Brain, though every Brain hath not one and the same Motion, but are set like Notes to several Tunes: Wherefore if it were possible to set Notes to the Natural Motion of the Heart, or that Brain that is Distempered, it might be perfectly Cured; but as some Notes do Compose the Brain by a Sympathy to the Natural motion, so others do make a Discord or Antipathy, and
+
+[page 333]
+{: descrip}
+
+Discompose it, putting the Natural motions of Tune.
+
+### CHAP. XVII.
+{: #chap7-XVII}
+
+*Of Natural Fools and Idiots, also of Deaf and Dumb Men.*
+
+Natural Simplicity is not produced as Madness, for Madness is onely an Irregularity of some Sorts of Sensitive and Rational motions, and Mistempered matter; but to be a Natural fool is by Unnatural motions, or a Defect in Creation and Birth, either caused by the Sensitive motions in the Architecture of the Body, or a Scarcity of Rational matter, or Irregularity of motions in the Creation or Beginning; But some that have been born Perfect according to their Kind, yet in their Old Age become Idiots or Fools, which we name Dotage; This Defect is caused by the Weakness and Decay of the Body, and so of the Mind; for though a Man in Age have all the Parts of his Body Sound, and nothing Diminished, yet the Sensitive motion is working this Body to some other Figure, which causes his Senses to be Imperfect, and his Body Weak; The like doth the Rational motion in some Bodies, changing their Motions, which are Natural to that Figure, as Man, to some other Figure, that Man is ignorant of; Sometimes they Change by Degrees, as from Full growth to Old Age, and sometimes
+
+[page 334]
+{: descrip}
+
+they Change on a Sudden, and some sooner, and some a longer time ere those Natural motions change; but in Death there is a thorow Change and Alteration both of Sensitive and Rational, whereas in Decays but some Change or Alteration is made. But this is to be observed, that the Rational matter and motions do not at all times in the Course of a Man's Life Change with the Sensitive, but many times the Weaker the Body is, the more Lively and Agil is the Mind, as may be observed, that Weak Diseased-bodied Men will have very Quick Wits, Ready Memories, Solid Judgments, and Clear Understandings; The like in Age, for some Old men will not onely be Wiser than some Young men at Full growth, and Vigour of Strength, through Long experiences, but their Memory will be more Ready, and their Wit Fresher, and their Fancy more Elevated, than those Men in their most Flourishing years or Times of their Life; for some Men's Rational parts and motions never change from the Nature of that Kind or Sort, as Man, until a Total change, which Total change is Death, so that all Old men are not Dotards, or Idiots, or Fools, but some Few, and so few, as not an Old Man amongst many, although an hundred years old, will be so Changed; As for those Idiots or Fools that are made so by Hurts in the Head, the Violent motions must of necessity Change or Alter these Rational Natural motions that belong to the Head; and those that are made Fools
+
+[page 335]
+{: descrip}
+
+by great Frights or Fears, are so, by reason in that Excessive Passion, the Rational matter and motions were so put out of Order, as this Disorder caused such a Change, as to Alter their Natural motions to Unnatural motions, which are not Proper to the Figure of Man; the like in some Sorts of Sickness, or by Long Sickness; but the only Difference is, that in Sickness the Sensitive motions have Disordered the Rational, but in great Frights or Fears the Rational matter and motions hath Disordered it Self. But to conclude this Chapter, there is, as I said formerly, great Difference between Mad men and Fools, for Madness is only an Irregularity of Rational motions, but Foolishness is Unnatural Rational motion, I mean Unnatural, as Improper to the Nature of the Figure or Creature, namely Man; as for those that are Born Deaf and Dumb, they are not Natural Fools, nor Accidental Fools, unless their Minds be as Defective as their Body, otherwise they are for the most part very Ingenious to help the Defects of their Body by the Wit of their Minds, for they will Conceive and Inform by signs Ingeniously, and certainly, were they not only Deaf and Dumb, but Blind also, yet they would have both Thoughts, Passions and Conceptions, and those Thoughts, Passions and Conceptions would be Regular and Rational according to the Kind and Nature of their Figure, the only want would be, that their Rational part would want the Variety of Outward objects to Move or Work on,
+
+[page 336]
+{: descrip}
+
+which is to take Patterns from; also they would want those Passions, that were Produced from Outward objects.
+
+### CHAP. XVII.
+{: #chap7-XVII}
+
+*Of the Fundamental Diseases.*
+
+There are many Several sorts or manners of Feavers, but there are three Chiefly to be taken notice of, from which three all other Feavers are partly Derived; The first is a Malignant Feaver, the second a Hectick Feaver, and the third an Ordinary Burning Feaver; the first is Catching, and often Deadly, the second is never Catching, but alwayes Deadly, the third is not Catching, and seldome Deadly; the first Proceeds from Violent Disordered motions and Distempered matter and humour; the second from too Swift Interior motions and heat, which Distemper and make Waste of the Matter, by which Matter, I mean the Substance of the Body; the third is too Violent Motions on Well-tempered Matter. And these three Sorts of Feavers are often mixt, as it were a Part of each mixt into one; but an high Malignant Feaver is a Sudden Usurpation, for the Disordered motions joyned with a Mistempered matter, which is Corrupt Humors, Surprize the Body, and Destroy the Life therein, as we shall see in great Plagues, the Body is Well, Sick and Dead in a moment; These or the like Diseases are
+
+[page 337]
+{: descrip}
+
+Caused after three manner of wayes, as being taken from Outward Infection, or bred by an Evil Habit in the body, or by taking some Disagreeing matter therein, which causes a War of Sickness; for upon the Disorder which the Disagreeing matter makes, the Natural motions belonging to the Body, grow Factious, and like a common Rout arise in an Uproar, which strives only to do Mischief, Stopping some Passages that should be kept Open, and Opening some Passages that should be kept Shut, hindering all Regular motions from Working after that Natural manner, forcing those they can Over-power, to turn Rebels to the Life of the Body; For it is against the Nature of the Animate matter to be Idle, wherefore it Works rather Irregularly, than not Work at all; but as long as a Body lies Sick, the Power is Divided, one Part of the Animate matter working Irregularly, the other according to the Natural Constitution, which by the Regularity strives to Maintain the Chief Forts of Life, which are the Vital parts, especially the Heart, and Disordered motions striving to Take or Pull them down, making their Strongest assaults thereon; for the Disordered Animate matter makes Outworks of Corrupted matter, Stopping as many Passages as their Power will give Leave, so striving either to Starve the Vital parts, or to Oppress them with Corruption, or to Burn them by their Unnatural Heat they make in the Body, or to Drown them with Waterish humour,
+
+[page 338]
+{: descrip}
+
+which is caused by the Distemper of ill Digestions and Obstructions; the Regular Animate matter Strives to Break down those Works, and to Cast and Expell that Filth out of the Body, and according as each Party gets the Better, the Body is Better or Worse, and according as the Siege Continues, the Body is Sick, and according as the Victory is Loft or Won, is Life or Death. 
+
+### CHAP. XIX.
+{: #chap7-XIX}
+
+*Of Spotted Feavers, especially the Plague.*
+
+Those Diseases that are named the Purples, or Spotted Feaver, and Plague, are not only caused by a Superfluity of Humours, or a Corruption of Humours, but an Inflammation of the Vital parts, and Vital spirits, as also of the Loose humours, as Blood and Choler, which for the most part causeth a Total ruine of the Whole body, and where one Patient Lives, Hundreds Dye in those Violent Diseases; And as for the Disease of the Plague, when that Disease breaks out into Round, Dark, or Bloody Spots, it is a sign of a Certain Death, for I never Heard that any Lived after those Spots were in the Flesh, those Spots showing a Total Infection throughout the Body, and Parts of the Body; yet I am of an Opinion, that there be Cures or Remedies if they were Known, for though those Diseases will make themselves Known 
+
+[page 339]
+{: descrip}
+
+by their Sick or Deadly Effects, yet Remedies are Obscure and Difficult to be found out; but certainly the best Remedy for all such Corrupted, Malignant, Fiery Diseases is Vomits, which take out all Foul and Corrupted Malignant humours, and then to Let blood in Several Veins in Several Parts of the Body, and then to give the Patient Cooling Ptisane, and after some Recovery to Purge and Bleed again; but as for the Spotted Plague, the Patient Dies Immediately, as soon as the Spots Appear, or in few Hours after they Appear; but were I so diseased, if I had any time of Life, as three or four Hours, I would Bleed in many Several Veins at One time, especially those Veins under my Tongue; for those Veins do most generally Draw from all the Parts of the Body; also I would be Let Blood in my Arms and Legs immediately after those Mouth-veins, for if anything will Cure a Spotted Plague, it must be by Sudden and Extraordinary Evacuations, because the Disease is Violent, and causes a Sudden Destruction. But it is to be observed, that those Diseases that are generally Deadly, the general Opinion is, there is no Cure, and so will never Make or Try Experiments; also in those Diseases that are generally Infectious and Deadly, few will come near those that are Sick, no not Doctors, Apothecaries, Chirurgeons, or the like, without Unreasonable Fees, wherefore the Poorer sort, or the Middle sort, and some of the Better sort, 
+
+[page 340]
+{: descrip}
+
+which have not enough wherewith to satisfie their Covetousness (for as for Charity or Compassion, there is little of it in the whole World) often Die for want of Regarding. But in Spotted Feavers, the best Remedy is to Bleed Moderately, and then to Vomit; but in Spotted Plagues 'tis best to Bleed so much, as to Faint for want of blood, for it is better to Live with a little blood, than to Die with Too much or Too Inflamed blood, and after some little time of Strength, then to Vomit and Purge; but to Prevent those Diseases in Infectious Seasons or Regions, is to Cleanse the Body by Vomit and Purges, and to Empty the Veins by Opening some; for when as there is but Few Humors in the Body, the Malignity hath Little or nothing to take hold of, although most Physicians prescribe Men to Feed much, to keep out the Malignity, as also Hot cordials and drugs to out the Malignity, but I am of another Opinion, for I would advise Men in such Malignant Times, or Climates, or Houses, or Companies, to keep Spare Diets, and neither Too Hot nor Gross, nor Hot Cordials by no means; but some Sorts of Sents or Smells are Good, as Burnt Pitch, Tar, Benjoim, Storax, Tobacco, and the like; also to Take Tobacco is not Unwholesome, but very Good, for it doth help to avoid, both by Spitting, and otherways opening the Body to Vent much Superfluous matter out of the Body and Head; as for that Sort or Degree of the Plague, as onely breaks 
+
+[page 341]
+{: descrip}
+
+forth in Swellings and Running sores, Vomiting is the onely Inward Remedy, and Attracting Salves and Poultesses laid to the Sores, the Outward; for those Patients that have Sores or Swellings are not so Deadly Infected as those that are Spotted; but this is to be observed, that Swelling Plague-sores proceed more from Corrupted humors, than from Inflammations of Humors and Parts. But in all Malignant diseases, Expelling medicines are best, which Expelling medicines are not of a Hot and Dry nature, for whatsoever is Hot and Dry, is either Contractive or Retentive, which Contracting and Retentive effects are Dangerous, if not Deadly, wherefore Dilatating medicines, which are Interiously of a Moist nature, are best, whether a Hot or Cold moisture, for all Interior moistures have a Fluid or Flowing Faculty or Propriety, Working and Moving like the Nature of a Flowing Tide, whereas Drie medicines, which are Contractive, are like as the Ebbing tide, that draws Backward or Inward. 
+
+### CHAP. XX.
+{: #chap7-XX}
+
+*Of the Diseases named the Small Pox and Measles.* 
+
+The Small pox, Measles, or any such Disease that Dilatates from the Inward parts to the Outward, their Causes are Diverse in each Single disease; but for that Disease, namely, the
+
+[page 342]
+{: descrip}
+
+Small pox, as also that Disease, which is much like the Small pox, namely, the Measles, they proceed for the most part from an Overflow of Corrupted humors, those Corrupted humors are apt to Oppress or Inflict the Vital parts on the Body, unless the Regular motions and Well-tempered parts are so Strong to drive those Corruptions from their Assaults, for those Corruptions endeavour to Destroy all those Parts they can take hold of; but many times two Diseases joyn together, as a Feaver and the Small pox, or a Feaver and the Measles, both of which joyning together, as the Feaver and Pox, the Vital parts, and Regular motion in those Parts in the Body are oftner Over-come and Destroyed by those two Powerful diseases joyned into one Strength, than they have Victory, unless there be Applied very Effectual Remedies, which Remedies do assist the Vital parts and Regular motions; but in those Diseases must be great Moderation used, in Applying Remedies, that are neither Too Hot nor Cold, either Exteriously or Interiously, as not to Cover or Cloathe the Patient Too Hot, or to give him Too Hot medicines, either Actually hot, or Virtually hot, for fear of increasing the Feaver; yet many Physicians do give their Patients in those Diseases very Hot Cordials to drive out the Malignity, but they do not Consider, or otherwise are Ignorant, that all Hot Cordials are not Dilatating, but some are Contracting, for all Hot motions do not Dilatate
+
+[page 343]
+{: descrip}
+
+but contrarily Contract, for there are Hot Contractions, and Hot Dilatations, and Cold Contractions, and Cold Dilatations, but in those Diseases, all Contracting Medicines or Cordials, whether Hot or Cold, are Destructive, for these Contractions Keep in the Malignity, and Unite the Corruptions and Superfluities into a Strong Body or Quantity, which Overpowers the Vital parts and spirits; and if those Medicines or Cordials be indued with Hot Contractions, they Assist the Hot and Feaverish Distempers, wherefore Dilatating Medicines are best, and such Dilatating Medicines, Cordials, or Foods as are of an Equal Temper, as neither too Hot nor too Cold; yet Cold Dilatations are better than Hot Contractions, and Hot Dilatations better than Cold Contractions, for Dilatations of what Temper soever, are better than Contractions of any Degree or Temper; yet this is to be observed, that if Diseases be Driven or Forced to the Exterior parts too Violently, they may Fall back Deadly, for one Extreme is apt to turn the contrary Extreme; but the best Remedy in those Diseases, is, to give the Patient warm Posset Drink made of Small Beer, or Wine and Water, and a little Saffron and Licoris boyled together in that Liquor, and to let him take no other Food, untill the Pox or Measles are come so much forth of the Flesh, as not to fall back into the Body, and if there be a Feaver, to Let him Blood, but not if the Patient hath not a Feaver, for as Opening
+
+[page 344]
+{: descrip}
+
+a Vein will be a Remedy, if the Patient be in a Feaver with the Small Pox or Measles, so it may prove a Destruction to the Life of the Patient, if he have not a Feaver, for if the Patient have no Feaver, Letting Blood will Strike in the Pox, by Drawing back the Corruptions through the Veins, and if the Patient have a Feaver, Opening a Vein will Draw out the Feaver from the Body through the Veins, and with the Feaver the Malignity. 
+
+### CHAP. XXI.
+{: #chap7-XXI}
+
+*Of Expelling the Malignity to the Outward Parts of the Body.*
+
+The reason why Malignant Diseases, as the Plague, or Purples, or Small Pox, Measles, or the like, there break forth Spots, Swelling Scabs, or Whelks, is by the Power of Expelling motion; but the reason why it Sticks in the Flesh, and [^7-04]not quite Out, is, because the Regular motions that maintain the Health and Strength of the Body are Opposed by Disorderly motions, which makes Corrupt matter, that makes Disordered motions, for though there can be no Corrupt matter, but what is caused from Disordered motion, yet when the Humours of the Body are once Corrupted, the Motions are more Violent; again, Superabundant Humours cause Disordered motions, for as there is too much Humour obstructing the 
+
+[page 345]
+{: descrip}
+
+Body therewith, so there is too much Motion to work Regularly therein, and being against the Natural Constitution to have so much Humour and Motion, it produceth Violent Sickness, working to the Destruction, and not to the Maintenance of the Body; but the Regular motions, ~~which~~[^7-05] are Digestive motions, which Unite, Strengthen, and Defend the Vital parts, by Attracting good Nourishment, by Retaining the Usefull Parts, by Concocting it into a Solid Substance, by Expelling of Superfluities or Malignancy out of the Body after a Methodical manner; and according as the Strength of Expelling motions is, so is the Malignity cast forth, for if the Repelling motions be Stronger than the Expelling motions, the Malignant presses so Hard upon the Vital parts, as it Smoothers the Life therein, or Burns up the Materials thereof; Again, the Expelling motions may be so Weak, as they cannot Thrust out the Malignity so far as the Circumference of the Body, which is the Skin, or if so far, yet not to Stay there so Long as to Evaporate it, and then the Malignity falls back with a Greater Violence; for what is Forced and Resisted, when once it hath Liberty, or gets Power, it becomes more Violent, by how much more it was Forced; but that Malignity, that doth Evaporate forth, doth insensibly Enter into the next Body it meets, Entring through the Nostrils, Mouth, or Pores of the Flesh; and thus many times from Animal to Animal, untill there is a General Infection,
+
+[page 346]
+{: descrip}
+
+which is a General Disorder, for the Malignity that Enters in by Infection, is like a Foreign Enemy, which Enters into a Peaceable Country, which not only Disorders it, but makes Havock and Waste, and many times utterly Destroys it; but when a Malignant Disease is bread in the Body, it is like a Civil War, where Uproars are Raised, and Out-rages are Done by Imbred Corrupt Humours; but when Malignant or other Diseases are caused by Surfeits, it is like a Deluge of Fire or Water, that Either Drowns or Burns up the Kingdome of the Body; where sometimes it is Saved by Assistant Medicines, and sometimes it is so Furious, as nothing can Help it. 
+
+### CHAP. XXII.
+{: #chap7-XXII}
+
+*Of Hectick Feavers.*
+
+As for Hectick Feavers, they are for the most part caused through an Excessive heat in the Arterial blood, which Heat is more difficult to Quench, that to Stop a Prick'd Artery; and as an Hectick Feaver hath an Excessive Interior Heat, so it hath an Excessive Interior Driness, which Driness is for want of Radical moisture, for the Unnatural heat hath Destroyed the Natural moisture, and as the Unnatural heat hath Destroyed the Radical moisture, so it hath Destroyed the Radical heat, for Radical heat Lives in the Radical moisture, both of which is the  
+
+[page 347]
+{: descrip}
+
+Natural Oyl and Flame of the Body; thus the Unnatural heat hath Destroyed the Natural heat and Moisture, like as Fire will Burn out the Strength or Spirits of Cordial water, or Evaporate Oyl into Smoke; but the Unnatural heat Wastes the Natural moisture; for it is to be observed, that those Patients that have a Hectick Feaver, becomes in time to have that Disease, nam'd a Dropsie, I will not say All Hectick bodies have Dropsies, but Most have, especially if the Body hath been a Long time in a Hectick Feaver, for some Patients will have an Hectick Feaver some years, before it Destroys them, and as the Body Wastes, all the Interior motions Change into Expulsive motions, and the Way or Beginning of Expulsions is Dilatation, which Dilatation causes the Dense parts to be Rare, and so Liquid and Wet. Thus it is to be observed, that Hectick Feavers are first made or produced from Hot Unnatural Contractions, then to Unnatural Dilatations, and at last Destroying Expulsions; as for Remedies, there is none, but some Retarding or Staying of Sudden destructions may be found or applied to the Patient, but no Perfect Cure, for a Hectick disease is such an Interior disease, that not any Exterior remedy can be Applied as to Cure it. But the Patient must not use any Violent exercise, nor Eat any Salt meat, or Meat of Hard digestion, or of a Drying temper, or Drink any Strong drink, or Take any Hot Cordials, for Heat and Driness is too much of the Nature of the Disease where
+
+[page 348]
+{: descrip}
+
+Cold and Moist remedies are best, as Cooling Broths and Julips; also their Meat must be Fine meat, and such as is of a Moist nature, as Fat Chickens, Capons, Young Sucking Rabbats, Piggs, Young Lamb or Veal, or the like; for all Young meat is of a Moist nature; As for Fish, although many Sorts of Fish are Cooling, yet most Sorts of Fish are of a Drying nature, which Drying effect is very Hurtfull for this Disease; but of all Fish, Carps are the Moistest nature; but it is to be observed, that more than Ordinary Evacuations are Dangerous, because they Dry the Body by Emptying it, for the Humours serve as Oyl, for though they should Flame with Heat, yet they help to Keep in the Light of Life, for the Unnatural heat hath nothing to Feed on, it will soon Consume it; and though Fasting, Dries the body, yet the Diseased Patient must not Eat more than he can well Digest, and rather Eat Often, than much at One time, I say often, Thrice a Day, as in the Morning, at Noon, and at Night, for though many do Eat Four times a day, yet those that Eat but Once a day, think Thrice too often. 
+
+### CHAP. XXIII.
+{: #chap7-XXIII}
+*Of Ordinary Feavers.*
+
+A Feaver is caused by Corruption of Humors, or Obstruction of Humors, or having too many Sharp or Bitter humors, or the Boiling
+
+[page 349]
+{: descrip}
+
+Of the Blood; as for Corruptions of Humors, they are caused by the Irregularity of Digesting motions; the Obstruction of Humors or Parts is caused by the Irregularity of Contracting motions; the Boiling of the Blood is caused by too many Dilatating motions; as for Sharp and Bitter humors, which is Melancholy and Choler, if there be more than the Watery or Phlegmatick parts can Equalize, so as to keep them in a Right and Equal temper, they set the Body Afire, for Melancholy is of the Nature of Vitriol, and Choler of the Nature of Oil, Salt phlegm is of the Nature of Sea-water, and Sweet phlegm of the Nature of Fresh-water, the Blood is of the Nature of the Air, which is Grosser or Purer, according to the Agitation which spreads all over the Body, and Dilatates into every Part of the Body, I cannot say, into the Nails and Hairs, for those are esteemed or accounted of but as Excrements; but these Several Humors and Blood, when as they are Distempered by Irregular motions, or when as any of them is Superabounding, they make a War in the Body, and when the several Humors or Blood moves in Fiery motions, the Body is said to be in a Feaver; wherefore the onely Cure is to indeavor  to Alter the Fiery motions, which is to Oppose them with the Motions of Water, and therefore the Patient should drink much of Thin Ptisan, which is onely a little French Barley, put to a great quantity of Spring-water, and to take of the Rawness
+
+[page 350]
+{: descrip}
+
+with some Boiling, also to Let blood, and then to give Vomits to Throw out the Humors, and Glisters to draw out the Humors, like as a House that is set on Fire, there is Water thrown on the Fire, and all the Unuseful Combustible stuff is taken out of the House; the like must be done to a Man's body in a Feaver. As for Intermitting Feavers, they are when the Fire is Supprest by the Inward Natural moisture of the Body, but being not Strong enough to Quench out the Unnatural Heat or Fire, made by Irregular motions, it onely Suppresses it, but the Fire being Stronger, Dilatates out again, and thus a Repetition may be made so long as either the Moisture or Fire hath got the Victory or Power. 
+
+### CHAP. XXIV.
+{: #chap7-XXIV}
+
+*Of the Feavers in the Blood.*
+
+A Feaver in the Blood is Occasioned or Produced from Different causes, as having too much Choler in the Blood, or the Blood being too much Agitated through the over-much Rarity or Acuteness, or being Corrupted, or by an Unnatural or Supernatural heat drawn out from the Substantial parts of the Body, or from the Loose humors, set on a Supernatural Fiery heat; but this is to be observed, that when as the Fire in the Blood is Quenched in the Blood, or the Hot Distempered motions in the Blood are 
+
+[page 351]
+{: descrip}
+
+Changed or Altered, the Blood is the same, like as Brandy-wine set on a Flame, the Flame being out, the Brandy-wine continues Brandy-wine, or like as Water that is Boiling on the Fire, take away the Fire, and the Water is as before the Boiling, only the Brandy-wine will be somewhat Weaker, and the Water less in Quantity, by reason of Evaporating; But 'tis to be observed, that there may be a Feaver in the Blood, and not in the Body, and a Feaver in the Body, and not in the Blood, the like for other Diseases, as Diseases of Corruptions and Obstruction; as for the Distemper of the Body, that hath not been in the Blood, I have seen the Experience; for one of my Servants being very Sick of a Feaver, I gave Order he should be Let blood, and when he was Let blood, it was brought to me to see how Good and Well-tempered Blood it was, I said to those of my Servants that brought the Blood, that the next time the Sick Person was Let blood, that Blood would appear as Ill-distempered Blood, as that present Blood was Good and well-tempered, and then after a day or two, that the Veins had drawn out some of the Supernatural heat, or some of the Distempered matter, from the Several parts and Several humors of the Body into themselves, the Sick Person being Let blood again, his Blood seem'd only to be as a Dark yellow Water, with a Thick Skin upon that Rare part, and the Third time he was Let blood, although it seem'd much Distempered, yet it seem'd more like Blood, as
+
+[page 352]
+{: descrip}
+
+Being of a more Red Colour, but yet the Blood seem'd as a Burnt Blood, but afterward he Recovered; for then the Veins had drawn out the Heat and Corruptions out of the Inward parts of the Body, and the several Incisions had drawn out the Heat and Corruption, the Sick Man became Well, applying Cooling drinks to help Quench out the Inward heat; but when as the Heat and Corruption is only in the Blood, the first time of Opening a Vein, the first Blood that Issues out is the Worst. But so long as the Springs and Fountains from whence the Veins draw out Nourishment, which Springs and Fountains are the Stomack, Mesaraicks, Liver, Heart, and such like Chief or Vital parts be Sound and Undecayed, the Veins cannot want Nourishment, if the Pipes, which are the Veins, be also Strong and Perfect, but if the Springs and Fountains be Decayed, the Veins can have no Supply, and the whole Fabrick of the Body must of necessity Dissolve. 
+
+### CHAP. XXV.
+{: #chap7-XXV}
+
+*Of Agues.*
+
+Agues have different Distempers, as Cold, Shaking, Hot, Burning and Sweating Distempers, and one Distemper turning or changing into the other; but the Ague, and every Distemper in the Ague, doth not alwayes keep Equal times, for some Agues are Every day some 
+
+[page 353]
+{: descrip}
+
+every Other day, some every Third day, and some every Fourth day, which are named Quotidians, Tertians, Double Tertians, and Quartans; also the Several Distempers in the Ague do not keep Equal times, for sometimes the Cold and Shaking Distemper continues Longer, and sometimes ends Sooner, and sometimes the Hot Burning Distemper continues Longer and sometimes ends Sooner, and sometimes the Sweating Distemper doth the like; also sometimes the Cold and Shaking Distemper is more Violent, and sometimes less Violent than other, and sometimes the Hot Burning Distemper is more Violent, and sometimes less Violent, and sometimes the Sweating Distemper is more Violent, and sometimes less than others. But those several Distempers resemble the Alterations of the Loose parts of the Elements, which proves that those Distempers in the Disease named Ague, are only the Distempers of the Loose Humors in the Body, as Flegm, Choler, Melancholy and Blood, which are the Voluble parts of the Body, and not the Firm Substantial parts of the Body; But certainly, this Disease is caused by Ill Digestions, and Half-concocted humors, from which Dilates a Gross Vapour, which Over-powers the Natural Heat, and Colour or Complexion of the Body; like as when Gross Vapours arise from the Earth, Gather into Clouds, or Congeal into Snow, they do not only Darken the Sun's Light, but also Cool the Heat in the Sun's Rayes, untill such time as 
+
+[page 354]
+{: descrip}
+
+the Strength of the Sun doth Dissipate those Gross Vapors and Clouds; and as the Day appears Darker, being Clouded, so will the Body, as the Complexion, appear Swarthy or Pale; and like as the Sun, when it is in Strife with those Vapors or Clouds, there is a Tempest in the Region, so when as the Natural heat in the Body is in Strife with the Vapors and Clouds proceeding from Undigested humors, there seems to be a Storm and Tempest in the Body. But I observe, that the several Distempers in the Disease of an Ague, are like as the several Seasons of the Year; as for Example, the Winter is Cold, the Spring Windy, the Summer Fiery hot, the Autumn Rainy or Wet; the like of the several Distempers in the Disease name'd Ague, the first Distemper is to be as Cold and Dry, as Frost, Snow or Ice; the second Distemper is to Shake, where as every Part of the Body seems to be as much Agitated or Restless as Leaves on the Trees in a Wind; the third Distemper is to be Hot and Dry, as if the Natural heat were in the Torrid Zone; the fourth and last Distemper is the Sweating Distemper, where every Pore of the Body seems to be set Wide Open to let out the Watery part to Drown the Body in a Deluge. But to conclude this Chapter, it is to be observed, that the motions in the first Distemper are all Contracting motions; the Motions in the second Distemper are all Expulsive; the Motions in the third Distemper are all Digestive; the Motions
+
+[page 355]
+{: descrip}
+
+in the fourth Distemper are all Dilative. But pray mistake me not, for I mean Cold Contractions, Cold Expulsions, Hot Digestions, and Hot Dilatations; but according to those Distempers and their Motions, there must be applied Contrary Medicines; also this is to be observed, that the Degrees of Time in or of the Repetition of this Disease is according to the Agitation of those Half or Undigested humors, which is not always Constant to One Time, but whensoever the Distemper is Past, the Body is Serene and Clear; as for the Remedy, it is to Cleanse the Body with Vomits, Glisters, and Letting blood, and then to apply Digestive Substances. 
+
+### CHAP. XXVI.
+{: #chap7-XXVI}
+
+*Of Consumptions.*
+
+All Consumptions are caused by Unnatural Expulsion, caused by Mistempered matter, or Mistempered matter caused by Unnatural motions, such as Work not to the Subsistence or Health of the Body, which after they have Corrupted the matter, they turn to Expulsions, Throwing all out of the Body; but if they be only Exterior Expulsions, they only Untile the House, that is, they do Unflesh the Body; but if they be Interior Expulsions, they do not only Unflesh the Body, but Rot some Part in the Body; and if the Unnatural Expulsions be amongst the Vital parts, which are the
+
+[page 356]
+{: descrip}
+
+Foundations of the Life of the Body, the whole Fabrick of the Body Falls without redemption, and the Materials go to the Building of other Figures. But if they are Hot Expulsions, caused from a Thin, Sharp, Salt humor, there must be applied Cold Contracting medicines; and if they be Cold Expulsions, there must be applied Hot Contracting medicines. All Cold Expulsions are, when the Parts are Tender, Weak and Raw, and Undigested; and Hot Expulsions are, when the Parts are Burnt or Ulcerated; for all Hot Expulsions work upon the Parts of the Body, as Fire on Wood, when they are Burning Expulsions, or else like as Fire doth on Metall, Melting it into a Liquid Substance; and Cold Expulsions work upon the Parts, as when Clouds Beat down into Showers of Rain, or Flakes of Snow, Breaking or Extenuating those Clouds into Small parts; so that the Dropsical humors that arise from Hot Consumptions, are only Liquid like Melted Metall; and the Dropsical humor that arises from Cold Consumptions, is as a Watery Flood. But, as I said, in all Consumptions the Remedy must be Contractive, or at least Retentive, because the Nature of all Consumptions is Expulsive; but yet all, or the most part of Physicians, finding their Patients to be Lean or Dry, give all Dilative medicines, as if the Parts were only Gathered into a Less compass; but the truth is, when so much of the Natural bulk of the Body is Lessened, so much of the Body is Wasted: I will not 
+
+[page 357]
+{: descrip}
+
+say, but these Unnatural Expulsions might proceed from Unnatural Contractions, like as when any thing is made so Dry, as it Moulders into Dust, but when it comes to that Degree, it Wastes; So whensoever the Body is in a Consumption, the Motions therein are Expulsive: I do not mean by Siege or Vomit, although they will Spit much, which is a Kind of Vomiting, but they Waste by Insensible Expirations. But all Purging medicines are Enemies to this Disease, unless they be very Gentle; for though Purging medicines do not Expulse after the Nature of Consumptive Expulsions, yet if they be Strong, they may in some kind Assist the Consumptive Expulsions; neither is much Letting blood Good in those Diseases, yet a Little Refreshes, and Tempers the Body; for in these Diseases, Physicians must do as Chirurgions when they Cure Wounds, they first Cleanse the Sore or Wound, taking away the Putrified matter gently with a Probe, and then lay a Healing Plaster, so Physicians must gently Purge and Bleed the Patient, and then give him Strengthening and Nourishing remedies. Again, many Physicians have a Rule, that when they perceive their Patients to be Exteriously Dry, they think them Hot; but it doth not follow, that all Drought proceeds from Heat, for there are Cold Droughts as well as Hot, so that a Physician must warily observe the Patients Drought, whether it proceed from Cold or Heat, or whether the Drought proceed from
+
+[page 358]
+{: descrip}
+
+Want of a sufficient Quantity of Matter for the Body to Feed upon, or that the Matter, which properly should be Porous and Spungy, is Contracted into an Unnatural Solidity; and though the Interior nature of Drought is made by Contraction, yet the Exterior motions may be Expulsive; as for Example, if any thing be Dried to that Degree, as to Fall into Dust, although the Interior be Contracting, that caused it to be so Dry, yet the Exterior motions are Expulsive, that causeth it to Fall into Parts; but the Drought of Consumptions doth proceed most commonly from a Scarcity of Nourishing matter, that should Feed each part of the Body, for the Principal and Consistent parts being Distempered, cannot Digest so much, as will Feed the Hungry members thereof; but as I have said before, all Consumptions are wrought by Expulsive motions, for what is Contracted, is not Consumed, nor doth Consume, untill it Expulses; but those Bodies that are Lean or Dry by Contractions, are not so always in Consumptions, for nothing is Wasted, only the Dimensions, and Extensions of the Body are drawn into a Less compass. Thus as I have said, Physicians, although they mistake not Diseases, yet they may easily mistake the Manner of the Diseases, for one and the same Kind of Diseases may Move after divers Manners in Several bodies, and in one and the same Body. 
+
+[page 359]
+{: descrip}
+
+### CHAP. XXVII.
+{: #chap7-XXVII}
+
+*Of Coughs.*
+
+There are many Several sorts of Coughs, proceeding from Several causes, as some Coughs proceed from a Superfluity of Moisture, others from an Unnatural Heat, others from a Corruption of Humors, others from a Decay of the Vital parts, others from Sudden Colds upon Hot distempers; Some are caused by an Interior Wind, some Coughs proceed from Salt humors, Bitter, Sharp and Sweet; some Coughs proceed from Flegm, which Flegm ariseth like a Scum in a Pot, where as Meat is Boiling on a Fire, for when the Stomach is Distemperedly Hot, the Humors in the Stomach boyl as Liquid Substances on the Fire; those Boiling motions bearing up the Gross humors beyond the Mouth of the Stomach, causing a Dispute between the Breath and Humors, produce the Effect of Straining or Reaching upwards towards the Mouth, much like the Nature and Motions of Vomiting; but by reason those Motions are not so Strong in Coughing as in Vomiting, the Coughing motions bring up only Pieces or Parts of Superfluous Flegm, or Gross Spittle; the like for Corrupt humors; other Coughs proceed from Unnatural or Distempered Heats, which Heats cause Unnecessary Vapors, which Vapors ascending up from the Bowels or Stomach
+
+[page 360]
+{: descrip}
+
+to the Head, finding a Depression, Convert or Change into a Watery Substance, which Watery Substance falls Back or Down, like Mizling or Small Rain, or in bigger Drops through the Passage of the Throat and Wind-pipe, which Passages being Opprest, and the Breath Hindered, causes a Strife, which Striving is a Straining, like as when Crumbs of Bread or Drops of Drink go not rightly through the Throat, but Trouble and Obstruct the Wind-pipe, or when any such Matter sticks in the Passage of the Throat; for when any Part of the Body is Obstructed, it indeavours to Release it Self from those Obstructions; also when that the Vapor that arises, arises in very Thin and Rarified vapor, that Rarified vapor Thickens or Condenses not so Suddenly, being farther from the degree of Water, but when Condensed into Water, it falls down by Drops, which drops Trickling down the Throat, like as Tears from the Eyes trickle down the Cheeks of the Face, the Cough is not so Violent, but more Frequent; but if the Rheume be Salt or Sharp, that Trickles down the Throat, it causes a Gentle or Soft smart, which is much like the Touch of Tickling or Itching, which provokes a faint or weak Strain or Cough; Also Wind will provoke to Strain or Cough, the Motion of Wind is like as Hair should Tickle the Nose, or Wind will cause a Tickling in the Nose, which causes the Effect of Sneezing, for Sneezing is nothing, but a Cough through the Nose,
+
+[page 361]
+{: descrip}
+
+I may say it is a Nose Cough, and Hickops are but Stomachs Coughs, Wind causing the Stomach to Strain; also the Guts have Coughs, which are caused by the Wind, which makes a Strife in the Guts and Bowels; other Coughs are produced from Decayed parts; for when as any Part is Corupted, it becomes less Solid than Naturally it should be; as for Example, the Flesh of the Body, when Corrupted, becomes from Dense Flesh to a Slimy Substance, thence into a Watery Substance, which Falls into Parts, or it Changes from Flesh into a Mixt Corrupted matter, which Falls into Parts; the several Mixtures or Disempered Substances, and Iregular motions make Division of Parts, but in the time of Dissolving, and Divisions of any part, there is a Strife, which causes Pain, and if the Strife be in the Lungs, it causeth ~~a~~[^7-06] Coughs by Obstructing the Breath; but some Cough proceed from Vapors and Winds, arising from the Decayed Interior parts, sending up Vapors from the Dissolving Substance, which causeth Coughs, and some Coughs cause Decays of the Prime Interior parts: for when as there falls from the Head a Constant Distillation, this Distillation doth like as Dropping Water, which will Penetrate or Divide Stone; more easily will Dropping or Drilling water, as Rheum, Corrupt Spongy matter as Flesh is; but according as the Rheum is Fresh, Salt or Sharp, the Parts are a Longer or Shorter time a Decaying, for Salt and Sharp is Corroding, and by the 
+
+[page 362]
+{: descrip}
+
+Corroding motions Ulcerates those Parts those Salt Rheums fall on, which Corrupts, and so Destroys them Soon. But the best Remedies for Coughs and Rheumatick Distillations, are Issues and Letting blood, also to Drink water sweetned with Fine Sugar, for the Water Cools the Distempered parts, and the Sugar Thickens the Rheum; also Water Quenches out the Heat of the Salt or Sharp motions, or Matter mixt in the Rheum, or that which is in the Stomach, Veins, or other Parts; but it must be taken when as the Stomach is most Empty, as in the Morning, and when they are going to Sleep, otherwise when as the Stomach is Full, the Water mixes with the Meat only, but doth not Dilatate or Spread it Self into the Several parts and Places, as it would do, if the Stomach were Empty; also when as Rheums proceed from Decayed parts, they must shun Violent exercises; also those that are troubled with Coughs and Rheums, must forbear all Salt or Sharp meats, also all Meat of Uneasie Digestion, by reason Ill Digestion causes Distempers and Unnatural heats. As for Chin-cough, 'tis a Wind or Vapor arising from the Lungs through the Wind-pipe, and as long as the Wind or Vapor ascends, the Patient cannot Draw in Reviving Air or Breath, but Coughs Violently and Incessantly, until it Faint away, or have no Strength left, and with Straining will be as if it were Choaked or Strangled, and become Black in the Face, and after the Cough is past, it Recovers
+
+[page 363]
+{: descrip}
+
+again; and some have many Fits or Repetitions of such Coughing, and some Die with so Coughing. As for the Remedy I leave to Physicians, but surely Lozanges made to Expel Wind, and to Dissolve in the Patients Mouth to Infuse by Degrees, or to Mix with the Air, or Reviving Breath, by that means may Descend with the Breath into the Lungs, by which the Patient may be Cured. 
+
+### CHAP. XXVIII.
+{: #chap7-XXVIII}
+
+*Of Dropsies.*
+
+Most Dropsies are something of the Nature of Consumptions, as being in the way to Consumptive Expulsions, for they Dilatate after that manner, as the other Expulses, especially if they be Dropsies which proceed from Corrupt parts, and then they turn to Consumptive Expulsions, and the onely Difference in most Dropsies and Consumptions is, that in Dropsies, as long as that Disease lasts, the Motions in the Body are most Dilatating, which is in a Degree to Expulsion, and when it comes to a Consumption, they are all Expulsions; but as the Motions differ, so the Diseases differ, for there are several sorts of Dilatations, and several sorts of Expulsions, nay, some are Different in the Manner of Working, as if they were of other Kinds of Motions; but some Dropsies proceed from Hot dilatations, other 
+
+[page 364]
+{: descrip}
+
+from Cold dilatations, and some proceed from Too many Digestive motions, that is, when there are too Many or too Strong Digestive motions in the Body for the Natural temper of the Body, Digesting so Fast, as to make more Nourishment than the Several parts can receive with Temperance, which makes the Veins and the rest of the Sucking parts Glutenous or else those many Digesting motions work too Curiously, for by reason they cannot be Idle, they work the Nourishing matter too Fine, or too Thin, for Proper uses; as if Flower should be so often Boulted, that it could not work into a Lump, or be Baked for Bread; or like as any thing should be Wrought upon so much as to become Liquid, as into Oil or Water. Other Dropsies proceed form the Weakness or Digestion, those Motions being not Strong or Sufficient to Work all that is brought into the Stomach; whereupon that Superfluous matter Corrupts with Distempered motions, and when it comes to be Corrupted, it either Dilatates or Expulses; if it onely Dilatates, it turns to Water, if it be Expulsive it Casts forth, either by Vomit or Stool, or else lies to Corrupt the Principal parts in the Body, which when they are joyned together, Expel Life by their Treacherous Usurpation. Other Dropsies are caused by too Weak Contracting motions, causing that to be Tender that should be Solid, or those Parts Loose that should be Firm, as not Contracting Hard enough; for though Meat Dilates
+
+[page 365]
+{: descrip}
+
+into Chylus, Chylus into a Thinner substance, and so into Blood, yet by the Nourishing Propreity from Dilating Blood it Contracts into Flesh, and to the Strengthening of all the Parts of the Body, but for want of that Strengthening Contraction, all the Parts of the Body grow Weaker, as to abate of such or such a Kind of Strengthening motion. But, as I said before, that Animate matter in such Diseased bodies turns from Natural Contracting to Unnatural Dilatating, turning by Degrees from one to another, and then the Dilatations work more and more, Extending more and more in such Circular motions as produce Water, for when the Contracted parts come to such a Degree of Extension, they become from being Solid to be Spongie, from being Spongie to be Soft, from Soft to be Liquid, from Liquid Fluid, and when it comes to such a Degree of a Fluid Extension, it turns Wet, and when it is Soft, Liquid, Fluid, and Wet, it is turned to that we call Water; for Oil, though it be Soft, Liquid, and Fluid, yet it is not absolute Wet, it is rather Moist than Wet, or Glibby and Wet, or Glibby and Moist, so that Oil is a Glibby and Moist body, rather than a Soaking Wet body; but when this Unnatural watery Extenuation in the Body Extenuates beyond the Degree of Water, it turns to Vapor, which causes the Diseased to be Puft, or Blown like a Bladder, rather than Swell'd out, as we shall perceive, that a little time before the Patient's 
+
+[page 366]
+{: descrip}
+
+fall into a Consumption, they will be so Puft out, as their Flesh will be like a Fuz-ball, the next Degree they fall into a Fiery Extenuation, for when the Humor Extenuates beyond Vapor, which is a Kind of an Air, then it becomes Hot like Fire, which is a Hectick feaver, and when the Humor hath Extenuated to the Farthest Degree, it Expulses, and so Pulls down and Throws out the Life of the Diseased; but in the Hydropical diseases, there must first be Applied Attractive medicines, to Draw out the Watery overflows, by Issues, Cupping-glasses, or the like; then there must be Applied Expulsive medicines, as Purgings, and Bleedings, and Sweatings, yet they must be gently Applied, for fear of Weakning the Body, by Drawing out the Humor too Suddenly; then there must be Applied Contracting medicines, to Draw into an United substance, as to Gather or Draw up those Parts that have been made Loose, Porous, and Spongy with the Disease; then there must be Applied Retentive medicines, to Confirm and Settle them, after their Natural Manner or Form; then last there must be Applied Digestive medicines, to Restore what is Wasted; but if any of the Principal parts be Impair'd, Wasted, or Expulsed, they neither can be Restored nor Mended, but by a New Creation, which Uncreating Brains perhaps conceive not. But I must intreat my Readers to observe, that some sorts of Motions Begin a Disease, that is, they lay the Foundations thereof, and other sorts of 
+
+[page 367]
+{: descrip}
+
+Motions Work upon those Foundations. But this is to be observed, that sometimes Dropsies proceed from some of the Interior parts, that are Drier or Harder than Naturally they should be, which Hinders the Natural Digesting motions, and then instead of Natural Digesting motions, there proceed Unnatural Dilatating motions, and after Unnatural Expulsions; but so we may perceive, that from Unnatural Contractions proceed Unnatural Dilatations, and so Unnatural Expulsions.
+
+### CHAP. XXIX.
+{: #chap7-XXIX}
+
+*Of Sweating Diseases.*
+
+All Sweating Diseases are caused by such Kind of Extenuating motions, as Melt Metall, and not by such Kind of Extenuating motions, as Evaporate Water, for the Evaporation of the Watery parts of the Body breath forth in Insensible Transpirations, as Breathing through the Pores like Thin Air, but Sweat runs through the Pores like Liquid Oar through Gutters of Earth; but Sweats are Good or Bad for the Body, according to the Matter or Humors that are Melted out; as for Example, I will compare the Humors of the Body to several Metalls, as Iron, Lead, Tin, Copper, Silver and Gold; Iron is Melancholy Adust; Lead is Cold and Dry, or Cold and Moist Melancholy; Tin is Flegm; Copper is Choler;
+
+Silver is the Radical Humor; and Gold is the Vital Spirits; These Humors must be Proportionably Tempered, to make a Healthfull Body; there must not be Too much Quantity of Lead, Tin or Copper, for the Silver or Gold, but unless there be Some, they will not Work; like as Coyn, it cannot be Wrought or Formed without some Allay, and if the Allay be Too much, it Abases the Coyn. Likewise there must be so much Heat in the Body, only as to Compound those Humors, not to Melt them out by Sweats, unless they Superabound; and then Physicians must only have a Care to Melt out that Humor, that Superabounds; for if the Radical Humor should be melted, or the Vital Spirits spent, it Destroys the Body by Wasting the Life. But in some cases Sweating is very Beneficial to the Body, as in Great Colds, which have Knit up the Pores or Passages of the Body, or in a Great Surfeits, or Malignant Diseases, which helps to Expell the Poysonous humor or Corrupted humors in the Body, or Melt the Icy humors Congeal'd by Cold; but after those Sweats that are Beneficial, and Wholesome for the Body, the Body will be much Stronger and Agiler, and the Sprits Quicker and Livelier; but by those Sweats that are Pernicious to the Body, the Body will be Faint and Weak: But in those Diseases a Physician must be very Carefull, when he puts a Patient into a Sweat, as to give such Medicines as will Work upon that Humor he would have Sweat forth; but in Sweating  
+
+[page 369]
+{: descrip}
+
+Diseases, when the Body Sweats too Violently, (like as in Great and Dangerous Fluxes, which are not to be Stayed by Ordinary means) although in those Diseases, there must be used Contracting medicines, yet some Sweats require Hot Contracting medicines, others Cold Contracting medicines, and those Medicines that are Applied, must be applied Gently, and by Degrees, lest by a Sudden Contraction they should Stop the Pores of the Body too much, which are the Doors to Let out the Smoak in the Body, as well as the Sweat of the Body, or by too Hasty Contractions those Passages should be Shut, that should be kept Open, or those kept Open, that should be Shut; but Physicians will Guess by the Patient, what Humors they Sweat forth; for Cold Sweats are from Melancholy; Clammy Sweats from Thick Flegm; Hot Burning Sweats from Choler; Cold Faint Sweats proceed from the Radical Humor; Hot Faint Sweats from the Vital Spirits. 
+
+### CHAP. XXX.
+{: #chap7-XXX}
+
+*Of Gangrenes.*
+
+Gangrenes are of the Nature of the Plague, and as there are Degrees of Plagues, as some more Deadly than others, so of Gangrenes, and the Highest degree of Gangrenes is like the Spotted Plague, which makes a sudden Destruction of Life; and as one Plaguy Body Infects 
+
+[page 370]
+{: descrip}
+
+an other Body that comes near it, so Gangrenes, although Gangrenes will not Infect several Bodies, yet that Part of the Body that is Gangrened, will Infect the next Part to it.  But it is to be observed, that Excessive Heat, and Excessive Cold, work alike Effects, so Excessive Exterior heat, and Interior heat is the cause of Plagues, Inflaming both the Air and Bodies of Men; so many times Gangrenes come through Excessive Exterior or Interior cold; as for Example, when as in very Cold Countries, some that are not Warmly Clad, their Limbs are Dead with Cold, and Limbs of others have been Separated from their Bodies with Cold; and certainly, those Gangrenes that are Bred in the Body, and not caused by Extremity of the Cold Climates, are made or produced through the Want of Natural heat in that part of the Body that is Infected with this Disease. But I have heard that the best Cure for this Disease is, to Fire those Parts that are so Affected, for the Firing hinders or stops the Gangrenes progress.
+
+### CHAP. XXXI.
+{: #chap7-XXXI}
+
+*Of Cancres and Fistulaes.*
+
+Cancers and Fistulaes are Produced much alike, as proceeding from an Aqua-fortis, or at least a Vitriol Humor bred in the Body, that is, an Extraordinary Thin, Sharp or Salt humor, that Eats through the Flesh, as Vitriol Through 
+
+[page 371]
+{: descrip}
+
+Metalls; The only Difference betwixt Cancres and Fistulaes is, that Cancres are the more Corroding and Subdividing Vitriol, than that of Fistulaes are; Also Cancres are rather like a Fix'd Salt or Vitriol, than a Volatile; for it keeps its Centre, although it Spreads; whereas that Humor of Fistulaes runs from Place to Place, Breaking out in several Passages and Parts of the Body: but the only Remedies, if there be any, are Purging once a Month for some time, as also Issues, and Letting blood sometimes, but especially to keep a Strict Diet, as to Eat no manner of Salt, or anything Sharp, nor to Eat Over-drie Roasted meat, and to Drink Ptisan drinks, such as Apothecaries give Young Gallants.  But if this do not Cure those Parts so Affected, those Parts must be Fired, as Chirurgeons know well how it should be done. But to conclude, the Interior motions of those Diseases are Dilative, and the Exterior motions Expulsive.
+
+### CHAP. XXXII.
+{: #chap7-XXXII}
+
+*Of the Gout*
+
+As the that Disease that is named the Gout, there are Different sorts, but the two Prime sorts are the Hard Swell'd Gout, and the Running Gout; these two sorts of Gout are of the Nature of Volatile or Fixt Salt or Sulpher, both being of a Hot and Fiery Nature; as for the    
+
+[page 372]
+{: descrip}
+
+Fix'd Gout, it is Exteriously Inflamed, unless it be that which is called the Cold Gout, which are rather White Swellings, than that Disease named the Gout. But the Fix'd Bout, as I say, is Exteriously Inflamed, as also Interiously Hot; but the Causes of the Exterior Inflammation are Hot dilatations, and the Causes of the Interior Pulsive pain, are Cross and Opposite motions, for the Hot Contracting and Retenting motions, and the Hot Dilatating motions make War with each other, as that the Contracting motions strive and endeavour to Gather in the Matter, and to Lessen the Swelling, and the Dilative motions strive and indeavour not onely to hinder the Contracting motions, but to Dilatate that Matter into a more Swell'd Bulk or Body, and the Retentive motions indeavour, that the Swelling shall continue Hard and Fiery; So that these Oppositions and Cross actions amongst Different motions, make great Perturbances, and Cross Opposite motions, both which cause great Pain. As for the Running Gout, that Removes from Joynt to Joynt, or Place to Place, 'tis of the Nature of Volatil Salt or Sulphur, but it is a Rare Salt humor, and more Rare than that of Cancres or Fistulaes, but not so Corroding as that Humor that produceth Cancres or Fistulaes; but this Humor of the Running Gout is like that of the Sciatica. As for the Disease of the Gout, I never heard, any was perfectly Cured of it, but certainly Fresh diet, Spare diet, and Cooling diet is best 
+
+[page 373]
+{: descrip}
+
+for the Fix'd Gout; and Cupping-glasses, many Issues in several places in the Body; as also a little Letting blood and Gentle Purging, is best for the Running Gout. 
+
+### CHAP. XXXIII.
+{: #chap7-XXXIII}
+
+*Of Hard White Swellings.*
+
+All Hard White Swellings, as Wens, and other Sorts of the like Nature, are Composed of a Clammy, Slimy or Tough, Cold humor, which hath been gathered by Cold Attracting motions, and setled by Cold Retentive motions in one Place of the Body, and is made Hard by Cold Interior Contracting motions; but the Exterior swelling is caused by Cold Interior Dilatating motions: But for the Cure, I cannot tell what will Dissolve those Swellings; some are Cut off from the Body as a Superfluous matter and part, but that Remedy is dangerous for fear of Gangrenes, or when those Swellings are too near the Veins, but some cannot be cut off for many several Reasons; for all White Hard swellings are not like Wens, some are like that which is named the King's Evil; but the best Remedy certainly is Triacle and Hony mixt together, and Spread upon Leather, and so bound on the Swelling, changing it once a Day, and to Eat every Morning a Piece of Bread and Butter with Triacle and Hony Spread upon the Bread, and to use Gentle Exercises
+
+[page 374]
+{: descrip}
+
+after. As for Triacle, it is of a Nature to Expel Cold humors, either out of the Body, or to Convert them into a Just and Natural Temper; also it being applied Outwardly, doth indeavour, though the Pores of the Skin and Flesh, to put Heat into those Swellings, and by the Heat to Rarifie and so Dissipate those Swellings, or to Break and Dissolve them; but as for what is Eaten, it must be Moderate, otherwise it may put the Patient into a Feaver, for Triacle is Compounded of Hot Cordials or Medicines. 
+
+### CHAP. XXXIV.
+{: #chap7-XXXIV}
+
+*Of the Stone.*
+
+That Disease, namely the Stone in the Kidneys and Bladders of Men, is certainly made by such Kind of Motions and Temperaments of Matter, as Stones in the Earth, which is a Slimy, or Clammy, or Tough humor, that is Hardened by Heat, either Actual, or Virtual, or both. Wherefore all those that fear the Stone, should not use Violent Exercises, nor eat those Meats that are apt to breed Flegm, or to drink any Strong Liquor, especially Sharp Wines; for all Salt and Sharp Substances are apt to Corrode, and by that Corroding motion beget an Excessive Heat, that Bakes their Slimy humors into Stone; but when Stones are bred in those forementioned  
+
+[page 375]
+{: descrip}
+
+Parts, there are few Remedies to Dissolve them; some there are that give Ease to the Patient in the Passages or Avoidance of those Stones that fall into the Ureters, and some are Cured by Incisions, and Cutting, but that is when the Stones are taken out of the Ureters, but neither Physicians nor Surgeons can make incisions into the Bladder or Kidnies without a Total ruine, as Death to the whole body. 
+
+### CHAP. XXXV.
+{: #chap7-XXXV}
+
+*Of Apoplexies.*
+
+Some sorts of Apoplexies are caused by an Inbred Superfluous Water in the Brain, which being Congealed by a Cold Contraction, falling to the Knitting part of the Head, which is the Hinder part, it Stupefies the Senses, Stopping the Natural motions, as a Flowing River that is turned into Ice, but those sorts of Apoplexies are Curable, if Assitance be taken in time, which is by Hot Dilatating medicines, not only to Stretch out the Icy Contraction, but to Expell that Cold Watery humor by a Rarification; but if the Apoplexie be caused by an Imbred Slime, as Flegm, which is of a Thicker nature than Water, and is become Crusted or Petrified by Hot Contractions, it is seldome or never Cured, no more than Brick, which is once Baked by the Sun, or in a Fire, can be made to such Clay, as it was before it was Burnt; But, mistake me not, 
+
+[page 376]
+{: descrip}
+
+for I do not mean the Humor is as Hard as Stone, or Brick, in the Head, but hard in proportion to the Nature of the Brain, that is, the Flegm is grown so Dry and Tough, as not to be Dissolved so soon as the Nature of the Brain requires it; for though Flegm will be Contracted into Stone, as in the Bladder and Kidnies, yet not in the Brain, by reason the Nature of the Brain is so Tender, and so Sensible, as it cannot Indure so Solid a Substance therein, nor Suffer so Long a Time, as the Humor will be Petrifying, to Stop the Passages to the Brain, not but those Kind of Motions that produce Stone, may be so Strong and so Swift, as to turn Matter into Stone immediately; but I do believe not in the Animal bodies, for they are too Weak Figures for so Strong Motions to work in; But, as I said, these Hot or Cold Contractions, (for both Sorts of Contractions produce Stone) make Tough, Clammy, Crusted, Hard Flegm, which is some degree toward Stone; Flegm if it stop the Passages to the Brain, causeth an Apoplexie; but the reason, why the Watery Contractions are more apt for Cure, is, because the Nature of Water is Fluid, and is easily dissolved by Dilatation, Extenuation being of its Interior nature; but Slime and Flegm are more Solid, and not so Flexible to be Wrought upon, as suddenly to Change Shape or Nature, in being Dissolved or Transformed. The third cause is a Fulness of Blood, or a Thickness of Blood, for when the Veins are too Full, there is not Vacuity enough 
+
+[page 377]
+{: descrip}
+
+for the Blood to Run in, so the Motion thereof is Stopp'd; or if the Blood is too Thick, or Clammy, it becomes less Fluid, and the more Solid it is, the Slower the Motion is; and as the Blood may have too Quick a Motion, by reason of Heat, so it may have too Slow a Motion, by reason of Thickness; and if the Veins are fill'd too Full of Hot blood, wherein are many Spirits, it indangers the Breaking some of the Veins, like as when Strong Liquor is put into a Barrel, if it be filled to Full, the Strength of the Sprits striving for Liberty, Break the Barrel, the like will the Blood in the Veins, and if a Vein chance to Break in the Head, it Overflows the Brain, and Drowns the Life therein. The last is Gross Vapor, which may ascend from the Bowels or Stomach, which causeth so great a Smoak, as it Suffocates or Choaks the Brain, Smothering out the Life of the Body. All Apoplexies are somewhat of the Nature of Dead Palsies: But the best Remedy for them is Letting blood, and to make Issues in the Leggs, as also Purging the Stomach and Bowels; as for the Stomach, it must be Purged by such Druggs as Purge Gross and Clammy or Tough humors, but the Bowels must be Purged by Glisters; also Gargling the Throat, and Sneezing will do Good. 
+
+[page 378]
+{: descrip}
+
+## CHAP. XXXVI.
+
+*Of Epilepsie, which is called Falling-Sickness.*
+
+This Disease is caused by a Water in the Brain, which Water is most commonly Green, like Sea-water, and hath an Ebbing and Flowing motion, like the Tides thereof, and when the Water is at Full tide on the Fore-part of the Head, it takes the Diseased after the manner of Panting, and short Breathing, causing them to Beat themselves, and Foam at the Mouth, neither can they Hear, See, Smell nor Speak; the reason is, that the Flowing motion driving the Watery humor so far out, as it Extends the *Pia mater* and *Dura mater* of the Brain, farther than the Natural Extension; which Extension swelling out towards the Outward part of the Head, Hinders all Recourse, Stopping those Passages, which should receive the Objects through the Exterior Senses, and the Froth or Slimy humor, which is betwixt the Skin where the Brain lies, and the Skul, being Pressed out, falls through the Throat into the Mouth, and there works forth like Barm, which is called Foaming; but though the Motions of the Head are thus Altered for a time, so as there is neither Sense nor Rational knowledge, yet the Body may be after the Natural course, and not any ways Altered; but the Body
+
+[page 379]
+{: descrip}
+
+feeling Life opprest in the Head, the several Parts or Members in the Body Strive and Struggle, with what Power and Strength they have, to Release it; like as a Loyal people, that would Defend or Release their Natural and True-born King from being Prisoner to a Forein Enemy; but when this Water Flows to Hinder part of the Head, the *Pia Mater* and *Dura Mater* Extending out that way, Stops all the Nerves over the Nape of the Neck, by which Stopping, it Stops the Exterior motions of the Whole Body, by reason that Place is the Knitting-place of those Moving Strings, and when the Water is Flowed, as I said, to this Part, the Diseased lies as in a Swoon, as if he were quite Dead, having no Visible Motion, but as soon as the Water begins to Fall back, they begin to Recover out of the Fits; but as often as the Water in the Head is at Full tide, either of the Fore-part of the Head, or the Hinderpart, the Diseased falls into a Fit, which is sometimes Frequent, sometimes not, for it keeps no Constant Course, Time nor Measure, and according as the *Pia Mater* and *Dura Mater* Extends, the Fits are Stronger or Weaker. Likewise such Green water, with such Motions about the Heart, may produce the same Disease, for oft-times this Green water, or Green Thin humor Ascends, or Runs from several Parts of the Body into the Cisterns of the Head and the Heart; and this Kind of Water or Humor if it be in the Nerves, causes dangerous
+
+[page 380]
+{: descrip}
+
+Convulsions, by reason of the Sharpness that Shrivels up the Nerves; and when it is in the Blood, it Causes the Veins to Contract, through the same reason; if in the stomach, it causes Vomiting, or great Fluxes, by Subdividing the Humors, and the Sharpness Prickling or Tickling the Stomach, provokes a Straining, as Tickling in the Nose doth Sneezing; So the Stomach, either Strains Upwards or Downwards. The best Cure for this Disease is, to make Issues on the Inside of the Thighes or Legs of the Patient.
+
+## CHAP. XXXVII.
+
+*Of Lethargies.*
+
+Lethargy proceeds either from Want of Natural heat, or that the Brain is too Full of Gross humors, or too full of Watery humors. If it proceed from Want of Natural Heat, Nourishing Food is the best Remedy, but if it be caused by Gross humors, or an Overflow of Watery humors, the best is, to Purge the Patients Head by Syringing through the Nostrils, as also by Syringing the Throat, and to Apply to him Glisters to Draw the Humors from the Head. Also Issues in the Neck are good. The Motions that cause Lethargy are Attractions and Contractions, Drawing up Humors and Vapors from the several Parts of the Body into the Head.
+
+[page 381]
+{: descrip}
+
+### CHAP. XXXVIII.
+{: #chap7-XXXVIII}
+
+*Of Shaking Palsies.*
+
+Shaking Palsies proceed from a Supernatural Extenuation in the Nerves, which by the Extenuating become more Porous and Hollow, and become like a Perpetual Earthquake, having Flatuous or Windy humor in the Bowels thereof, and cannot find Passage out; If it proceeds from a Hot extension, there must be applied Cold Condensing medicines; If it be a Cold extension, there must be applied Hot Condensing Remedies. 
+
+### CHAP. XXXIX.
+{: #chap7-XXXIX}
+
+*Of Convulsions and Cramps.*
+
+Convulsions proceed from Contracting motions, quite contrary to the Natural motions of the Body, as Winding up the Sinews, Nerves or Veins; but especially those Sinews which Joyn and Couple the Muscles together, Drawing not onely Contrary, but Contracting Several ways, and after Divers manners; for sometimes the Nerves are, as if we should tie Strings in Bow-knots, others, as if we should Wind up Lute-strings or Pegs; and some are Twisted like Whip-cord, and many the like ways, which would be too long to Recount;
+
+
+[page 382]
+{: descrip}
+
+but these Contractions proceed either from a Wind got into the Nerves or Veins, which troubles them, as the Wind-cholick doth the Guts, or a Sharp humor that Shrivels them together, or a Salt Watery humor, Mixt with Wind, which Strugling and Striving together, Turns, Winds, Folds or Rolls up the Nerves, like the Waves of the Sea, or a Cold Icy humor, which Draws and Gathers in the Nerves, as Frost will do all Spongy bodies, or some Thick Clammy humor, which Stops some Passages, which causeth the Natural motions to turn Irregular; but if the Humor be onely in the Veins, it is Cured by Letting blood; if the Blood be Corrupted, Sharp, or Salt, or if the Blood be Cold, Windy or Watry, Hot Liquid medicines Cure it, or Cordial water, or the like; and if it be a Cold humor in the Nerves, Hot Oils and Extraordinary Hot medicines Cure it, or the Sprit of Castor, Oil of Amber, and the like; but if it proceed from a Salt, Sharp, Watery humor, or a Thick Clammy humor in the Nerves, it is seldom or never Cured, because it is not easily got out, neither can Medicines so suddenly get into the Nerves, as into the Veins, for though the Cold in the Nerves may be easily Cured, by Melting and Dissolving by the Comfortable Warmth, or Violent Heats from the Hot Cordial medicines, which Spread about the Body, as a Great Fire in a Chimney, which Spreads about and Heats all the Room, if the Fire in the Chimney be answerable to the Bigness
+
+[page 383]
+{: descrip}
+
+or Largeness of the Room it is in, and the Lesser the Room is, and the Bigger the Fire is, the Hotter it is; Wherefore it is to be considered, that those, that are at Full Growth, or are Larger of Body, if thus Diseased, ought to have a Greater proportion, or a Larger quantity of those Medicines, than a Child, or those that are but Little of Stature; for though those that are of a Little Stature, may be more Strong than those that are of a far Bigger bulk, yet in the cause of Diffusing or Dilatating medicines, the Circumference of the Body must be considered as well as the Strength of the Medicines; and if the Convulsion be in the Stomach, caused by the afore-said Humor, Purging Medicines or Cordials may Cure it, unless the Stomach is Gathered, Shrivell'd, or Shrunk up by an Unnatural Contracting heat, like as Leather that is put into the Fire, which when so, the Stomach can no more be Cured, than Leather be made Smooth, which is Shrunk up in a Purse by Fire; after the like matter as Convulsions, are Cramps, but Cramps most commonly are only Contractions of the Small Veins, which Tie or Twist them up, and many times so Hard, as they Break; for those, that have been much troubled with the Cramp, will have all the Skin, where the Cramp hath Taken them, Streaked with broken Veins, I mean the small Hair-veins; but Rubbing the part Grieved, with a Warm cloath, will Untie and Untwist them again, by Dissolving the Cold, or Dispersing the 
+
+[page 384]
+{: descrip}
+
+Wind, or Rarifying Blood therein, this we find by Experience; Wherefore I should think, that in Convulsion fits, that are caused by the like, that if the Diseased should be Rubbed with Hot cloaths Outwardly applied, as well as Hot medicines Inwardly taken, it might do the Patient much good. But I must remember my Readers, that in Convulsions, the  Strength of the Medicines Inwardly taken, must be according to the Strength of the Fits; for if they be Strong fits, Weak medicines do no Good, for more strength goes to untie a Hard knot, than a Loose knot, or to Untwist a Hard string, than a Loose string; besides, it is hard to know after what manner the Knot is Tied or Twisted, and many indeed are so Ignorant of Medicines, or the manner of the Disease, as to Apply such as shall Hap of the Right end, as those which are Cured, are cured by Chance, and Chance hits so seldom right, as not One of an Hundred escapes of their Kind of Disease, if the Disease is in any ways Violent, for then the Motions tie so Fast and so Strong, as they break the Life of that Figure asunder. There be Natural Contractions, and Unnatural Contractions, that is, Proper and Improper to the Health of the Figure.
+
+[page 385]
+{: descrip}
+
+### CHAP. XL.
+{: #chap7-XL}
+
+*Of Collicks.
+
+All Collicks are towards the Nature of Convulsions, or at least Cramps. Some Collicks proceed from Raw Undigested humors, some from Sharp Melancholy humors, others from Cold Flegmatick humors, others from Hot Cholerick humors, others from Putrified humors; Some Collicks are in the Stomach, others are in the Bowels, as the Guts, some in the Sides, and sometimes in the Veins; but these Collicks are Cramps; but the causes of all Collicks are Extenuating motions, thought the Effects are oft times Contracting, but if the cause be Contracting, it is a Cramp, not a Collick, for a Collick is properly Wind, produced from the afore-said Humors, that is, when those Humors Extenuate  farther than a Watery Extenuation, which turns into Vapor or Wind, which Vaporous Wind, or Windy Vapor, striving to get Vent, beings Stopped by Grosser vapor, or Thicker humor, runs about in Cross motions, which cause Pain; for the Extenuating motions thrusting Outward, and the Resisting motions thrusting Backward, run Cross or Beat on each other, which causeth Pain; and as long as the Strife lasts, the Body hath no Ease, untill some Assistance in Medicines be given, or that it can Over-master the Resistent motions;
+
+
+[page 386]
+{: descrip}
+
+but when once it hath Liberty, it Flies out in Expulsive motions, at all Vents; but if the Extenuating humors be Broken or Dissolved in the Body by the Well-tempered motion therein, or Expulsing of it Self, it Evaporates through the Pores of the Body in Insensible Transpirations; but if the Extenuating can find no way to be Expulsed, it Gathers Inward in small and smaller Rings, like a Scrue, drawing in the Guts or Stomach, Stopping the Passages thereof, whereby the Body can neither receive Nourishment, nor send out Excrement, with which the Body is brought to an utter Destruction; this Distemper is oft times produced from Sharp, Hot, Cholerick humors, which Sharpness hath a Natural Contracting quality, which is rather of the Nature of a Cramp, or a Convulsion, than the Nature of a Collick; howsoever, Expulsive medicines are good in these Cases. Convulsions are Collicks in the Nerves, and Cramps Collicks in the Veins; and as the Cholick in the Stomach or Guts proceeds sometimes from Wind, and sometimes from Crude, Bilous, Sharp humors, so doth this.
+
+### CHAP. XLI.
+{: #chap7-XLI}
+
+*Of Sufeits.*
+
+Surfeits are Superfluities; as too much Heat or too much Cold, or when there is taken into the Body too great a Quantity of Meat, or 
+
+[page 387]
+{: descrip}
+
+Drink, or the Like. Likewise when the Nature of the Meat is Disagreeing to the Nature of the Body, there one Scruple will be too much, and will give a Surfeit, for Surfeits do not onely Oppress by the Superfluous Quantity of Matter, but Disturb by the Superfluous Motions, the Disagreeing matter, causing more Motion than Naturally belongs to a Healthful body; besides, like a Company of Rude and Unruly Strangers Distub and Hinder the Regular motions, altering the Natural Constitutions and Uniformity of the Body, and many times Ruine the Body, unless an Assistant motion in Medicinable matter is brought to help to Expel the Superfluous, or that the Natural Expulsive motions in the Body are Strong enough, to Throw out that Ill Matter, either by Vomit, or Stool, or other Evacuation; but many times the Superfluities become so Strong, not onely by their own Ill Nature, or Great Quantity, but by making a Faction, and so begetting a Party amongst the Natural motions, which makes such a General Disorder, that though the Natural Digestive motions, and the Natural Expulsive motions joyn with the like Assistant motions taken in Medicines, yet the Body shall be Ruinated, and Life cast out by that Matter and these Motions, that are their Enemies therein.
+
+[page 388]
+{: descrip}
+
+### CHAP. XLII.
+{: #chap7-XLII}
+
+*Of Natural Purging, and Unnatural Fluxes.*
+
+There are many Several sorts and many Several manners of Purging, for all the Superfluous matter, which is named Excrements, pass forth of an Animal body, as Man, by Purging, as from the Mouth, Nose, Ears, Pores of the Flesh, and from the Lower parts; but these Purgings are Natural, without which the Body could not Subsist; for if Motion did not carry forth the Superfluous Substance or Matter in the Body, there would be no Place nor Parts capable to receive Nourishing Matter or Substance; but as there be Natural Evacuations and Natural Nourishments, so there are Unnatural Evacuations and Unnatural Nourishments, as to Evacuate Violently or Irregularly, or to Evcuate that which should Remain; also for Nourishment, as to Nourish some Parts More than other Parts, or to Nourish a Part More than it should be Nourished, or to Nourish Superfluities, or to Nourish some Diseases made by Unnatural Conjunctions, or Propagations of Humors, or Temperaments and Motions; but for the Unnatural Evacuations, all Fluxes are Unnatural, let them be from any Part of the Body, yet I cannot say they are Unnatural, as that they are not Incident to the Body, but Unnatural as being an Irregularity in the Body,
+
+[page 389]
+{: descrip}
+
+for all Violent Fluxes are Accidental to the Body, but not Ordinary. But all Violent and Unnatural Fluxes are Dangerous, especially some sorts of Unnatural Fluxes, as Spitting, Bleeding, for those Fluxes most commonly proceed from Decays of some or one of the Vital parts; but mistake me not, I mean not such Fluxes of Spitting and Bleeding, that are produced from Catching Cold or Superfluity of Humors, or such Bleeding as proceeds from Violent Motion, or Agitation, or a Superfluity of Blood, but such as proceeds from some Decay of Vital or some Bruised Parts, or Broken Veins, or Impostumes, or the like; also some sorts of Vomitings and Purgings by Siege are Dangerous, as such as proceed from an Unnatural, Interior, Fiery heat, whose Motions do so Divide and Subdivide the Humors, as causeth them to be so Rare and Agil, as not to stay in the Body, in which Irregular motions disturb the Regular motions and Parts, which is many times the cause of the Bodies utter Dissolution.
+
+### CHAP. XLIII.
+{: #chap7-XLIII}
+
+*Several Causes of the Flux, of Purging or Vomiting.*
+
+Unnatural Vomiting and Purging is caused many ways; sometimes by reason the Body is too Full of Humors, and sometimes by
+
+[page 390]
+{: descrip}
+
+reason fo Eating or Drinking more than the Stomach can hold, or Eating and Drinking that which Disagrees with the Humors in the Stomach, or that that Stomach is too Hot or too Weak; and sometimes by Unusual motions, or Violent motions cause from Violent passions or Imaginations, which have Disturbed the Sensitive motions of the Body; But those Purgings and Vomitings that are most Dangerous to the Consistence of the Body, are caused by Unnatural humor bred in the Body, which is of the Nature of Quicksilver, although the Colour of that Humor is Green or Black, and the Taste Bitter or Sharp; but these Humors when they are Strong either in Quantity or Effect, they cause Violent Evacuations, Dividing and Subdividing the Natural Consistent Humors, or otherwise they set the Stomach in an Unnatural fire, these Humors being Strongly indued with Fiery motions, so as the Stomach becomes like as a Foul Chimney set on a Flame, which causes the Humors like Soot to flie Upward, and some to fall Downward, and many times it Burns the whole House by their Violence; but if their Motions be not so Violent, then they onely move as Boyling Liquor, which Over-flows or Rises Higher than the Mouth of the Stomach; but the most Dangerous Effect is, when as these Humors Penetrate into the Substantial or Vital parts. As for the Remedies, when as the Stomach is Sick to Vomit, through any Undigested Meat, or through
+
+[page 391]
+{: descrip}
+
+a Superfluity of humors, or when it is Sick to Vomit through a Pernicious humor, the best Remedy is presently to give the Patient a Vomit, but if the Stomach strain to Vomit thorough an Unnatural heat, the best Remedy is to Let the Patient Blood under the Tongue, and then in the Arm, and if the Stomach be apt to Vomit through a Weakness or Relaxedness, the Patient must have Restringent Cordials. As for Purging Fluxes, if the Flux be caused through a Superfluity of humors, or through some Evil humor, then the Patient must be Purged, and take Diet-drinks, also the Patient must be Kept to a very Spare Diet; fi the Flux comes through some Excessive heat, as after Violent exercises, or the like, the Patient must be Let blood; if the Flux proceed from Weakness, of that the Bowels are too Relaxive, the Patient must use Restringent Diet, also he must be Purged gently with Rhabard, which is both Restringent and Comforting, but in all sorts or degrees of Fluxes, there is nothing better than Laudanum, such as is prepared by Doctor *Davidson's* Prescription; the Quantity must be from One Grain to Two and Three, but above Four must not be taken, and to put it in a Small Pill of Bread, and so Swallow it down; the time of Taking is, when the Patient goes to Sleep, but the Patient must not Eat or Drink in Three Hours before the taking of it, and when taken, lie still to Rest; as for this Laudanum I have had Experience, for when I was in France
+
+[page 392]
+{: descrip}
+
+with the Queen of *England*, I had Died of a Purging Flux, if I had not taken Doctor Davidson's* Laudanum, and he gave it me every Night for a Week together, and I was Cured.
+
+### CHAP. XLIV.
+{: #chap7-XLIV}
+
+*Of the Diseases in the Head, and Vapors to the Head.*
+
+Diseases and Swoonings, which are Diseases belonging only [^7-07]the Head, differ as the Motions and Mixture, and Forms of Matter differ, for no Diseases, although of one and the same Sort, are just alike; but although these are Diseases belonging only to the Head, yet the Motions and Humors of the Stomach have greater Affinity to the Head, and many times cause the Diseases therein, by the Course and Re-course thereto and therefrom; for some Humors falling from the Head into the Stomach, do so Dis-affect that Part, as it returns more Malignity up again, and sometimes the Stomach begins the War, sending up such an Army of Ill Vapors, as many times they do not only Disorder the Head, but totally Ruinate it; but most commonly the Vapors, which ascend to the Head, are gathered by Contracting motions into Clouds, as Vapor is which ariseth from the Earth, and as long as the Vapor is in a Cloudy body, it makes that Part feel Heavy, and the Senses Dull by Obstructions, for it Stops the Nose, Dims the Sight,
+
+[page 393]
+{: descrip}
+
+Fills the Ears, Blunts the Taste, and Numbs the Touch, especially if the Obstruction be caused from a Cold Contraction, which Congeals, the Vapor to an Icy Substance, but when it is Expulsed by a Hot Dilatation, it falls down like Hail, or Flakes of Snow, by which, I mean Cold Glassie Flegm, which Cold Flegm doth most commonly as Snow doth, which covers the Face of the Earth, so this Flegm covers, or stops the Mouth of the Stomach, and Deads the Appetite thereof; but the Danger is in these Cold contractions, that if they should last too Long, they may cause Numb-palsies, or the like, and if Contracted, so as if one may say, Crystallined, it may cause an Incurable Dead Palsie; but if it be Dispersed by a Hot Explusion, it is Dissolved in Thundering Coughs, or Falls like Pouring Showers of Rain, Running through the Spouts of the Nose, Eyes and Mouth, and through the Pores of the Skin, and sometimes falls into the Bowels of the Body, the Stomach, and the Intrails; but if some of the Flood-gates chance to be Stopped by Obstructions, these Showers may chance to Over-flow the Body, and make an utter Destruction, otherwise they only Wash and Cleanse these Parts; but if Vapors be Gathered by a Hot Contraction, they become Sharp and Salt, as being of a Burning quality; and if they be Disperst by a Hot Expulsion, they fall down like a Misling Rain, which hath a Soaking and Penetrating faculty, Cutting and Peircing those Parts they fall on,
+
+[page 394]
+{: descrip}
+
+by Insensible degrees, which Rots the Vital parts, not only by the Sharpness which Ulcerates, but by a continued Unnatural Weakness, which, if once the Parts begin to Decay, which is the Foundation, the Building must needs Fall.
+
+### CHAP. XLV.
+{: #chap7-XLV}
+
+*Whether the Brain turns Round or not in the Head.*
+
+Although Thin Vapor may get betwixt the Skul and the Brain, and likewise Slimy Humor; yet I imagine not that the Brain is Loose from the Skul, so as to Flap, Flash, or to Strike against the sides of the Skul, when the Head is Moved, or to turn Round, although it is a common Phrase to say, My Brain turns Round in my Head, when they are Dissie; but I imagine it is not the Brain that turns Round, but the Vapor or the Humor therein; 'Tis true, the Brain turns Round, when the Whole body turns Round, but so as it turns Round with the Head, as one Part, not in the Head as a Part by it self; and the reason, that the Dissiness is Cured by turning the Contrary way, is, that the Sensitive motions therein are turned toward their Moderate, Natural and Accustomed manner of Moving; for the Violence of turning Round, forceth the Sensitive motions, as Wind doth the Air or Water, driving all one
+
+[page 395]
+{: descrip}
+
+way, as before it, or rather like a Scrue or a Wheel, that Winds up those Motions, as Thread upon a Spindle, and so Unwinds the contrary way.
+
+### CHAP. XLVI.
+{: #chap7-XLVI}
+
+*Of the Sound or Noise in the Head.*
+
+When there is a Thin Vapor got into the Head, as betwixt the Skull and the Brain, and runs about in Circular lines as a String about the Wheel, it makes a Humming noise, as a Turning Wheel doth, and the more, by reason the Head as well as the Vaporous lines is Spherical; and though the Brain may stick close to the Skul, yet not so Close but a Thin vapor may get betwixt; but if the Vapor be gathered into Little Hollow balls like Cymbals, and runs about the Head, it causes a Noise like those Cymbals, as a Tinkling or Gingling noise. But if the Vapor in the Head hath Intermitting motions, the Sound is like Musical Instruments, for the Stops, like Notes, make the Divisions; and according to the several Motions in the Head, is the Sound made therein, although the Ear is stopp'd without.
+
+[page 396]
+{: descrip}
+
+### CHAP. XLVII.
+{: #chap7-XLVII}
+
+*Of the Head feeling Numb.*
+
+When the skins which wrap up the Brain, as the *Pia Mater* and *Dura Mater*, are Contracted by an Inward cold, or an Outward cold, taken in at the Nose, Ears, Mouth, or Pores of the Skin, they Shrivel, or are Drawn in as a Handkerchief, or the like, when we carry some Bulk within it, and when those Skins are Drawn into a Straighter compass than the Nature is, it Presses upon the Brain, as being too strait, wherein the Brain cannot freely Move. Besides, the Veins and Little Small Strings that run about the Brain, being Contracted with Cold, the Blood in those Veins cannot so freely Run, those Strings being Shrunk, make the Brain feel as if it were so Hard bound, as to be Numb; but this doth rather Afright the Life of the Diseased, than Destroy it, for a little Warmth, bu Rubbing the Head, or a Hot Cloath laid on the Head, or some Warm Spoon-meat Cures it. Also Numbness mar proceed from too much Blood in the veins, or too much Matter in the Nerves, which being Too full, cause a Stopping, for want of Space or Room to move Naturally in, but this Numbness is not so easily Cured, especially when the Oppressions lie in the Nerves, for Opening a Vein gives Liberty of the Blood,  
+
+[page 397]
+{: descrip}
+
+but I Know not how one should so easily open a Nerve, neither is the Matter within so Liquid, as suddenly to run out; but this Numbness is rather of the Nature of a Dead Numbness, than a Sleepy Numbness.
+
+### CHAP. XLVIII.
+{: #chap7-XLVIII}
+
+*Of the Season and Diseases of Winter.*
+
+In every Season there be all Sorts of  Kinds of Diseases, amongst Animal kind, especially that Animal named Man, but yet some Sorts or Kinds of Diseases are more Frequent in some Season of the Year than other; But Dividing the Year into Four Seasons, as Winter, Spring, Summer, and Autumn, I will begin with the Coldest, as Winter. The Diseases that are most frequent in the Season of Winter are Coughs, Cathars, Tooth-akes, Rheums, as Running or Droping a Watery substsance out of the Nose, Eyes, as also the Mouth;  Also this Season breeds Apoplexies, Megrims, Lethargies, Palsies, Gangrenes, Cramps, Convulsions, Impostumes, and the like. As for the Winter season, it is strongly Indued with Cold Contractions and Cold dilations, which causeth Frost, Snow, Cold rains, and Cold winds; As for the Cold contractions, as they Contract the Moist Elements into more Defined body, than Naturally they should be, for they do Animal bodies, which by Nature Porous and Spongy 
+
+[page 398]
+{: descrip}
+
+and some Parts Liquid and Wet; but by Cold contractions those Parts that are Porous and Spongy, as the Flesh, are more Hard and Densed by Cold contractions than Naturally they are, and the Exterior Cold contractions work upon the Exterior parts of Animals, Contracting close the Pores of the Skin and Flesh into a Closer or Less Compass, and sometimes close up those Porous passages, which Hinders them from all Intercourse, which Hinderance causes many Diseases, by reason of the Superfluous matter in the Body cannot Pass out, nor Refreshing or Reviving matter cannot Enter in, as through the Pores; for through the Pores of the Flesh Pass and Repass the most Rare substances Into or From the Body, as Water, Vapor, and External heat, and Sweat, Smoak, and Internal heat. But it is to be observed, that the Natural heat Bred in the Body, and the Nourishing food Taken into the Body, Begets or produces both Vital and Radical vapor, which the Learned Physicians name Animal and Vital Spirits; also the Natural heat and Ordinary food begets or produces Superfluous vapor, which Superfluous vapor, when as it cannot Issue forth of the Body, doth become Gross, Corrupt, and Malignant, as also Over-powerful and Destructive; But for Diseases, I will first begin with Rheums, which are very frequent in Winter-season, wherein the Pores of the Body are stopt by Cold contractions, which causes the Pores of the Skin and Flesh to be 
+
+[page 399]
+{: descrip}
+
+like as a Luted Alembick, or like as a Glass-Still set a Working, for the Daily Food and Natural Heat in the Body Operating together, the Natural heat Separates the Several parts of the Food, Densing some and Rarifying others, whereof some are Necessary for the Consistence of the Body, and some others of those Parts are Superfluous, for which the Superfluities there are Natural Passages in every Animal Creature to Issue out, whereas the Rarest and most Rarified parts Issue through the Pores of the Flesh, which Pores when as they are Stopped either by Exterior or Interior Contracting motions, they cause divers Diseases; for when as those Rare Superfluous parts, as Superfluous Vapors Dilate by a Natural Dilatation to the Circumference of the Body, finding a Resistance through the Obstruction or Contraction of the Porous doors or passages, Depress or Recoil, which Depressions cause the Dilatating vapors to Contract into a Dew, and then into a Water, which Water being Unnecessary and Superfluous, causes a Disorder in the Body, unless it can find a Passage out, which sometimes it doth, but not always; but for that Vapor, that Ascends to the Head, and is Depress'd in the Head, like as the Top of a Still, the Water which is made there, is apt to Drop or Run through the Nostrils of the Nose, or through the Corners of the Eyes, or out of the Mouth; but if there be more than can be Vented through those Passages, it Falls into the Lungs, or into the Stomach,
+
+[page 400]
+{: descrip}
+
+or other Parts, like as Misling Rain, all which causes Coughs, Pozes, Spitting, Difficult Breathing, and the like; but for Difficult Breathing, it is caused by the Stoppage of the Windpipe, which the Falling Rheum or Water causeth: But if the Superfluous Vapor that should Pass through the Pores, and cannot Pass, but Remains in the Body, where by Time and Change of Motion it becomes from Thin Vapor to Thick Vapor, from Thick Vapor to Water, from Water to Slime, from Slime to Flegm, from Thin Loose Flegm, to Thick Hard Flegm, it caufes Unnatural Obstructions in the Several parts of the Body; but when as that Superfluous Vapor or Matter hath Several sorts of Motions working in it, as some Hot, and some Cold Contractions, also some Hot, and some Cold Dilatations, Digestions, and the like, it causes that Vapor to become of a Corrupt Substance, as partly of one Substance, and partly of an other, for in all Corruptions there is an Irregular Mixture of several Motions, which causes several Distempers of the Matter, and so several Diseases, whereof Impostumes [^7-08]one sort. But if the Superfluous Vapors do Superabound, and Ascend up to the Head, they Choak the Brain, and the Interior passages and Vital parts of the Head, which causeth Apoplexies, Megrims, or Lethargies, especially if the Vapor be Gross, and when as the Vital or Radical vapor, which is named Spirits, is Contracted by an Unnatural Cold contraction, there proceed Gangrenes 
+
+[page 401]
+{: descrip}
+
+in those Parts, where those Contractions are made; and when as by the Exterior Cold contractions, or Interior Cold contractions, the Pores which are the General Doors or Passages of the Body, or in some Part of the Body, are quite Shut or Closed up, there must necessarily proceed a Dead Palsie in those Parts, or in the Whole body, by reason all Sense of Touch Lives in those Passages, Doors, Parts or Places, namely the Pores of the Flesh, but if those Passages or Pores be but Partly Unnaturally closed, they only produce Numb Palsies, which may become Dead Palsies in time. But all these Diseases may be made by Hot contractions, or Hot dilatations, as well as Cold, if they work to the same Effect; as for all Sorts of Rheums, they are partly made by Contractions, and partly by Dilatations, as my Readers may observe in my former Discourses of Loose Elements and Humors. 
+
+### CHAP. XLIX.
+{: #chap7-XLIX}
+
+*Of the Season of the Spring, and the Diseases most Frequent therein.*
+
+That Season of the Year, which is named the Spring, is more Strongly indued with Attractive, Digestive, and Dilative motions, than it is with Expulsive, or Retentive motions; by reason it is the chief Season of Creation, but yet these Attractions, Digestions, and Dilatations, 
+
+[page 402]
+{: descrip}
+
+are inclining more to the Hot than the Cold temper; in truth, it is a Time or Season, when as all Motion is the most Equal Mild or Temperate, and yet there be many Violent Diseases in this Season; the reason is, that many Diseases, that were Bred in the Winter Season, do appear in the Spring Season, as being not brought to Maturity untill the Season of the Spring, for Superfluous vapors wanting Vent, not only breed Distempered humors, but have Distempered the Natural and Well-tempered humors by Irregular motions. The Diseases that are most Frequent in the Spring, are Agues, Plurisies, Green-sickness, or Short-breathing, Consumptions, Pains in the Stomach and Head, and many such like Diseases, all which are by Inward Corruptive Obstructions, and Irregular motions, caused by the Unnatural Contractions of the Exterior pores or passages of the Flesh, and Skin of the Body.
+
+### CHAP. L.
+{: #chap7-L}
+
+*Of the Season and Diseases of the Summer.*
+
+That Season or Part of the Year, named Summer, is Strongly indued with Hot dilatations, and Hot contractions, and the Diseases that are most Frequent in this Hot Season, are Phrenesies, Burning-feavers, Plagues, Spotted-feavers, Small-pox, Measles, Scabbs, Leprosies, and all Exterior Swellings, Sores, and Pains,
+
+[page 403]
+{: descrip}
+
+Sweating, Faintness, and Swooning, all which Diseases are made or produced by the Excess of Hot motions; for when Several sorts of Motions do not work Equally, according to the Matter they work On, or the Creatures they work In, they cause a Distemper and Irregularity of and in the Natural humors and Vital parts of the Body; and the several Diseases are made or produced by Excessive Hot contractions, but the breaking forth of those Diseases is by the Excessive Hot dilatations, for the Dilatations drive those Diseases either Wholly or in Part, unto the Extreme parts, and if the Dilatative motions be Stronger than the Contracting motions, those Dilatating motions Drive or Carry those Diseases so Clearly and Generally out to the Extreme parts, as they leave none of the Disease, or otherwise so little of the Disease in the Body, as not to Indanger the Vital parts in the Body; but in many Bodies there is great Strife betwixt the Hot Contractions and Hot Dilatations, in which Strife the Body suffers much Pain and Sickness, and according to the Victory of either sort of Motions the Body Lives or Dies; for if the Excessive and Irregular Contractions, which are the Cause of those Diseases, get the Better, the Body Dies, by reason the Contractions keep the Disease so near the Vital parts, as they become Infected with the Distemper of the Disease; but if the Excessive Dilatations (for if the Dilatations were not Excessive, they could not Dispute with the
+
+[page 404]
+{: descrip}
+
+Excessive Contractions) have the Victory, either by their own Proper Strength, or by some Assistance, the Body Lives, for Dilatations Drive out all Malignity beyond all Danger. But all Dilative medicines are best, onely the Difficulty is to Understand, what Medicine or Matter is Indued most with such or such Motions, but Experience, Time, and Trial will inform the Understanding much. But, this is to be observed, that sometimes two or three Diseases will joyn together in one Body; also it is to be served, that some Bodies are Weak, or that some of the Vital parts were Decayed, before any of those Diseases were entred into them, or were made in them, and when Disease joyns with the former Imperfections or Decays, and the Body Dies, Physicians or other Acquaintance judge, their Death was caused Absolutely of that onely Disease, and that there were no such Remedies, as might be Applied to the Sick Person, and the Friends of the Dead man are apt to Complain of, or Condemn the Physician for want of Skill, or that he hath been Negligent, although there could be no Remedy to Cure that Sick Person, nor no Reprieve from Death could be made; and on the other side, when as a Disease seizes on a Well-tempered or Sound-bodied Man, and that his Strong and Well-tempered parts and Regular motions are too Strong for his Distempered Disease, Humors, or Parts, and the Sick man Recovers, then the Friends of the Sick man Commend and 
+
+[page 405]
+{: descrip}
+
+Approve of his Physician, saying He was the onely Cause of his Recovery, when as it was the Man's own Sound or Strong Constitution of his Body, at least his Constitution did help the Physician's Art to Recover the Sick man to Health. Thus we may perceive great Mistakes concerning Diseases, and not only Mistakes in the Parts of the Body, but oftentimes in the Nature of the Disease, as also the Remedies; Wherefore this Study of Physick is a Difficult Study, and the Practice of a Physician requires great Observations and Experiences, as also Diligence. 
+
+### CHAP. LI.
+{: #chap7-LI}
+
+*Of Autumn, and of those Diseases that are most Frequent therein.*
+
+Autumn is Strongly indued with Expulsive motions, in truth, that sort of Motions seems chiefly to Rule or Predominate, and those Diseases, that are most frequent in that Season, are Fluxes of all Sorts and Kinds, and for the most part the former Summers Excessive Contractions are one of the Causes of the Autumns Excessive Expulsions, for one Extreme changes into another Extreme; also it is to be observed, that the Nature and Motions of the Spring is to Create and Unite, and it is the Nature and Motions of the Autumn to Dissolve and Expulse; for there are many Things and 
+
+[page 406]
+{: descrip}
+
+Creatures that the Spring Makes, which the Autumn Dstroys. As for Diseases, it is to be observed, that the Luxurious Appetites of Men in Feeding on the Delicious Fruits of and in the Summer-Season, are the Cause of many Diseases; some through Surfeits, and some through the Disagreeing Substance of those Fruits received into the Body.
+
+### CHAP. LII.
+{: #chap7-LII}
+
+*Of the Infections of Animals, Vegetables, and Elements.*
+
+Such Motions as Corrupt Animal bodies, Corrupt Vegetable bodies, and as Corrupt and Malignaut Air is Infectious to Animals, so likewise to Vegetables; and as Malignant diseases are Catching and Infectious to those that come near them, so oftentimes Vegetables are Infectious to Animals, as Herbs and Fruits, which cause some Years such Dangerous Sicknesses and Killing Diseases to those that Eat thereof; Likewise those Bodies that are Infected, do Infect Sound and Nourishing food, when once it is Eaten, causing that, which is Good, also to become Malignant, when once in the Body.
+
+[page 407]
+{: descrip}
+
+### CHAP. LIII.
+{: #chap7-LIII}
+
+*The Superfluities of the Humors, as Flegm, Choler, Melancholy, and Blood.*
+
+The Loose and Necessary humors in Animal bodies, are Flegm, Choler, Melancholy, and Blood, but when as any of these Loose humors Superabounds, that is, when as there be more of any one of these Humors, than the Nature of the Body requires, that or those Superfluities of Humors do Distemper the Body, causing many Diseases, as Feavers, Agues, Impostumes, Consumptions, Stone, Fluxes, Convulsions, Apoplexies, Megrims, and the like; and when these Superfluities Dilatate to the Extreme parts, they cause Cancres, Gangrenes, Fistulaes, Wenns, Kings-evils, Wolfes, Scabbs, Itches, and the like; and when they Superabound so much, as to Infect the Inward parts, as also to Dilatate to the Outward parts, they cause Spotted-feavers, Plagues, Small-pox, Measles, Leprosies, Gouts, and the like; and sometimes the Infection of the Inward parts Dilatates to the Outward parts, and sometimes the Dilatated humors from the Outward parts Fall back, or Penetrate inward, and Infect the Inward parts. But it is to be observed, that the Motions of the Humors Vary and Change not only in Several parts of the Body, but from one Humor into an other; also it is to be observed, 
+
+[page 408]
+{: descrip}
+
+that these Humors often Intermix one into an other, which may easily be perceived by the Nature of each Disease, as to find or perceive, whether they be Compounded or Intermixt diseases, or a Disease of a Single humor; also it is to be observed by Human sense and reason, that the Intermixing and Conjunction of Several Humors by Irregular motions doth many times beget a Deformed humor, that is, an Unnatural humor, as a Humor that is Hurtfull and Dangerous, if not Destructive to the Body. But the Veins are the Reception for the Blood, the Gall is the Reception for the Choler, the Splene is the Reception for Melancholy, the Brain is the Reception for Flegm; but the truth is, that all those Humors are Intermixtly in all Parts of the Body, and it is Natural for those Humors to be so, but that which is accounted Unnatural, is for any of the Humors to Superabound, as not to keep in such a Proportion, or as when they Intermix Crossly, as Untimely, Unequally, or Irregularly, all which causes many Several Diseases. But as these Humors are of several Tempers, several Degrees, several Motions, several Functions, so several Colours, and several Tastes, as Yellow, Green, Black, Red, White, Bitter, Sharp, Salt and Sweet.
+
+[page 409]
+{: descrip}
+
+### CHAP. LIV.
+{: #chap7-LIV}
+
+*Of those Parts of the Veins, which draw Nourishment in the Body.*
+
+When as the Veins are too Full of Blood, the Mouth-veins cannot Draw according to their Proper faculty from those Parts of the Body, that they should draw Nourishment from; also when the Mouth-veins are Weak, they cannot Draw a sufficient Nourishment to make Blood, neither when that they are Obstructed; but mistake me not, I mean those Parts of the Veins as draw Nourishment from the Liver, or other Parts; but from Fulness, Weakness, or Obstruction, proceeds Corruption of Parts, Impostumes of Blood, Breaking of Beings, or Emptiness in Veins, which causes the Body to be Weak, Faint, Lean, Pale, and Ill-coloured; also it causes Quinzies, and Sore Throats, and many the like Diseases. But the Veins may be too Full of Blood, not only to Hinder or Retard the Attracting motions of or in the Veins, but the Intermixing and Digesting motions of the Blood, causing the Blood to be Corrupted, or too Thick and Cold, for the Blood may Agitate too Little as well as too Much, which may cause Numbness or Deadness of Parts, which is called Numb or Dead-palsies, and Apoplexies, and many such Diseases, whereas the too much Agitation of the Blood 
+
+[page 410]
+{: descrip}
+
+causes Hectick Feavers, and other Feavers; but this is to be observed, that in most Diseases, Letting blood is very Good and Profitable for the Sick Patient.
+
+### CHAP. LV.
+{: #chap7-LV}
+
+*Of the Several Motions in an Animal Body.*
+
+When a Body is in Perfect Health, the Motions therein do not only work Regularly and Proportionably, Placing every Part of Matter Rightly and Properly, Mixing and Tempering the Matter as it should be, or as I may say, Fitly, that is, when the Quantity of Matter or Humor is Proportionable, and the Motions move Equally; for though every Kind or Sort of Motion may move Evenly, and keep Just time, yet not Equally, or Harmoniously; as for Example, say there were a company of Musicians, and every one Played Skillfully, Justly, Tuneably, Timely, on the same Notes; yet may there be too many Trebles for the Tenors and Basses, or too many Tenors for the Trebles and Basses, and too many Basses for the Tenor and Treble to make an Harmony: So in the Body there may be too much of one, or more Kind of Motions for other Kinds to make an Harmony of Health, as for Proof, too many Contracting motions make the Body too Dry, and Contract Diseases; as for Example, if instead of Binding any thing, we should Break it 
+
+[page 411]
+{: descrip}
+
+by Pulling or Drawing too Hard together, or instead of Joyning of Parts, we should Knock them so Close as to Rive or Split them, or instead of Gathering such a Quantity of Matter, or Joyning such a Number of Parts, we should gather Twice or Thrice the Quantity; Numbers of the like Examples might be given, for all other Kind of Motions, as Dilatating or Expulsive, instead of Throwing out the Superfluities or Rubbish in a House, we should Pull down the House, and Disperse the Materials therein, Digging up the Foundation thereof. Likewise too many Dilatating or Expulsive motions may Disperse or Divide Parts, or Unsettle or Unground Parts, which Disunites, Weakens, and Dissolves Parts or Bodies. Wherefore all Contraction, Attracting, Retentive, Digesting, Dilatating, Expulsive motions in a Well-tempered Body, must move like the several Planets, every Sort in there ProperSpheres, keeping their Times, Motions, Tempers and Degrees; but too Many or too Strong Contracting motions cause the Gout, Stone, Plurisie, Hectick Feavers, Numb and Dead Palsies, Dry Liver, Brain, and many the like; and too many Dilatating motions cause Dropsies, Wind-collicks, Rheums, Shaking Palsies, Sweats or Fainting sickness, and Millions the like; and too Many or too Strong Expulsive motions cause Fluxes, Vomiting, Bleeding, and the like; and too Many or too Strong Digestive motions cause too much Blood, Fat and Flesh
+
+[page 412]
+{: descrip}
+
+which is apt to Choak the Vital parts, or may Nourish some Particular parts so much, as may make them Grow and Swell out so Big, as they may be Disproportionable for the rest of the Parts in the Body. But still I must Remember my Readers, that all Dilatating motions are in the way of Expulsion, and all Attractions in the way of Contraction, and Digestions are Mixt motions taking Part from either side; then I must Remember my Readers, that there are Infinite ways or manners of Contractions, and Infinite ways or Manners of ways of Attractions, and so of Retentions, Dilatations, Expulsions, and Digestions, where every Change makes a several Effect.
+
+### CHAP. LVI.
+{: #chap7-LVI}
+
+*Of that which Physicians name the Animal or Radical and Vital Spirits in Animal Bodies.*
+
+Those Humors or Parts Of and In the Animal bodies, which are named by Physicians to be Radical and Vital spirits. As for the Radical part, 'tis the Rarest and Subtilest Humor of Part in the Body, and it is not onely the most Rarifi'd part, but the most Clarifi'd part, it is the Fire and Flame of the Body, that gives the Body a Natural heat, and hath a Cleansing and Purifying faculty, which is Sympathetical to the Nature, and Cleanses and Purifies the Body generally throughout. There is no more
+
+[page 413]
+{: descrip}
+
+Difference between the Vital and Radical spirits, but onely the Vital are somewhat Grosser than the Radical, as much as between Oil and Flame; These Parts are made by such Dilatating motions, as make pure Oil or Essence, as also Flame and Heat, the Vital is the Oil, the Radical is the Flame of that Oil; But so Necessary this Part of the Body is to the Whole Body, as when this Flaming Oily matter is Quenched out, or Put out by other Matter or Motions in the Body, the Body dies, that is, the General and Natural motions proper to the Animal body change, and the Body Dissolves. But, to conclude this Chapter, the Radical and Vital spirits are the Natural Aquavitae or Brand-wine of the Body, or the Natural Oil or Essence of the Body, as also the Natural Fire and Flame of all Animal bodies.
+
+### CHAP. LVII.
+{: #chap7-LVII}
+
+*Of Cordials and Opium.*
+
+All Cordials work Sympathetically upon the Vital and Radical matter or Spirits in Animal bodies, by reason all Cordials have Inherent Virtues, or are Indued with such Temperaments and Motions, as the Radical and Vital Matter and Spirits have, which is the cause, that when such Things as are named Cordials, are given to Animal Creatures, they many times add much Strength to the Radical and Vital
+
+[page 414]
+{: descrip}
+
+humor and motions; but Opium hath a Strong Antipathy to the Radical humor or Spirits, for it is apt to Put out the Flame, at least to Suppress it, and to Over-power the Agil motions in that Radical matter, which is the cause, that when Opium is well prepared with other Ingredients, that it works Strange Beneficial Effects to those Animals that are in Feavers, or that are Distracted; for in Feavers, the Spirits Flame too much, setting the whole Body a Fire, or the Unnatural heat in the Body helps to Burn out the Vital or Radical matter faster than it should Burn; also in Feavers the Motions of the Spirits are apt to move too Quick; the like in Madness, all which Opium is apt to Suppress, and by the Suppression causes the Motions in the Spirits and Body to work more Slower, and then more Regularly. 
+
+### CHAP. LVIII.
+{: #chap7-LVIII}
+
+*Of Pleasure and Pain.* 
+
+All Evacuations have Expulsive motions, if the Expulsive motions be Regular, it is Pleasure; if the Expulsive motions be Irregular, they cause Pain; for all Irregular and Cross Sensitive motions is Pain, and all Regular motions is Pleasure: Indeed Pleasure and Pain is a Harmony or Discord of Sensitive motions. 
+
+[page 415]
+{: descrip}
+
+### CHAP. LIX.
+{: #chap7-LIX}
+
+*The Nature of Purging Medicines.*
+
+Most Purging Druggs are of the Nature of Hot Burning Fire; for the Inherent motions therein Work according to the Humor or Matter it meets with, some Humor they Melt, making it Thin and Fluid, although it be Hard, Tough, or Clammy, as Fire doth Oar, which is Unmelted Metall, making it so Fluid, as it will run through a Gutter of Earth like Water: So do some Druggs make some Sorts of Humor run through the Body, either Upward or Downward. Again, some Druggs will Work upon some Humors, as Fire upon Wood, dividing the Humor into Small parts, as Ashes from Wood, which Naturally falls Downward: and some they will Dissolve by Mouldring and Crumbling, as Fire doth Stone, which runs forth like Sand, which is Stone indeed Bred in the Body. Some Druggs Rarifie the Humors into Wind, as Fire will Rarife, and Evaporate Water, which is set Boiling thereon. Other Druggs will Work as Fire, that Distills out the Moist and Watery Substance from that which is more Gross; But it is to be observed, that all Purging Druggs that work by Vomit, are somewhat of the Nature of that Kind of Fire we call Sulphur, or Oyl that is Melted, or Fluid Sulphur, when these Sorts of Druggs are set on Fire, as I may
+
+[page 416]
+{: descrip}
+
+say, by the Natural or Distempered heat in the Body, it Flies out Ascendingly, like *Ætna*, for it is of the Nature of Sulphur to Ascend as Flame doth; and certainly, all Bodies have such Motions Naturally Inherent in them, as make and produce such Effects, as Fire doth, on several Sorts of Humors, by which Motions the Body hath a Natural Cleansing faculty, which makes the Natural Purging quality; but when the Motions are too Violent, they oftentimes Destroy the Body with Burning-Feavers or Violent Fluxes, or the like; for the Fire in the Body is like a Fire in a Chimney, for when the Chimney is Clean, and the Fire Proportionable to Lie therein, it Warms and Comforts all about, and is Usefull for many imployments for the Necessaries of Life; but if the Chimney be Foul, or the Fire too Big, or too Much for the Chimney, it Sets all in a Flame, Consuming whatsoever it Incompasses, if it be not Quenched out with Cooling Julips, as with Water, or by Casting on Rubbish, or Gross materials, to Smother it out; as in great Fluxes, they will not only give Restringent medicines, as having a Natural Restringent faculty, but Thick meats, as Thicked milk, or the like; but when the Body is Restringent, or hath taken Restringent medicines, it is produced by Drying motions, as Contracting or Retentive motion, if they be Hot Retentive or Contracting motions, they Harden and Confirm the Humors, as the Heat of the Sun, or the Heat of the Fire doth Clay, 
+
+[page 417]
+{: descrip}
+
+which turns to Brick or Tile, or those things we call Earthen Pots; and according as the Humor is Gross or Fine, the more Brittle or Hard, or Thick, or Heavy, or Thin, or Light it is; for some Humor is as Purcelline, or Chiney, others as the Grosser Earthen Vessels. Again, some Sorts of Contracting or Retentive motions draw the Humor, as when Bacon, Neats-tongues, or the like, are dried in a Chimney, or Oven, or the like; Other Sorts of Hot Contractions draw the Humor, as the Sun doth the Earth, drying up the Watery Spring therein; But if the Restringencies either of the Body, or of the Medicines, be caused by Cold Retentive or Contracting motions, it Dries the Humors, as Cold [^7-09]Frost dries the Earth, or Binds up the Humors, as Frost binds up the Waters in Icy Fetters, or Thickens the Humors, as Cold Thickens the Water, or Vapor drawn from the Earth into Clouds of Snow. But I am to Advertise my Readers, that all Expulsive motions are not Fiery Expulsions; for there are Infinite several wayes of Expulsive motions and dilatations. Secondly, these Fiery motions do not always work Expulsively, but Contractively, Attractively, and Retentively, and Divestively. Thirdly, all Expulsive, Dilative, Digestive, Contractive, Attractive, Retentive motions are not Fiery, but there is such a Kind or Sort of Contractions, Attractions, Retentions, Digestions, Dilatations, and Expulsions, as belong to Fire or Heat, or as I may better say, produce 
+
+[page 418]
+{: descrip}
+
+Heat or Fire; and as I said, there are Infinite several ways of each Kind of Motion; as for Example, I will treat of one of them: a Bee gathers Wax, a Bird gathers Straw, and a Man gathers Sticks; the Bees gather and carry the Wax to the Hive to make a Comb, to Lay or Hold and Keep the Honey; the bird gathers and carries the Straw to Build a Nest, to Hatch her Young ones in; the Man gathers Wood to Mend his House; these all Gather to one End, but yet Several ways; for the Bees gather the Wax, and carry it on their Thighs; the Birds gather the Straw, and carry it with their Bills; the Man gathers with his Hands, but carries it Several ways, as on his Head, or on his Shoulders, or at his Back, or in his Arms, and millions of the like Examples may be given upon each Kind or Sort of Motion or Moved matter. Again, I must Advertise my Readers, that, though I say, there are Fiery motions in Druggs, and Natural Fiery motions in every Animal Creature, and so in many other Figures; yet I mean not a Bright-shining Fire, although some are of Opinion, that in the Heart is a Thin Flame, and when that is Put out, or Goes out, the Creature Dies; but I mean not such a Fire, for my Apprehension there are three Sorts of Fire to our Perceivance, although there may be Numberless sorts, yet all of one Kind; as for Example, there are those Creatures we call Animals, though some are Beasts, Birds, Fish, and Men, but not only so, for some are of one
+
+[page 419]
+{: descrip}
+
+Sort, and some of another; for a Lennit is not a Parot, nor a Parot an Owl, nor a Horse a Cow, nor a Sheep a Dog, nor a Whale a Herring, nor a Herring a Plaise, nor a Plaise a Lobster, nor a Black-more is not a Tauny-more, nor an European an Ethiopian, yet all are of Animal kind; So although there may be several Sorts of Fire, and so of the other Elements, yet all are of the Fiery kind; likewise the Fiery motions make Several Figures, and Several Figures have Several Fiery motions; for every Sort of Animals hath a Several Shape, and Several Motions belonging to that Shape: So in Fiery figures and Fiery motions; but, as I said before, there are three sorts of Fire: The first is a Bright-shining, Hot-burning Fire, that is, when the Interior and Exterior Temperament of Matter, and the Interior and Exterior figure, and the Interior and Exterior motions be all as one. The second is a Hot-burning Fire, but not a Bright-shining Fire, such as Aqua-fortis, Vitriol, and such sorts of the same Nature, which will burn as Fire doth, but not after that Swift and Sudden motion; for though they are both of an Interior nature, yet not of an Exterior, for the Bright-shining Fire is all Composed of Sharp points, as I may say, Lines of Points, but the Vitriol Fire is as Sharp-edged Lines, like a Rasor, or Knife, or the like; neither are their External motions alike, for Bright-shining Fire mounts Upwards, when it is not Supprest, or in a Straight Parallel line, for
+
+[page 420]
+{: descrip}
+
+Flame, which is the Liquid part of Bright-shining Fire, although it moves in several Lines as it Ascends, yet the Lines they Ascend in, are Straight Diameter lines; but this Vitriol-fire Descends, as it were, Downwards, or Divides as Streams of Water do, that Dig themselves a Passage thorow the Earth, so this Vitriol cuts a Passage thorow what it works on; neither can this sort of Fire work so Variously as Bright-shining Fire can, by reason it hath not so many Parts, for points will fall into more Parts, and are more Swift in Motion, than the Edged-lines; as for Example, Dust which is Numerous Little Parts heap'd together, will be more Agil upon the Least motion, although it be of a Weighty Nature, as of the Nature of a Stone, than small Hairs, which be of a Light and Weightless nature, but being not Divided into so many Parts, cannot move so Nimbly, as being United Lines; but if you Cut the Hair into Small parts, it shall Move with more Restless motion, than the Sand, by so much the more as the Substance is Lighter. The third sort of Fire is that which I call a Cold Dull Fire, such as Brimstone or Sulphur, Mercury, Salt, Oil, or the like; This Sort in the Interior nature is of the Nature of Bright-shining fire, both in the Motions and Temperaments of Matter; but not in the Exterior, for it is composed of Points, but those Points are turnward Inwards as toward the Centre; but as soon as it touches the Bright-shining Fire, it 
+
+[page 421]
+{: descrip}
+
+strait turns the Points Outward, for those Points soon catch hold of those Straight Circumferent Lines, and Break them in sunder, which as soon as they are Broke, the Points are at Liberty, and making their Freedom, they Mount in a Flame; but when those Lines are not Dissolved by Fire, but Crack, as we will Snap a String asunder, then they onely Sparkle Fire out, but not Flame; but of Mercury or Quick-silver, the Interior nature is Fire, but the Exterior is Water, for the Exterior moves in Extenuating Circles as Water doth, and so much as to make it Soft and Fluid, but not so much as to make it Wet; for though it always gathers into Spherical Figures, which shews, that the Exterior would run into Wet, but that the Interior hinders it Drawing the Circles Inward, as Cold doth Water into Hail-stones, yet the Interior wants the Force to make it so Hard and Firm; but, as I did advertise my Readers before, that all sorts of Fire work according to the Matter they meet with, yet none works so variously as the Bright-shining Fire, which makes me think, that Drugs are more of the Nature of Bright-shining Fire than of the two other Sorts, because they Work in the Body according to the Humor they Meet with, for if they meet with Waterish humors, they Boil them as Water in a Pot, which either Boils over the Mouth of the Stomach, or Evaporates out in Sweat like Dew, or Draws Downward, like as in Showers of Rain; or they 
+
+[page 422]
+{: descrip}
+
+Melt Humors like Metall, or turn Humors like Wood into Ashes, or Calcine the Humor, where some Part is Fixed, other Parts are Volatile; as for Example, Rhabarb hath a double Faculty, some Humors it Expels out, others it Binds up; for Rhabarb is both Purging and Restringent, as it is to be observed in great Fluxes; for what it doth not Cast forth, it Confirms to a more Solid Substance, so as it doth Expulse and Contract at one time, as I may say, according as it finds the Humor it works with. Again, some Drugs move Several Expulsive ways, as by Vomit and Stool, where the Vomiting is Produced with Ascending Expulsions, Siege with Descending Expulsions, but the Descending Expulsions are of the Nature of Vitriol Fire, all that Expulses Ascendingly, is of the Nature of Sulphureous Fire; but the Generality of Druggs works like Bright-shining Fire, according to the Nature of the Matter it meets with, as I have formerly described.
+
+### CHAP. LX.
+{: #chap7-LX}
+
+*Of the Motion of Medicines.*
+
+As I have said in my former Chapter, that all Medicinal Druggs, or Simples, especially those that Purge, are of the Nature of Fire; for the Motions therein most commonly Work a-part, according to the Humor they meet with, as Fire doth, which in General is to Move so and  
+
+[page 423]
+{: descrip}
+
+so; yet the Natural motions in Druggs, and likewise in Fire, are Expulsive, and all that is Expulsive, is by Antipathetical nature, Striving to Destroy United parts, and all Contractive motions are by a Sympathetical nature, Striving to Unite by Imbracing or Drawing parts together; yet according to the Nature of the Body they Work in, the Contracting motions may be Antipathetical, and Expulsive motions may be Sympathetical, the one in Expelling the Superfluous and Corrupted humors, the other in Contracting them into a Disease, but most Diseases are Cured by Contrary motions; for if they be Diseases of Expulsions, they must be Cured by Contracting or Retentive medicines; if they be Diseases of Contractions, they must be Cured by Expulsive medicines, or else Dilatating or Attracting; for though the Motions of Attraction be Agreeable, or of the Nature of Contraction, that is, to Draw or Carry all to a Centre, the only Difference is, that Attraction makes it self the Centre, drawing all things to it, but Contractions make the Matter they Work on, part of the Centre with them; but all Attractions are Insinuating motions, Inviting and Drawing all toward Themselves, or like a Man that should Draw a Dish of Meat, or as if one should Suck a Breast or Udder, but Contracting motions are rather to Bind, or Knit up Parts together; but if the Diseases proceed from Dis-uniting motions, then Retentive medicines must be Applied, which are to Firm,
+
+[page 424]
+{: descrip}
+
+Hold, or Settle parts that are Loose [^7-10]Unsteddy; but if the Diseases proceed out of Disorder and Irregularity, they must be Cured by Digestive medicines, which is to put every Part in Order, and in its Proper place; Like wise Sates-men, that are neither Partial nor Malicious. But Readers, know, that though I say, all Diseases must be Cured by Contrary motions, yet the Motions that are in such Medicines, must Sympathize and Agree with the Constitution of the Body. Lastly, it is to be observed, that every Degree in the Disease must be followed with the same Degree in the Medicine, whether Swift or Slow, Strong or Weak, More or Less, that is, you must match your Medicines to the Disease; but all Purging medicines are Dilative or Expulsive; all Restringent medicines are Contractive and Retentive; all Drawing medicines are Attractive; all Restorative or Reviving medicines are Digestive; and those Contracting medicines that must Cure the Body, must Sympathize with the Natural Health, and Constitution of the Body, not with the Disease, for these Motions Draw, Gather, or at least Knit and Bind up the Sound parts from the Corrupted parts, lest they should Intermix; and Retentive remedies do not only Stay those Parts, that are apt to Dis-unite, but give Strength, and hold out the Assaulting motions in the Mistempered matter; and all Attractive medicines that Sympathize with the Natural Constitutions of the Body, Suck and Draw forth from the Corrupted
+
+[page 425]
+{: descrip}
+
+matter, the Pure, which is mixed or involved therein; but those Attractive and Drawing medicines, that are applied to Outward Sores, or the like, must have a Sympathy with the Malady or Putrefaction, for all Aversions do cast Outward, or From them, not draw To them. As for the Expulsive Remedies, they must carefully be applied, lest they should cast forth the Wrong Humor, by which the Malignant grows more Powerfull, or else they should carry out more Humor than the Strength of the Body will permit, or should be so Weak, or of such a Nature, only to Disturb and Unsettle, but not Carry forth, from which Disturbance great Inconveniences or Deadly quarrels in the Body may arise; Wherefore, these Medicines are more Dangerous than any other Sort, although no Medicine can be Safely applied, unless the Strength and Nature be answerable to the Constitution of the Body, or the Diseases in the Body, no not those we call Restorative or Reviving remedies, which work Digestively, such as Cordials, or the like, for when there is more Applied than will agree with the Constitution of the Body, or with the Temper, or Degree of the Disease, they turn from being Assisting Friends to Assaulting Enemies, for when they have more Force than Regular work, they put in Disorder those Regularities for want of Regular imployment; for it is against the Nature of Animate matter to Desist from Moving or Working, but it is not against Nature to Change
+
+[page 426]
+{: descrip}
+
+and Alter the Motions. The several Degrees and Natures of Druggs of every particular Durgg and Simple, I leave my Readers to Learn from the Herbal, where perchance some of it may be Discoursed of Rightly or Effectually, howsoever it is too Laborious a Study or Practice for me.
+
+### CHAP. LXI.
+{: #chap7-LXI}
+
+*Of Purging.*
+
+All Purging Druggs have more of the Penetrating and Subdividing motions and qualities or proprieties, than of the Attractive motions or proprieties; for it is not the Drawing together of several Humors, that Purgeth the Body, but the Dividing and Loosening the Humors, and then by Expulsive motions Driving all out of the Body; for all Purging and Evacuating Drugs or Medicines work according to the Matter and Motions they Incounter with in the Body of the Animal; but such Medicines, which we name Cordials, work more Sympathetically, for though the Motions in the Matter or Substance of Cordials, work Antipathetically with the Irregular motions and Mistempered matter in the Body, and indeavour to Expell that Mistempered matter, or to Regulate the Irregular motions, yet they work Sympathetically with the Natural and Well-ordered matter and motions, so that Cordials indeavour
+
+[page 427]
+{: descrip}
+
+to Compose, Unite, and Strengthen the several Disordered, Dissevered, and Weakned parts; and Purging Drugs indeavour to Divide and Dissolve all those Loose humors they meet with, and many times those that are Firm, Strong, and Well-tempered parts, Discomposing the whole Body, insomuch as Physicians are many times forced to give Cordials in great Evacuations, to Rectifie the Distempers, and to allay the Violent motions that the Purging Drugs have Made or Caused; and this is to be observed, that many times there be such Humors bred in the Animal body, as to be of the Nature of Purging Drugs or Medicines, which causes Fluxes, and Vomitings, and other Evacuations, and some so Violent, as to Dissolve the Nature and Life of the Body.
+
+### CHAP. LXII.
+{: #chap7-LXII}
+
+*The Reason why one and the same Quantity of Purging Physick shall Purge some Bodies to Death, and not Move other Bodies, or at least not to that Degree.*
+
+The reason one and the same Quantity of Purging Drugs or Medicines of one and same Quality works so Differently in Several Bodies, and in one and the Same Body at Several times, is, that the Solidity, and Validity, and Facility of the Humors, as also the Quantity of Humors, in some are more than in others, and at
+
+[page 428]
+{: descrip}
+
+some time more than other times; but the Humors of the Body, although there be but Four, yet by their several Tempers and several Interchanging motions work Divers Effects; but I will Similize the several Humors to several Grounds or Travelling ways, and Drugs to Oxen and Horses; For Ways, some are Dusty and Dry, others Stony and Hard, some Tough and Clammy as Clay, some Muddy, Miry, or Dirty, others Watery and Wet, which causes Labourers to Yoke more Oxen, or Harness more Horses, to add more Strength, not onely when their Draughts are Heavily Loaden, but when the Ways are Ill and Uneasie to Travel in; for in some Ways ten Horses will not Draw so easily as one Horse in other Ways, nor in the same Ways in Foul weather as in Fair weather, or in Winter as in Summer, but the Labourers are forced to Whip and Lash their Beasts to make them Draw: So in Animal bodies is Physick, which Pulls and Gripes the Guts, to Divide the Clammy Flegm, whereas in Sanguin bodies the Humors being Light, the Physick moves Fast, and the Humors flow Easily, but in Dry Melancholy Bodies the Humor is so Hard, as the Physick is Foundred, like as Horses on Stony ways which make them Weak and Tired; but in Cholerick bodies, the Humor is like Dust that Flies about. But there must be several Sorts of Physick given to several Constitutions, and several Sorts of Physick to one and the Same body at several Times, as Occasion 
+
+[page 429]
+{: descrip}
+
+serves, like as Husbandmen Sow several Sorts of Grains in several Grounds, and in the same Ground several Sorts of Grains at several Times; also they Sow their Grains several Manners of Ways, and Order their Grounds several Ways: the like for Humors, some must be Digg'd up with Penetrating Medicines, other Humors Plow'd up with Fomenting Medicines, others Harrowed with Extenuating Medicines, others Raked with Drawing and Attractive Medicines, and some must be Watered with Solvable and Soaking Medicines, and all Bodies must be Manured with Nourishing Meat, as Food. Thus Men's Bodies must be Husbanded according to the Nature and Constitution of the Soil, which is the Body.
+
+### CHAP. LXIII.
+{: #chap7-LXIII}
+
+*Of the Agreeing and Disagreeing of Food, as also of Physick and Cordials.*
+
+When as Food is taken into the Body, wherein is Agreeable Matter and Motions, it doth help to Increase and Assist the Matter and Motions in the Body, helping to the Consistence of the Body, as also for the Use of the Body, by which Food the Mind, or the Rational part, is also Increas'd; So other sorts of Food do cause a Disturbance, and many times a Destruction, for all the Several Parts and Degrees of Matter, and Changes of Motions do
+
+[page 430]
+{: descrip}
+
+not Agree, although in one and the same Body, insomuch as when Disagreeing matter and motions enter into the Body through the Senses, or are made in the Body by Irregularities, it causes great Distempers both in Mind and Body; but some Food, or Substance, or Objects enter in, or are taken into the Body, that help to Rectifie the Inbred Disorders, as Cordials and Medicines, whereas some Objects, Food, or Cordial Medicines help more the Body than the Mind, and some more the Mind than the Body, according as they Sympathize and Agree, either in Substance or in Motion; but all Liquid or Rare Substances work more Suddenly than the Dense, and work more upon the Mind than the Body; the reason is, that all Motions, both Sensitive and Rational, are more Agil in Liquid or Rare Substance or Matter, then in Densed, being more near the Nature of Animate matter, then Densed matter is; and as Medicines and Food taken, help both the Body and Mind, as also some so Distemper both the Body and Mind; So do Outward Objects, as several Sights, Sounds and Touches, insomuch as they will many times Cure a Disease, but more often Cause a Disease, also they will Compose a Distracted mind, and many times Distract a Composed mind.
+
+[page 431]
+{: descrip}
+
+### CHAP. LXIV.
+{: #chap7-LXIV}
+
+*Of the Agreeing and Disagreeing of Humors, Senses, and Passions.*
+
+Sometimes the Humors of the Body and the Outward Senses Agree and Disagree; sometimes the Humors of the Body and the Passions of the Mind Agree or Disagree; sometimes the Passions of the Mind and the Outward Senses Agree or Disagree; and sometimes the Senses and the Passions Disagree or Agree with the Humors of the Body; as for Example, sometimes the Distempered humors in the Body make Extravagancy in the Senses, as we see in Feavers; and sometimes the Distempered humors of the Body make a Disordered Mind, as we see those that have Cholerick humors, Cholerick passions; Melancholy humors, Melancholy passions; Distempered humors, Extravagant Imaginations, and the like. Sometimes Extravagant Senses make Extravagant Fancies, sometimes a Superabundant humor makes a Strong Particular Appetite, as for example, those in the Green-sickness, the Over-flowing or Increase of some Raw and Indigested humor will cause a Strong Particular Appetite, as some in that Disease love to Smell Strong smells, as Campher, Tanned Leather, Musty Bottles, or the like, or to Delight onely in one Taste, as Oat-meal, Coals, or Several Particular
+
+[page 432]
+{: descrip}
+
+Tastes, or Extravagant Tastes not Natural to the Constitution of the Body, as to delight to Eat Coals, Leather, Candles, Cork, and millions of the like; and the Humor Increases, and is Nourished, by the Sympathy of that Extravagant Diet; for what the Senses take Pleasure in, the Mind Longs for. Again, some Humors Antipathize, as to Hate all Loathsome Tastes, Smells, Noises, Touches, and Objects. So Passions Sympathize with some Humors, and Disagree with others; for some Bitter humors make Cholerick passions, Sharp humors make Spitefull passions, Tough humors make a Dull understanding, Melancholy humors make Timorosity, Cholerick humors make Courage, and many the like; then the Senses and the Mind Agree and Disagree often, as some Objects will Astonish the Senses, and Ravish the Mind, Delight the Senses, and cause Love in the Mind; others which the Senses Dislike, cause Hate in the Mind, Pain in the Senses, Grieving in the Mind, Pleasure in the Senses, Delight in the Mind; but if the Senses and Mind disagree, then the Senses Like that, the Mind hates; as for Example, the Sense is taking Pleasure upon an Object, which for the Cross disposition, the Mind Hates, or for some Injury done, or by some Neglect, or out of Envy; and as they Sympathize and Antipathize in their Working and Making, so in Explusions, Time works out a Passion, Accidents work out Passion, Evacuations work out Passion, the like in the Senses,
+
+[page 433]
+{: descrip}
+
+so many times Humors are Explused by Passions, as as the Superfluities are Purged out of the Body, after the same manner are Violent Passions from the Mind, for as the Body Purges by Siege, by Vomit, by Urine, by Spitting, by Sweating, by Bleeding, by Incisions, and the like, so strong Passions are Purged by Weeping, by Sighing, Groaning, Speaking, and Acting; but if the Increasing motions of the Humors in the Body, and the Passions in the Mind, be as Many, and as Strong as the Explusive motions, then there is a Continuance of the same Humor or Passion, for whatsoever is Cast forth, or Wasted, is Bred again.
+
+### CHAP. LXV.
+{: #chap7-LXV}
+
+*Of Outward Objects Disagreeing with the Natural Motions and Humors in the Body.*
+
+Inward Commotions of the Body are often times caused by Outward Objects, as when the Senses take a delight in some kind of Sound, Sent, Sight, Taste, and Touch; as for Example, some will Swoon at a Fearfull noise, that is, at a Sudden or Unaccustomed or Tumultuous noise; others will Swoon at the Sight of Blood, or at any Cruel object, at the Sight of a Cat, or many other Creatures; some will Swoon at Sweet Smells; others, if they should Taste Cheese, or any Meat they dislike Naturally; and 
+
+[page 434]
+{: descrip}
+
+some will not only Swoon, but Dye Laughing with Tickling; the reason is, that the Exterior motion Antipathizes with the Natural motion belonging to the Body, sometimes only to the Sensitive parts, sometimes to the Rational part, sometimes to both. The reason is, that the Disordered motions of the Outward senses Disorder the Interior motions, which makes the Body Sick, and the Mind Passionate, and sometimes the Brain Frantick; and if they make not the Body Sick, nor the Brain Mad, yet those Antipathetical, and these Disordered motions never Fail to put the Sense to Pain, or move Passion; but when these Antipathetical motions be too Strong for the Natural motions, belonging to the Body or Mind, it brings Death or Unrecoverable Madness; for then the Natural motions, belonging to that Body, are as it were Extinguished; Thus we may see, that the Outward senses may be Perfect, and the Inward parts within that Body may be Corrupt and Decayed: So likewise the Outward senses may be Infected, and the Inward parts Sound, and so some Parts of the Body Firm, and others Infirm, and some of the Outward parts or Senses Wanting, or Defective, others Free, Clear, and Distinguishing. The reason is, that some of the Sensitive Animate matter works Orderly, others Disorderly, and contrary to the Nature of the Body; for as I have said before, some of the Exterior parts of the Body may be Numb'd or Dead; the reason is, that the Natural
+
+[page 435]
+{: descrip}
+
+motions, belonging to such a Part of the Body, are Altered, for every Part or Parcel hath Proper motions belonging thereunto. But if in any Part of the Body the Natural motions onely work Irregularly, then it onely causeth a Pain in that Part; but if the Motions work Cross to the Nature of the Body, it causeth that Part to Die; but it they Alter but in Part, is causes onely a Numness, which is a degree of being Dead, but if the Natural motions be onely Stopt by some Outward Accident or Actions, as by a Sudden Fright, which causes the Body to Swoon, by reason the Spirits are Contracted by the Fright into so Straight a Compass, and Thronged so Close together, that they cannot Move in Order, or by the Action of Lying or Pressing too Hard or too Heavy upon any Part, that Hinders the Spirits therein from Moving after there Natural manner, which causeth a Sleepiness or Numness in those Parts, that are Prest by Weight or Strength; those Disorders are soon to be Rectified, as by giving Liberty, or helping the Spirits with Cordials, which gives Strength to them, and set them at Liberty; but if the Sensitive parts be quite Altered from their Natural course, they seldome are Rectifi'd; but sometimes the Assistance of the Regular motions in the Body joyning as it were with one Consent, do Expel that Animate matter out of that part wherein they work, contrary to the Nature of the Body, and Supplies that Part with Fresh and New matter, that 
+
+[page 436]
+{: descrip}
+
+Moves as it should do. Likewise as the Sensitive Animate matter Works in some Parts of the Body Irregularly, and in other Parts Regularly, and in one and the Same Part sometimes Regularly and sometimes Irregularly, so it is many times with the Rational Animate matter, for sometimes that will Move Regularly, and sometimes Irregularly, that makes Frantick-men sometimes to be In their Wits, and sometimes Out of their Wits; but if their Madness be at certain times, as at Full of the Moon, or High Tides, or Springs, or Falls, or in the Midst of the Summer; or when they keep an Evil or too Full a Diet, then it proceeds from those Outward accidents, which give Assistance to the Disordered motions, which Inhabit in the Body, the Original defect being in the Sensitive Animate matter; for this shews, that the Madness proceeds from some Distemper of the Body, which most commonly is in the Splene, or that which they call in Women the Mother, from which Parts arise Gross and Noisome Vapors, which Ascend up into the Head, and Disaffect the Brain, and many times the Brain is Disaffected with its owns Distempers, and whensoever the Brain is Distempered, the Rational Animate matter which moves therein, moves Irregularly; but when those Times or Seasons are past, or that Over-fulness of Humor is Purged out, the Natural motions of Humor get Strength, and the Man is Well until the Return thereof. But if the Irregularity be
+
+[page 437]
+{: descrip}
+
+in the Rational Animate matter, it is most Dangerous, for it seldom or never is Cured, nor seldom hath Intermitting Fits, but as a Continual Feaver in the Body, so is a Continual Madness in the Mind. But I shall speak more of this in my following Chapters.
+
+### CHAP. LXVI.
+{: #chap7-LXVI}
+
+*Of the Inward and Outward Senses, and Parts of the Body.*
+
+Some of the Exterior Senses may be Extinguished, as Sight, Hearing, Sent, or Taste, or some Parts of the Body Numb or Dead, or some Disjointed from the rest, as Legs, or Arms, Toes, Brest, Eyes, Nose, or the like, and yet the Material parts Sound and Whole, which Material parts are the Vital parts, as the Brain, the Heart, the Liver, the Lights, the Splene, the Maw, the Midriff, the Kidneys, the Bladder, or the like; as for the Heart, and the Brain, there is such a Sympathising and Conjunction with the whole Body, as the least Distemper with the whole Body, as the least Distemper Indangers the Body, and the least Alteration of their Shapes or Figures Destroys the Life of the Body, but for the rest of those Vitals, or Fundamental parts, when they Decay, or are any way Impaired, the Life doth sink down, as it were by Degrees, according as those Parts Impair; but if they be Wounded, or Corrupted by Poisons, or Plaguy Infections, or 
+
+[page 438]
+{: descrip}
+
+by an Absolute and Sudden Alteration from their Natural motions or Figures, then the Life is suddenly Extinguished, but the External figures of the rest of the Parts have not such a Sympathy to the Interior motions of the whole Figure; but when I say, the Exterior figure of the Interior parts, I mean, the Particular figure of every Particular part, not onely the Outward part, as Hands, and Arms, Legs, and Head, and Body, and the like, but of Brain, and Heart, and Liver, and so all the rest; for though they be Internal figures to the External figures, yet they be the External figures to the Internal motion that works in them.
+
+### CHAP. LXVII.
+{: #chap7-LXVII}
+
+*The Sympathies and Antipathies of Sound to the Mind and Actions.*
+
+The Bottom hole in the Ear is covered with a Thin Cawl or Felm, which is called the Drum of the Ear, where these Motions that Enter in at the Ear, Beat thereon, like unto Drum-sticks, and if the Felm, or Thin Skin, be Stretched Smooth, or Braced Straight with the Nervous Strings, the Sound is Clear and Loud, but if it be Weakly Braced, and the Nervous Strings Loose, and the Thin Skin Slack, the Sound is Low and Dull, by reason that Skin is so Soft by the Slackness, that the Bearing, or Striking, or Playing motion thereon 
+
+[page 439]
+{: descrip}
+
+cannot Rebound or Retort, but Sinks, and is Smothered therein; and if it be Stretched very Hard and Thin, then such Motions enter the Ear, which Peirce or Cut sharp, such as we call Shril Sounds, it doth not only Disturb the Natural motion in the Brain, but many times Breaks that Skin, or at least puts it to Pain; Likewise, if those Motions, that Enter in at the Ear, move Cross to the Natural motions in the Brain, it causeth Pain in the Head; Likewise, if the same Notes are often Repeated, it Fills the Head so full of this Particular motion, as they Over-power the Natural motions therein, and as I may say, causeth a Surfeit thereof in the Brain, being Glutted therewith, Tyring not only the Sensitive part of the Brain, which causes Pain or Diseases, but Oppressing the Rational part of Animate matter in the Brain, causing a Hate thereto; and if the Vocal or Verbal Sound is Crossed, as by the way of Antipathy, it may Disorder both the Sensitive and Rational Animate matter in the Brain, so much, by Striking or Pressing in, and by Barring and Thronging out, as the Sense and Reason are so Disordered, that the Natural Government is absolutely Overthrown, from whence proceeds Madness, at least Extravagant Passions raised from the Heart; the like Disorder both in the Head and Heart, may proceed from each of the Senses; and as these or the like External Objects may Disorder by the Irregular and Antipathetical motions, the Health and Understanding, which
+
+[page 440]
+{: descrip}
+
+are the Interior motions, so Regularity and Sympathy of the Verbal or Vocal motions brought through the Ear, may Compose the Differences and Disorder of the Natural Interior motions, as Health, Reason, Understanding, Affection, or Reconcilement; as for Example, a Timely, Kind, Discreet discourse may Compose a Disquiet mind; for the Motions of Wise, Sober, Kind, Gentle or Eloquent words may turn the Motion of Troubled or Extravagant thoughts into a Smooth and Calm temper, or Regular order; Likewise Unkind, and Indiscreet, Double, False, Malicious, Hasty, Sudden, Sad, or Frightfull discourses, may Discompose and Disorder a Quiet and Well-tempered mind, Disordering the Regular motions, by Mis-placing the Thoughts, making a War in the Mind, giving Strength to some Thoughts, and Overpowering others: The like with Vocal Sounds. As for Musick, the Notes in Musick agree with the Motions of Passions, and the Motions of several Thoughts, as some Notes Sympathize with Passions, and with the several Thoughts, and Move the Actions accordingly, so others Discompose the Mind, and Imbitter, and Disturb it; for Slow, Soft strains on the Tenor and Bass, are as Commending, Extolling, Exciting, Threatning, Terrifying, Judging, which moves the Mind to Melancholy, from whence proceeds Fear, Superstition, Devotion, Repenting, Praying, and Vowing, which causes an Humble Submission, Dejected Countenance, 
+
+[page 441]
+{: descrip}
+
+Weeping Eyes, Heaved up Hands, and Bended Knees: and Slow Soft Notes, only on the Tenors, are a Sad Relation, Sorrowfull Laments, Mournfull Complaints, Pleadings, Petitioning, Acknowledging Faults, Begging Pardon, Imploring Mercy, which moves the Mind to a Tender Pity and Compassion, and a Charitable Love, from whence proceeds a Listning Ear, a Helping Hand, a Serious Countenance, a Sad Eye, with a Favouring Cast therefrom. High, Hard, Sharp Notes or Strains on the Bass or Tenor, is like Exclaming, Incouraging, or Animating, Extolling, Promising, which moves the Mind to Pride, Ambition, Vain-glory, Desire, Hope, which makes the Body Active, the Actions Adventurous, Bold, the Eyes Darting and Quick. Low, Sharp Strains, and Cross Notes, and Unequal Times, move the Mind to Murmuring Words, Choler, Hate, Revenge, Fury, Despair, and Cursing, the Hands Tearing, the Leggs Stamping, their Bodies Turning several ways, their Countenance Amazed and Gastly, and the Eyes Staring. But Quick, Sharp Strains in Tenor Notes, and Soft Slow Strains in Tenor Notes, are as Perswading, Flattering, Insinuating, Professing, Inviting, Alluring; this moves the Mind to Love, the Thoughts to be Amorous; this makes their Actions Affective, Kissing their Hands, Making of Leggs, Composing their Garments, Offering their Service, their Words Complemental, their Countenance Smiling, and their Eyes Glancing: and Quick, 
+
+[page 442]
+{: descrip}
+
+Sharp Strains on the Tenor and Treble Notes, produce a Cheerfull Mind, they make the Thoughts Lively, and the Countenance Pleasant, their Eyes Quick, their Discourse Wanton and Jesting, their Actions Laughing, Singing, Playing, and Dancing. But Slow, Low, Flats on the Basses and Tenor, move the Mind to a Dull Stupidity, wherein the Thoughts lie as Dead; this makes the Body appear like Senseless Statues of Stone without Motion, the Head bending Down, the Eyes fix'd to the Ground. But Chromatick Musick is like School Disputation, and Discord in Musick is like Quarrelling. These are the Grounds of Musick. Musick hath a Sympathy to the Rational motions, because the Rational Spirits move in Number and Measure, as Musical Instruments do. Thus as Notes are Set, the Thoughts are Placed, and as the Notes Change in several Tunes, so the Thoughts Move in several Passions, and as Notes are Composed, so are Thoughts, in Crochets, Quavers, Semibriefs, &c. a Full Note is a Fixed Thought. Thus according as the Notes and Thoughts Agree, the Mind and Musick makes a Harmony. If I have not matched my Strains and Notes, with Words and Thoughts properly, let those that Understand Musick and Rhetorick mend it, for I Understand neither, having neither Fed at the Full Table, nor Drunk at the Full Head of Learning, but Lived always upon Scattered Crums, which I Pick up Here and There, and like a Poor Lasie Beggar, that
+
+[page 443]
+{: descrip}
+
+had rather Feed on Scraps, than Work or be Industrious to get Wealth, so I had rather Write by Guess, than take the pains to Learn every Nice Distinction. And if my Book will not Please the Learned, yet it may Please the Vulgar, whose Capacity can onely Dig in the Earth, being not able to Reach the Celestial Orbs by Speculation.
+
+### CHAP. LXVIII.
+{: #chap7-LXVIII}
+
+*The Knowledge of Diseases.*
+
+It is not sufficient for Physicians to Study the Names of Diseases, and to know onely so much, as to Distinguish one Kind of Disease from another, as we should Distinguish Man from Beast, or so as a Horse from a Cow, or as that Horse is a Barb, or a Courser, or a Gennet, or a Turk, or an Arabian; but that this Barb is not that Barb, or this Gennet is not that Gennet, and the like. Likewise to know the Nature so, as to know how to Use it, and what's fit to Apply to it; as for Example, a Man buies a Horse, and he having onely an Old Saddle, that he was accustomed to Ride with on a Horse he formerly had, puts it on his New Horses back, yet although his Horse is of the same Country, or Sort of Horses, as his former Horse was, yet the Saddle may not be Fit for the New Horse, but may be either too Big or too Little, and by the Unfitness may Gall his Horse so sore, and 
+
+[page 444]
+{: descrip}
+
+Corrupt the Flesh so much, as he may be a Scald back'd Jade, as long as he lives, if it Festers not as to kill him; So in Diseases, Medicines may be too Strong or too Weak, or they may Evacuate too Much or too Little, if they do not know the just Dimension and Extension of the Disease. Again, one of the same Sort of Horses may be so Dull, as hardly to move out of his Pace with the Spur, although it should Prick so Deep, as to make his Sides to Bleed, when another Horse of the same Sort shall Run over Hedge and Ditch, against Trees and Stones, until he Hurt himself, and Fling his Rider, or as least it Flings, and Leaps, and Snorts, and Stamps, and grows into a Furious heat; So Diseases, some must be Handled Gently, others more Roughly, for in Diseases you must learn the Disposition of the Disease, as of what Kind, Sort, or Breed it is. So likewise it is not enough for a Physician to Know what Drugs will Purge Choler, what Flegm, and what Melancholy, or the like, but they should Study to know the several Motions, which work in them, or else their Operations will be as their Imployments are, which is Chance-medly; for otherwise a Physician neither Applies his Medicines Knowingly nor Skilfully, but Customarily, because they are usually given in such Diseases, whereof some do Mend, others do Die with them; but certainly, if Physicians would take Pains to Study the several Motions of the Diseases, and also the Drugs and
+
+[page 445]
+{: descrip}
+
+Medicines they give, and would do as Skilful Musicians, which make a Consort, where, although every one Plays upon a Several Instrument, yet they all make their Notes Agree, there would follow an Harmony of Health in the Body, as well as a Harmony of Musick in these Consorts. But, as I said before, it is not sufficient to know, how to Purge Choler, Flegm, Melancholy, and the like, for the Purging of those Humors doth not always work Cures; for some Diseases do not always proceed so much from the Loose Humors in the Body, as the Disordered motions in the Body; for Choler, Flegm, Melancholy are not Superfluous humors of the Body, unless the Quantity of Each be too Much for the Nature of the Body, for those Humors are part of the Body, and the Body could not Subsist without them, for they are several Mixtures, which serve to the Consistence of the Figure, and as some Motions Make and Mix such Humors, so other Motions carry the Humors like Tempered matter, or Lime, to the Creations or Reparations of the Figure, which is the Body, and if there were none of those Humors, the Figure would no more Stand if once a Decaying, than a House, which runs to Ruine for want of Stone, Brick, Wood, or Mortar, or the like; besides, if there were not Flem, Choler would do like a Coach-Wheel for want of Moisture, the Motions would set the Body on Fire, and if no Choler, the Flegm would Drown it, and if neither
+
+[page 446]
+{: descrip}
+
+Flegm nor Cholar, Muddy Melancholy would Dam or Stop it up. But Physicians should Study Diseases so, as they may be able to Distinguish them, as we do the Different Faces of Mankind, or any other; for there are as many Several Kinds of Diseases as there are Animals, and as much Difference in one and the same Kind, as there are in the Several Shapes, and Countenances in Bodies, and Dispositions in Minds; besides, Diseases are like Parents and Children, and the Children may Resemble the Parents, or the Children of the same Parents may Resemble one another, and yet they are not all one; Again, Diseases may be like Half-brothers or Sisters, as some may have all one Mother, but not one Father; so some Diseases may be produced partly from such a Cause, and partly from another. Again Diseases may be Match'd, and some be like Widows, and Widows that marry again, so Diseases may be Loose, or be quit of such a Producing Cause, and Joyn with Another; as for Example, a Cold Stomach is a Disease, and a Hot Liver is a Disease, and both may Produce other Diseases, perchance the Cold Stomach may be Cured, but not the Hot Liver, when the Cold Stomach is Cured, the Hot Liver is a Widow, which afterwards may change to Match with a Cold Melancholy Splene, or two or three, or more Diseases may be Match'd together, as if a Man should have two or three Wives, or a Woman as many Husbands; likewise, Several Accidents 
+
+[page 447]
+{: descrip}
+
+may be Matched, or at lease Commit Adultery, and get Bastardly Children; as for Example, a Great Heat may be Matched or Joyned with a Sudden Cold, which may produce a Great Feaver, or other Diseases that usually Follow, and millions of the like Examples may be given. But, I desire my Readers, that they may not Condemn my Comparisons, as Extravagant and too Fantastical for so Grave a Subject, for I could find no Fitter to Express my Meaning; I would have Physicians as Skillful, Knowing, and Learned in Diseases, as they are in the Customs, Manners, Humors and Persons of Men; and that they may and Knowingly distinguish the Difference, Alterations, Degrees and Alliances of Diseases, as they do the several Sexes, Faces, Countenances, Dispositions and Qualities of Men. Besides, who knows but that the very Thoughts of Men may be known by the Temper of their Bodies? for could Men come but to Learn the several Motions of the Body, which Ingenious Observations may come to do, they may easily come to Learn the Motions of the Mind, and so come to Know the Thoughts, which Thoughts are the several Figures therein, which Figures most commonly move Sympathetically with the Motions of the Body.
+
+[page 448]
+{: descrip}
+
+### CHAP. LXIX.
+{: #chap7-LXIX}
+
+*Of Diseases in General*
+
+AS for Diseases, they are Innumerous, and so Various, as no Diseases are just Alike, but there is some Difference; for though the several Sorts of Diseases are of One and the same Kind, yet every Particular hath some little Difference; So that Particular Diseased Persons, although they are Diseased with one and the same Kind or Sort of Disease, yet the same Kind or Sort of Diseases moves not just Alike in several Bodies, like as Madness, although a Bedlam be Full of those Distempered men, which are named Mad men, all having one Distemper of Madness, yet they are not all Mad after One manner or way, neither is their Degree of Madness Equal; The like for all Diseases of the Body. Also it is to be observed, that many several Diseases may be produced from Divers Causes, so many several Diseases may be produced from One Cause, and but One Disease from One Cause; Also One and the same Kind or Sort of a Disease, may proceed from the Several and Different parts of the Body, as from the Stomach, Lungs, Liver, Splene, Head and Heart; also One and the same Kind or Sort of Diseases, may be produced from the Several and Different humors  in the Body, as from Flegm, Choler, Melancholy, or Blood; also Exterior
+
+[page 449]
+{: descrip}
+
+Distempers may cause Interior distempers; thus Particular Diseases may be Variously Produced, and Various or Several Diseases Particularly Produced; also Outward distempers may Joyn with Inward Distempers. But all Cold diseases are more easily Cured than Hot, if there be Timely Remedies Applied to them, before such time they be Crystallined, that is very Hard, Densed or Congeal'd; but most Cold diseases, which are made by Cold motions, make the Several Parts of the Body, or Several Humors in the Body, like as when Frost that alters the Outward Form of Raw Flesh, or Rare, or Liquid Substances, which doth not alter them so, as to Change the Inward Nature, but onely from the Outward Form or Appearance; but all Cold diseases are made either by Cold contractions, or Cold dilatations; as for Cold contractions, they cause those Parts of the Body, or Humors in the Body, to be as if they were Frozen or Congealed like Ice, which causes those Parts or Humors to be more Dense than Naturally they should be, which causes the Body to be Numb and Unactive, and Cold dilatations cause those Parts and Humors in the Body to be more Rare and Loose than by Nature they should be, which causes the Body to be Weak, wanting that Consistence that should give it Strength; But in those Diseases Hot Remedies Cure them; but in Hot Diseases, those Parts of the Body, or Humors in the Body that have Supernatural Hot motions,
+
+[page 450]
+{: descrip}
+
+cause the Parts of the Body to be as Burnt, Scorch'd, or Dri'd, and the Humor to be more Agil, and Sharp, and Stormy, like a Tempest at Sea; but it is more facil to Thaw a Piece of Ice, than to Quench a House on Fire: So it is more facil to Cure Cold diseases, that are not Crystallin'd, than Hot diseases, that Burn. But, to conclude this Chapter, Diseases are made by all sorts of Irregular motions and Distempered matter, and some caused by Exterior Distempers and Irregularities, and some by Interior, and some by both.
+
+### CHAP. LXX.
+{: #chap7-LXX}
+
+*The Reason why Animals are Hot, whilst they Live, and Cold when Dead.*
+
+The Exterior and Interior Heat of some Living Animals is as Proper to the Nature of their Figure, as an Interior and Exterior Cold is to Fresh Water, or Quick-silver, or some Sorts of Plants, as Poppy, Night-shade, and many others; But when the Animal is Changed from being an Animal, as by that, we call Death, those Properties of Natural heat, made by such Motions and Matter as make an Animal, are Altered, by Moving and Working to some other Figure, that is not an Animal, so as that which is named Natural heat, is Changed with those Natural motions, Properly belonging to an Animal figure, for the Animal 
+
+[page 451]
+{: descrip}
+
+figure and Animal heat do alter together. This is the reason, that when an Animal is that, which we name Dead, it seems to our Senses to be Stiff, Cold, and Pale, like Earth, Stone, or the like; but when the Animal body is Dissolved, it seemeth to our Senses both of another Colour, Touch, and Form. But this is to be observed, that all Living Animals have not Exterior nor Interior heat in the like Degree, for some Sorts of Animals, as Fish, have neither such Interior nor Exterior heat as Flesh Animals have, for a Fish is Exteriously cold, and hath very little Interior heat, and a Camelion is extremely Cold, both Interiously and Exteriously, and many other Creatures may serve for Examples. Likewise some Vegetables are so extremely Cold, both Exteriously and Interiously, as they will not Thrive in the Sun, as that, we call Night-shade. Wherefore, it is not Heat, that is the only Cause of Life, Health, or Nourishment, nor the want of that Heat, that causeth Dissolutions, which we call Decay, and Death, but the Animate matter working such or such Effects, and making several Creatures, with several Constitutions, Temperaments, Nourishment, Consistence, Decays, and Dissolutions.
+
+[page 452]
+{: descrip}
+
+### CHAP. LXXI.
+{: #chap7-LXXI}
+
+*A Conclusion of this Part, of Diseases.*
+
+There are amongst Animal Creatures, Diseases of Divers Kinds, and Divers Sorts, and Differences in one and the Same Sort, and some Curable, and some Incurable; but if any of the Vital parts be Perished, there is no Remedy, for there is not any Means or Ways, as Medicine, Cordials, Diets, Evacuations or Restoratives, that can make those Parts, that are Decayed or Perished, Perfect or Sound again, for Nature her Self cannot Do or Effect it without a New Creation.
+
+### CHAP. LXXII.
+{: #chap7-LXXII}
+
+*The Deitical Centre.*
+
+Although Infinite matter and motion was from all Eternity, yet that Infinite Moving matter is Disposed by an Infinite Deity, which hath Power to Order that Moving matter, as that Deity pleaseth, by reason there is nothing Greater than it Self, therefore there is nothing that can Oppose its Will. Likewise, this Deity is as the Centre of Infinite Moving matter, for though there can be no Centre in Infinite, by reason there is no Circumference, yet in respect 
+
+[page 453]
+{: descrip}
+
+the Matter is Infinite every Way from and to this Deity, we may say the Deity is the Centre of Infinite matter, and by reason the Infinite Moving matter Flows as much To this Deitical Centre, as From it, it doth as it were Present it Self, or rather is Forced to be Ordered by its Infinite Wisdome, otherwise it would Run into an Infinite Confusion, with which there would be an Infinite, Horrid, and Eternal War in Nature; and though this Deity is as the Centre to Infinite matter, yet this Deity in it Self is as Infinite matter, for its Wisdome is as Infinite as Matter, and its Knowledge as Infinite as its Wisdome, and its Power as Infinite as both, and the Effects of these Attributes run with Infinite matter like Infinite Parallel Lines, Even and Straight, not Crossing nor Obstructing, nor can they Circumference or Circle in each other, the Matter and the Deity being both Infinite; neither is the Matter or Deity Finite to or in themselves, for Infinite matter hath no End or Period; neither can the Infinite Deity Comprehend it Self, so as it is a God to it Self, as Well or as Much, as to Matter, for this Deity is no ways Finite, neither to it Self nor Matter, its Knowledge being as infinite as its Power, and its Wisdome as infinite as its Knowledge, and its Power as Infinite as both, and being Infinite, its Wisdome cannot be above its Power, nor its Power beyond its Wisdome, neither can its Knowledge Comprehend its Power, or the ways of its Wisdome, being all
+
+[page 454]
+{: descrip}
+
+Infinite and Eternal. And though Nature is Infinite Matter, Motion and Figure, Creating all things out of it Self, for of Matter they are Made, and by Motion they are Formed into several and particular Figures, yet this Deity Orders and Disposes of all Nature's Works.
+
+Great God, from Thee all Infinites do Flow,
+And by thy Power from thence Effects do Grow;
+Thou Order'st all Degrees of Matter, just
+As 'tis thy Will and Pleasure, Move it must,
+And by thy Knowledge Order'st all for th' best,
+And in thy Knowledge doth thy Wisdom rest;
+And Wisdom cannot Order things amiss,
+For where Disorder, there no Wisdom is.
+Besides, Great God, thy Will is just, for why?
+Thy Will still on thy Wisdom doth rely.
+O Pardon, Lord, for what I now here Speak
+Upon a Guess, my Knowledge is but Weak:
+But thou hast made such Creatures as Mankind,
+And Gav'st them something, which we call a Mind,
+Always in Motion, it ne'r Quiet lies,
+Untill the Figure of his Body dies;
+His sev'ral Thoughts, which sev'ral Motions are,
+Do Raise up Love, Hope, Joys, and Doubts and Fear;
+As Love doth Raise up Hope, so Fear doth Doubt,
+Which makes him seek, to find the Great God out.
+
+[page 455]
+{: descrip}
+
+Self-love doth make him Seek to find, if he
+Came from, or shall Last to Eternity;
+But Motion being Slow, makes Knowledge Weak,
+And then his Thoughts 'gainst Ignorance do beat,
+As Fluid Waters 'gainst Hard Rocks do Flow,
+Break their Soft Streams, and so they Backward go:
+Just so do Thoughts, and then they Backward Slide,
+Unto the Place, where first they did Abide,
+And there in gentle Murmurs do Complain,
+That all their Care and Labour is in Vain:
+But since none Knows the Great Creator, must
+Man seek no more, but in his Greatness Trust.
+
+[page 456]
+{: descrip}
+
+----
+
+[Backmatter]
+{: descrip id="to-my-just-readers"}
+
+### To my Just 
+# READERS.
+
+I desire all those, that are Friends to my Book, if not to my Book, for Justice sake, to believe, that whatsoever is New, is my Own, which I hope All is; for I had never any Guide to Direct me, nor Intelligence from any Authors, to Advertise me, but Writ according to my own Natural Cogitations, where, if any do Write after the same Manner, in what Language soever, that they will Remember my Work is the Original of their Discourse; but they that Steal out my Opinions, or Compare them to Old Opinions, that are nothing alike, as if one should Liken two Men, that had neither Semblance in Features, Countenance, Proportion, nor Complexion, because they are Two Men, as being of Mankind, surely they might be Judged to be Fools; But may all such be condemned as False, Malitious, Ridiculous, or Mad. But to such Noble Dispositions, as will Give Right, and Speak Truth, may they never Receive Injury, may Honor Crown them, Fame Applaud them, and Time Reward them with with Antiquity.
+
+[page 457]
+{: descrip}
+
+- Of all my Works, this work which I have Writ,
+- My Best Belov'd and Greatest Favorite,
+- I look upon it with a Pleasing Eye,
+- I Pleasure take in its Sweet Company,
+- I Entertain it with a Grave Respect,
+- And with my Pen am ready to Protect
+- The Life and Safety of it 'gainst all those,
+- That will Oppose it, or Profess it Foes:
+- But I am sure, there's none Condemn it can,
+- Unless some Foolish and Unlearned Man,
+- That hath no Understanding, Judgement, Wit,
+- For to perceive the Reason that's in it.
+{:.poetry}
+
+I find, since I have Read my Book over, I could have Inlarged that Part of my Book, the Treats of Diseases, much to the Advantage; but I must Intreat my Noble Readers to Remember, there are Natural Humors, and Metamorphosed Humors, which are wrought by Several motions, as those of Elements; also that there are Natural Contractions, Attractions, Retentions, Digestions, Dilatations, Expulsions; likewise that there are Unnatural of all these Motions; that is such, as are Proper or Improper to the Natural Health, or Confidence of the Several Parts, and the Generality of the whole Figure; also that the Motions that make the Humor, and the motions that move the Humor, may be quite Different, and some
+
+[page 458]
+{: descrip}
+
+Parts of a Humor may be made by some Sorts of Motions, and some by other Sorts of Motions, where my Discourse of the Motions which make the Elements, will Inlighten the Readers.
+
+[page 459]
+{: descrip}
+
+----
+
+[Newcastle, Ground of Natural Philosophy]
+{: descrip id="newcastle-ground-of-natural-philosophy"}
+
+
+## HIS
+# EXCELLENCY
+## The Lord Marquis of
+# NEWCASTLE
+### His Opinion concerning the Ground of
+## NATURAL PHILOSOPHY
+
+Since now it is A-la-mode to Write of Natural Philosophy, and I know, no body Knows what is the Cause of any thing, and since they are all but Guessers, not Knowing, it gives every Man room to Think what he lists, and so I mean to Set up for my self, and Play at this Philosophical Game as follows, without Patching or Stealing from any Body.
+
+They talk that Motion doth every thing, I grant it, but this Motion must be from Something; They say, This Motion and Spirit was put in at the Creation of the World, I believe it, but still we are to seek what is the Cause of this Motion; Why then, thus for my Opinion
+
+[page 460]
+{: descrip}
+
+*That Salt is the Life that giveth the Motion to all things in the World.* 
+
+Make a Trench in a Garden, and fill it with Manure, and so Plant all manner of Herbs in it, and you shall have More and Better, than if you did not so, and this is Salt and Spirit of Salt, that doth Diffuse and Infuse it self into the Motion of every Kind. 
+
+Again, Graft on a Crab-tree a Hundred Several Fruits, lay Manure or Dung at the Root of it, and you shall have More Fruit and Fairer, and this is Salt in the Manure; and the Spirit of this Salt is so Thin, Peircing, and so Convertible, as it presently Turns into the Several Motions of all these Several Fruits, or else how could it be, being but One thing at the Root of the Tree, that it should Nourish so many Several Fruits, did it not Convert it self into all the Several Kinds of Motion in these Several Fruits? And this is Salt and the Spirit of Salt. 
+
+Then for Husbandry, take all manner of Manure, Horse-dung, Cow-dung, Pigeons-dung, Lime, Chalk, Marl, Burnt Rags, Burnt Earth, Ashes, Stale, lay this upon Ground, and how Fruitful doth it make it, for all manner of Grain and Corn? and all this is but Salt and the Spirit of Salt. 
+
+Now we must Consider, that Salt is Fire, every Body Feeleth how Hot Dung is, and every Body Sees what a Heat comes from it by the Smoak, which shews it to be that we call Fire, which is a Great Heat; now few Motions but
+
+[page 461]
+{: descrip}
+
+are made by Heat, and this is the Life of the World, and makes Motion, for without this it is Dead, *Terra Damnata*, and all this is but Salt and the Spirit of Salt. 
+
+Some say, Wind makes Motion, Wind is Thick Air, and I conceive, all Air is but a Thin Salt, a Salt-petre. Dr. *Payn* was a Good Philosopher, and a Witty Man, and he said, that he was of my Opinion that all Air was but a Thin Salt. 
+
+Again, Ice is made of Salt, for who knows not, that put Snow and Salt in a Pot and stir it by the Fire, and it becomes Ice? this is Salt. 
+
+Again, Ice is made of Salt, for who knows not, that put Snow and Salt in a Pot and stir it by the Fire, and it becomes Ice? this is Salt.
+
+The World is nothing but Salt, and that Salt is the Ground of every thing, Life and Motion. 
+
+The Chymists say well, that the World is made of Salt, Sulphur, and Mercury, but in Vegetables they take the Oily part to be Sulphur, which is not Brimstone, and the Watery part to be Mercury, which is not Quick-silver, but Salt they find plainly Salt. 
+
+All Animals, Vegetables, and Minerals, have all their Being from Salt, Man's Excrements, Salt; Man's Urine, Salt; Man's Blood, Salt; and there is no Doubt, but that, which is Life and Motion in Man, is his Heart, and there is the Fire, and so the Heart certainly is the Receptacle of Salt. For Vegetables, I have proved sufficiently all their Production to be by Manure, which is Salt and the Spirit of Salt. Now for Minerals, there is no Chymist, but can 
+
+[page 462]
+{: descrip}
+
+draw you Salt out of any Mineral, and that which they subsist most of is Salt. And all things either Alive or Dead, or any thing that is a Substance, Chymists can still get Salt out of them; Therefore all is Salt, which is the Life of all things. Now there is Volatile Salt and Fixed Salt, that is, the Volatile Flies away, and the Fixed Salt remains, but I am confident a greater Fire, as a Furnace, would turn all your Fix'd Salt to be Volatile.
+
+For the Sea, every one Confesses and Knows, there is a great deal of Salt in it, and that makes it look Green as Grass, as Trees, and the like; and I am confident, that this Salt in the Sea is the cause of the Ebbing and Flowing, and not the Moon; The Motion of the Ebbing and Flowing, as my Wife says, is so Rational, as truly I believe it, and is thus: When it Flows it is Half circle, and Convex, where it Flows, one Wave overtaking another, before, and Concave behind, and when there is no more Force of Water left behind to Thrust it forward, then all the Weight being Before, and nothing Behind, then that Weight Presses it back again, and then the Half circle is altered, for what was Convex before is now Concave, and what was Concave is now Convex in this Retrait; but as it Flows to us, it Ebbs in some other Place, so that it keeps the Figure still, where it Flows, and where it Ebbs, that is, where it Flows it is Convex, and where it Ebbs it is Concave, and this is Rational enough.
+
+[page 463]
+{: descrip}
+
+Now for the Sun, what that is, I may Guess as well as any, since no body tells what it is, onely *Kepler* says, it is the Hardest Body in the World, Inflamed, and I believe that, but he doth not tell what Stuff it is made of; Other New Philosophers will have it a Flame, and nothing else, which is Impossible, for there is no Flame but hath something to Maintain it, or else it must go out; no Flame of a Candle but hath a Wick and Tallow to Maintain it; no Lamp, but hath a Wick and Oil to maintain it; no Fire, the greatest Flame, but hath Fuel to Maintain it; The Sun, no doubt, is a great Fire, and must have something to Maintain it; But before I deliver my Opinion to you, I desire leave to make you a little Relation, and it is this: Dr. *Payn*, a Divine, and my Chaplain, who had a very Witty Searching Brain of his own, being at my House at *Bolsover*, lock'd up with me in a Chamber, to make *Lapis Prunellae*, which is Salt-petre and Brimstone Inflamed, looking at it a while, I said, Mark it, Mr. *Payn*, the Flame is Pale, like the Sun, and hath a Violent Motion in it like the Sun; saith he, It hath so, and more to Confirm you, says he, look what abundance of little Suns, Round like a Globe, appear to us every where, just the same Motion as the Sun makes in every one's Eyes: So we concluded, the Sun could be nothing else but a very Solid Body of Salt and Sulphur, Inflamed by his own Violent motion upon his own Axis; and as he Shoots out Beams of Comfortable 
+
+[page 464]
+{: descrip}
+
+Salt, to Inliven every thing, so he Draws Proportionably from every thing, which keeps him at one Constant Being, like the Sea, whose Vapors are Drawn up and Fall down Equally, and so can be neither Bigger nor Less, for it is not the Banks that can keep it in, but wheresoever it Overflows, it Loseth as much in some Part of the World.
+
+The Sun is Pure without any other Mixture, but what I have spoken of; they talk of a Fire in the Earth, and a Sun in the Earth, which I believe is Salt, but mingled with the Gross Body of the Earth, which the Sun is not, but of the Purest Matter.
+
+I confess, that I am apt to believe with *Galileo*, that all the Planets are Worlds, and am also of *Copernicus*'s Opinion, that the Sun Stands still, and the Earth goeth about, and I believe all the Fixed Stars are Suns, for they have the same Twinckling motion in them that the Sun hath, which the Planets have not, but a Second Light, and no doubt but there are many Planets about those Fixed Stars, which I think are all Suns.
+
+This is my Opinion, which I think can as hardly be Disproved as Proved, since any Opinion may be Right or Wrong, for any thing that any body knows, for certainly there is none can make a Mathematical Demonstration of Natural Philosophy, and so I leave it to the Mercy of my Readers.
+
+W. Newcastle.
+
+----
 
 [Footnotes]
 {: descrip id="footnotes"}
@@ -3202,3 +4573,13 @@ open by the Extenuating motions, they Cause the Body to Starve, by giving Passag
 [^6-13]: Cavendish's correction: of the
 [^6-14]: Cavendish's correction: Stop
 [^6-15]: Cavendish's correction.
+[^7-01]: Cavendish's correction.
+[^7-02]: Cavendish's correction: in
+[^7-03]: Cavendish's correction: in
+[^7-04]: Cavendish's correction: insert "breaks"
+[^7-05]: Cavendish's correction.
+[^7-06]: Cavendish's correction.
+[^7-07]: Cavendish's correction: to
+[^7-08]: Cavendish's correction: are
+[^7-09]: Cavendish's correction: and
+[^7-10]: Cavendish's correction: and
