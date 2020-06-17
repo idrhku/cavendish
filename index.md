@@ -12,15 +12,8 @@ This open access, searchable version of Margaret Cavendish's 1663 edition of *Ph
   <h2>Site Contents</h2>
   <ul class="texts">
     <li class="text-title"><a href="./about">About the Project</a></li>
-  {% for item in site.texts %}
-  
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  <li class="text-title"><a href="./chapter-list">Chapter Index</a></li>
+    <li class="text-title"><a href="./texts/philosophical-and-physical-opinions">The Full Text</a></li>
+  <li class="text-title"><a href="./chapter-index">Chapter Index</a></li>
   </ul>
 </div>
 
