@@ -187,7 +187,7 @@ title: Chapter Index
 [Chapter 51: *Of the Local motions of Water, Air, and Fire*](../texts/philosophical-and-physical-opinions/#chap5-LI) | ibid.
 [Chapter 52: *Of the Motions of the Sun and Planets*](../texts/philosophical-and-physical-opinions/#chap5-LII) | 235
 [Chapter 53: *All Heat is not only Inherent in the Sun*](../texts/philosophical-and-physical-opinions/#chap5-LIII) | 236
-[Chapter 54: *Of the Sun*](../texts/philosophical-and-physical-opinions/#chap5-LIV) | 337
+[Chapter 54: *Of the Sun*](../texts/philosophical-and-physical-opinions/#chap5-LIV) | 237
 [Chapter 55: *Of the Moon*](../texts/philosophical-and-physical-opinions/#chap5-LV) | 239
 [Chapter 56: *Of the Planets*](../texts/philosophical-and-physical-opinions/#chap5-LVI) | 241
 [Chapter 57: *All Creatures are Intermixed or Joyned or Have Commerce with each other*](../texts/philosophical-and-physical-opinions/#chap5-LVII) | 242
