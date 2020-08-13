@@ -351,10 +351,11 @@ h3.masthead-title {
 /* Sidebar content*/
 .sidebar {
   background-color: $link-color;
+  font-weight: bold;
 }
 
 .sidebar a {
-  font-weight: normal;
+  font-weight: bold;
   color: #fff;
 }
 
