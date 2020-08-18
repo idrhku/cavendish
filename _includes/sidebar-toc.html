@@ -18,6 +18,12 @@
     {% for node in page.toc %}
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slugify }}"> - {{ node }}</a>
     {% endfor %}
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/digital-tools">Digital Tools</a>
+
+    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.creaDigital Toolsnt('script');
+      hypothesis.setAttribute('src','https://hypothes.is/embed.js');
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate this text</a></span>
+
   </nav>
 
   <div class="sidebar-item">

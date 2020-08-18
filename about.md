@@ -9,11 +9,11 @@ title: About
 ## About the Project  
   
 <div style="width: 50%; float: left;"> 
-<a href="{{ site.baseurl }}/assets/images/cavendish-pageimage.jpg"><img src="{{ site.baseurl }}/assets/images/cavendish-pageimage.jpg" width="250" alt="cavendish page image"></a>  
+<a href="{{ site.baseurl }}/assets/images/cavendish-pageimage.jpg"><img src="{{ site.baseurl }}/assets/images/cavendish-pageimage.jpg" height="350" alt="cavendish page image"></a>  
 </div>
 
 <div style="margin-left: 50%;"> 
-<a href="{{ site.baseurl }}/assets/images/transcribathon-flyer.jpg"><img src="{{ site.baseurl }}/assets/images/transcribathon-flyer.jpg" width="250"></a>
+<a href="{{ site.baseurl }}/assets/images/transcribathon-flyer.jpg"><img src="{{ site.baseurl }}/assets/images/transcribathon-flyer.jpg" height="350"></a>
 </div>
 
 Margaret Cavendish (1623-1673) wrote numerous works of philosophy, plays, and poetry, as well as a science fiction work, an autobiography and a biography of her husband. While many of her works are available online, her 1663 edition of *Philosophical and Physical Opinions* has not yet had an open access and easily searchable edition until now. The work is important in that is it a substantial revision of her 1655 edition of *Philosophical and Physical Opinions*. The 1655 edition was a mere 174 pages, while the revised and expanded 1663 edition comes in at 510 pages including the unpaginated prefaces and index.  
@@ -22,10 +22,11 @@ Given the growing interest in Cavendish's philosophical works by  early modern s
     
 In transcribing the text, we decided to ignore most of the elements that were due to features of the printing of the book (such as running headers and hyphenations at the margins, catch words were ignored except when hyphenated), but the one feature of the book we did maintain was the pagination as this is valuable to scholars and students. We maintained the features of the text as written by Cavendish in that we followed Cavendish's spelling, capitalization, and punctuation.  We added notes to document Cavendish's corrections in the text as noted in the Errata.  
   
-If you have questions or comments about this project, please contact Marcy Lascano at <marcylascano@ku.edu>.  
+**If you have questions or comments about this project, please contact Marcy Lascano at <marcylascano@ku.edu>.**  
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
---- 
+
+---
 
 ## How we did it
 
@@ -48,11 +49,11 @@ We decided to enlist the help of collaborators, both local and around the world,
 [From the Page](https://fromthepage.com/), Brian Rosenblum of the [IDRH](http://idrh.ku.edu) build a simple website to facilitate this process. Participants could select and "check out" a page and type a plain-text transcription following a set of instructions on how to capture and represent abbreviations, chapter headings, page numbers, ligatures, catch words, unclear text, and other elements in the book. On September 27, 2019 we launched the Cavendish Transcribe-a-Thon, open to participants locally at the University of Kansas and online to anyone who wanted to participate. 
 
 <div style="width: 50%; float: left;"> 
-<a href="{{ site.baseurl }}/assets/images/transcribe-screenshot2.jpg"><img src="{{ site.baseurl }}/assets/images/transcribe-screenshot2.jpg" width="250"></a>
+<a href="{{ site.baseurl }}/assets/images/transcribe-screenshot2.jpg"><img src="{{ site.baseurl }}/assets/images/transcribe-screenshot2.jpg" height="250"></a>
 </div>
 
 <div style="margin-left: 50%;"> 
-<a href="{{ site.baseurl }}/assets/images/transcribe-screenshot3.jpg"><img src="{{ site.baseurl }}/assets/images/transcribe-screenshot3.jpg" width="250"></a>
+<a href="{{ site.baseurl }}/assets/images/transcribe-screenshot3.jpg"><img src="{{ site.baseurl }}/assets/images/transcribe-screenshot3.jpg" height="250"></a>
 </div>
 
 About 15 people participated in person over the course the day, sustained by coffee and donuts, and several dozen participants joined online, from Australia to the U.K. to California. Within a week the text was completely transcribed, with contributions by over 70 participants from around the world. All transcribers are listed below.
@@ -65,6 +66,9 @@ Meanwhile, Brian Rosenblum built the website using the [Ed publishing platform](
 
 Conceived and created by [Alex Gil](https://www.elotroalex.com/profile/) at Columbia University, Ed is designed to be a low-cost but highly functional platform that enables the kind of text recovery work undertaken here in the Cavendish project. 
 
+### Plain text, github project, and digital tools
+
+The markdown-structured plain text, and the entire Ed/Jekyll projects files, are available on the [digital tools]({{ site.baseurl }}/digital-tools.md) page of this website, along with some links to web-based tools for visualization, analysis, and annotation.
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>  
 ---
