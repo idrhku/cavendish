@@ -19,6 +19,6 @@ Feel free to change the height and width values or other styling below: -->
 
 
 
-<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?stopList=keywords-7570f5a15552f80d7c591e3f260b252c&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=175d0aa6aaf3c61bf8029646a5d2c37a'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?corpus=175d0aa6aaf3c61bf8029646a5d2c37a'></iframe>
 
 * [Lexos](http://lexos.wheatoncollege.edu)
