@@ -16,6 +16,6 @@ This page contains some links and resources for analyzing, visualizing or otherw
 
 * [View and analyze the text in Voyant Tools](https://voyant-tools.org/?corpus=175d0aa6aaf3c61bf8029646a5d2c37a&stopList=keywords-7570f5a15552f80d7c591e3f260b252c&panels=cirrus,reader,trends,summary,contexts)
 
-* [Analyze the text usingdd Lexos](http://lexos.wheatoncollege.edu)
+* [Analyze the text using Lexos](http://lexos.wheatoncollege.edu)
 
 * [Annotate the text in your web browser using Hypothesis](https://web.hypothes.is)
